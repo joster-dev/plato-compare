@@ -1,0 +1,38 @@
+<header>
+  <h2>Laches</h2>
+  <div>
+    <button
+      title="Previous Translation"
+      [disabled]="selectedTranslation === 0"
+      (click)="selectedTranslation = selectedTranslation - 1"
+    >
+      Prev
+    </button>
+    <button
+      title="Next Translation"
+      [disabled]="selectedTranslation === translations.length - 1"
+      (click)="selectedTranslation = selectedTranslation + 1"
+    >
+      Next
+    </button>
+  </div>
+</header>
+
+<div class="translation-container">
+  <article
+    *ngFor="let translation of translations; let translationIndex = index"
+    [hidden]="selectedTranslation !== translationIndex"
+  >
+    <section *ngFor="let turn of translation; let turnIndex = index">
+      <span [class.highlight]="turnIndex === selectedTurn">
+        <i><b>{{turn.character}}.</b></i>
+      </span>
+      <span
+        *ngFor="let phrase of turn.speech; let phraseIndex = index"
+        [class.highlight]="turnIndex === selectedTurn && phraseIndex === selectedPhrase"
+      >
+        {{phrase}}
+      </span>
+    </section>
+  </article>
+</div>
