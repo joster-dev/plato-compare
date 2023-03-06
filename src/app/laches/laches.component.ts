@@ -43,11 +43,13 @@ export class LachesComponent {
       }
     }
     if (event.code === 'ArrowRight') {
+      event.preventDefault();
       if (this.selectedTranslation < this.translations.length - 1) {
         this.selectedTranslation = this.selectedTranslation + 1;
       }
     }
     if (event.code === 'ArrowLeft') {
+      event.preventDefault();
       if (this.selectedTranslation > 0) {
         this.selectedTranslation = this.selectedTranslation - 1;
       }
