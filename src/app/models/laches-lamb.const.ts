@@ -60,4 +60,1008 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
       `and then he is always spending his time wherever there is any such excellent study or pursuit for young men as you are seeking.`,
     ],
   },
+  {
+    character: LachesCharacter.Lysimachus,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Lysimachus,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.LysimachusSon,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Lysimachus,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Lysimachus,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Lysimachus,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Lysimachus,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Melisias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Melisias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Melisias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Melisias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Melisias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Melisias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Melisias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Lysimachus,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Lysimachus,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Lysimachus,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Laches,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Nicias,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Lysimachus,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Lysimachus,
+    speech: [],
+  },
+  {
+    character: LachesCharacter.Socrates,
+    speech: [],
+  },
 ]
