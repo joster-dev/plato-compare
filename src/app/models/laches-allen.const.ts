@@ -1009,9 +1009,9 @@ export const LachesAllen: Turn<LachesCharacter>[] = [
     ],
   },
   {
-    character: LachesCharacter.Socrates,
+    character: LachesCharacter.Nicias,
     speech: [
-      `Nicias I say it's this, Laches: knowledge of what things to fear and what to be confident about, both in war and everything else.`,
+      `I say it's this, Laches: knowledge of what things to fear and what to be confident about, both in war and everything else.`,
     ],
   },
   {
