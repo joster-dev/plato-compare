@@ -243,7 +243,9 @@ export const LachesAllen: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Would you do this too, Melesias? If you took counsel about how your son should exercise for a contest, would you be persuaded by the majority of us, or by that man who'd been exercised and trained by a good trainer?`,
+      `Would you do this too, Melesias?`,
+      `If you took counsel about how your son should exercise for a contest, would you be persuaded by the majority of us,`,
+      `or by that man who'd been exercised and trained by a good trainer?`,
     ],
   },
   {
@@ -279,7 +281,11 @@ export const LachesAllen: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `So too now, we should first consider this very thing: whether or not there is someone among us who is skilled in the subject about which we're taking counsel. If there is, we'll be persuaded by him though he be but one and dismiss the rest, but if not, we'll seek someone else. Or do you think it a small thing that you and Lysimachus are risking right now, and not your most important possession? For surely, regardless of whether sons turn out useful or the opposite, the whole house of the father will be governed according to how the children do turn out.`,
+      `So too now, we should first consider this very thing: whether or not there is someone among us who is skilled in the subject about which we're taking counsel.`,
+      `If there is, we'll be persuaded by him though he be but one and dismiss the rest,`,
+      `but if not, we'll seek someone else.`,
+      `Or do you think it a small thing that you and Lysimachus are risking right now, and not your most important possession?`,
+      `For surely, regardless of whether sons turn out useful or the opposite, the whole house of the father will be governed according to how the children do turn out.`,
     ],
   },
   {
@@ -303,7 +309,8 @@ export const LachesAllen: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `How then would we consider what I just mentioned, if we wished to find out who among us is most skilled about a contest? Wouldn't it be one who has learned and practiced, and also had good teachers of it?`,
+      `How then would we consider what I just mentioned, if we wished to find out who among us is most skilled about a contest?`,
+      `Wouldn't it be one who has learned and practiced, and also had good teachers of it?`,
     ],
   },
   {
@@ -327,19 +334,24 @@ export const LachesAllen: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Perhaps it will be more obvious this way. I don't think we agreed at the beginning what we're taking counsel about, in asking who among us is skilled and had teachers for the purpose and who did not.`,
+      `Perhaps it will be more obvious this way.`,
+      `I don't think we agreed at the beginning what we're taking counsel about,`,
+      `in asking who among us is skilled and had teachers for the purpose and who did not.`,
     ],
   },
   {
     character: LachesCharacter.Nicias,
     speech: [
-      `Aren't we considering fighting in armor, Socrates, and whether or not it should be learned by young men?`,
+      `Aren't we considering fighting in armor, Socrates,`,
+      `and whether or not it should be learned by young men?`,
     ],
   },
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Of course, Nicias. But when someone inquires of someone about a drug for the eyes, and whether or not it should be used as a salve, do you think the counsel is then about the drug or about the eyes?`,
+      `Of course, Nicias.`,
+      `But when someone inquires of someone about a drug for the eyes, and whether or not it should be used as a salve,`,
+      `do you think the counsel is then about the drug or about the eyes?`,
     ],
   },
   {
@@ -351,7 +363,8 @@ export const LachesAllen: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `And if someone considers whether or not a bit should be applied to a horse, and when, he's surely taking counsel about the horse and not about the bit?`,
+      `And if someone considers whether or not a bit should be applied to a horse, and when,`,
+      `he's surely taking counsel about the horse and not about the bit?`,
     ],
   },
   {
@@ -363,7 +376,9 @@ export const LachesAllen: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `In a word, then, when someone considers something for the sake of something, the counsel is about that for the sake of which he was considering, but not about what he was seeking for the sake of something else.`,
+      `In a word, then, when someone considers something for the sake of something,`,
+      `the counsel is about that for the sake of which he was considering,`,
+      `but not about what he was seeking for the sake of something else.`,
     ],
   },
   {
@@ -375,7 +390,8 @@ export const LachesAllen: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `So one must also consider the advisor, and ask whether he is expert in serving that for the sake of which we are considering what we are considering.`,
+      `So one must also consider the advisor,`,
+      `and ask whether he is expert in serving that for the sake of which we are considering what we are considering.`,
     ],
   },
   {
@@ -399,7 +415,8 @@ export const LachesAllen: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `So it must be considered whether any of us then is expert in service of soul and able to serve it well, and which of us has had good teachers.`,
+      `So it must be considered whether any of us then is expert in service of soul and able to serve it well,`,
+      `and which of us has had good teachers.`,
     ],
   },
   {

@@ -243,7 +243,9 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `And you too, Melesias, would do the same? Suppose you had a consultation as to what your son's exercise should be for a coming contest, would you be guided by the majority of us, or by the one who happened to have trained and exercised under a good master?`,
+      `And you too, Melesias, would do the same?`,
+      `Suppose you had a consultation as to what your son's exercise should be for a coming contest, would you be guided by the majority of us,`,
+      `or by the one who happened to have trained and exercised under a good master?`,
     ],
   },
   {
@@ -267,7 +269,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Yes, for a question must be decided by know- ledge, and not by numbers, if it is to have a right decision.`,
+      `Yes, for a question must be decided by knowledge, and not by numbers, if it is to have a right decision.`,
     ],
   },
   {
@@ -279,7 +281,11 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Then in this case also we must first consider, in particular, whether anyone among us has expert skill in the subject of our consultation, or not ; and if here is one who has, we must be guided by him, though he be but one, and pass over the rest ; while if there is not, we must look for somebody else. Or do you think it a slight matter that you and Lysimachus have now at stake, and not that which is really your greatest possession? For I take it that according as the sons turn out well or the opposite will the whole life of their father's house be affected, depending for better or worse on their character.`,
+      `Then in this case also we must first consider, in particular, whether anyone among us has expert skill in the subject of our consultation, or not ;`,
+      `and if here is one who has, we must be guided by him, though he be but one, and pass over the rest ;`,
+      `while if there is not, we must look for somebody else.`,
+      `Or do you think it a slight matter that you and Lysimachus have now at stake, and not that which is really your greatest possession?`,
+      `For I take it that according as the sons turn out well or the opposite will the whole life of their father's house be affected, depending for better or worse on their character.`,
     ],
   },
   {
@@ -303,7 +309,8 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `How then—to take the case I suggested just now—should we set to work if we wanted to con- sider which of us was the most expert in regard to a contest? Should we not pick him who had learnt and practiced, and had also had good teachers of this particular skill?`,
+      `How then—to take the case I suggested just now—should we set to work if we wanted to consider which of us was the most expert in regard to a contest?`,
+      `Should we not pick him who had learnt and practiced, and had also had good teachers of this particular skill?`,
     ],
   },
   {
@@ -327,19 +334,24 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Perhaps it will be more easily grasped in this form. I think we have not started with an agreement between us as to what the thing is about which we are consulting, in this question of who among us is an expert and to this end has resorted to teachers, and who not.`,
+      `Perhaps it will be more easily grasped in this form.`,
+      `I think we have not started with an agreement between us as to what the thing is about which we are consulting,`,
+      `in this question of who among us is an expert and to this end has resorted to teachers, and who not.`,
     ],
   },
   {
     character: LachesCharacter.Nicias,
     speech: [
-      `Why, Socrates, is it not fighting in armour that we are considering, and whether it is a thing to be learnt by young men or not?`,
+      `Why, Socrates, is it not fighting in armour that we are considering,`,
+      `and whether it is a thing to be learnt by young men or not?`,
     ],
   },
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Of course, Nicias ; but when someone considers whether a medicine is to be used as an eye- salve or not, do you think that this consultation is about the medicine or about the eyes?`,
+      `Of course, Nicias ;`,
+      `but when someone considers whether a medicine is to be used as an eye-salve or not,`,
+      `do you think that this consultation is about the medicine or about the eyes?`,
     ],
   },
   {
@@ -351,7 +363,8 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `And when one considers whether a horse is to be bridled or not, and at what time, I presume one takes counsel about the horse, and not about the bridle?`,
+      `And when one considers whether a horse is to be bridled or not, and at what time,`,
+      `I presume one takes counsel about the horse, and not about the bridle?`,
     ],
   },
   {
@@ -363,7 +376,9 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `And in a word, when one considers a thing for any purpose, the consulting is in fact about the end one had in view to start with, and not about the means to be used for such end.`,
+      `And in a word, when one considers a thing for any purpose,`,
+      `the consulting is in fact about the end one had in view to start with,`,
+      `and not about the means to be used for such end.`,
     ],
   },
   {
@@ -375,7 +390,8 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `So we must consider ovu: adviser too, and ask ourselves whether he is a skilled expert in the treatment required for the end which is the subject of our consideration.`,
+      `So we must consider our adviser too,`,
+      `and ask ourselves whether he is a skilled expert in the treatment required for the end which is the subject of our consideration.`,
     ],
   },
   {
@@ -399,7 +415,8 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `So what we have to consider is whether one of us is skilled in treatment of the soul, and is able to treat it rightly, and which of us has had good teachers.`,
+      `So what we have to consider is whether one of us is skilled in treatment of the soul, and is able to treat it rightly,`,
+      `and which of us has had good teachers.`,
     ],
   },
   {
