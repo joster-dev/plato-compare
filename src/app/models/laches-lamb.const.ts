@@ -159,7 +159,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Would you be guided by him alone rather than the four of us ?`,
+      `Would you be guided by him alone rather than the four of us?`,
     ],
   },
   {
@@ -183,7 +183,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Then in this case also we must first consider, in particular, whether anyone among us has expert skill in the subject of our consultation, or not ; and if here is one who has, we must be guided by him, though he be but one, and pass over the rest ; while if there is not, we must look for somebody else. Or do you think it a slight matter that you and Lysimachus have now at stake, and not that which is really your greatest possession ? For I take it that according as the sons turn out well or the opposite will the whole life of their father's house be affected, depending for better or worse on their character.`,
+      `Then in this case also we must first consider, in particular, whether anyone among us has expert skill in the subject of our consultation, or not ; and if here is one who has, we must be guided by him, though he be but one, and pass over the rest ; while if there is not, we must look for somebody else. Or do you think it a slight matter that you and Lysimachus have now at stake, and not that which is really your greatest possession? For I take it that according as the sons turn out well or the opposite will the whole life of their father's house be affected, depending for better or worse on their character.`,
     ],
   },
   {
@@ -207,7 +207,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `How then—to take the case I suggested just now—should we set to work if we wanted to con- sider which of us was the most expert in regard to a contest ? Should we not pick him who had learnt and practiced, and had also had good teachers of this particular skill ?`,
+      `How then—to take the case I suggested just now—should we set to work if we wanted to con- sider which of us was the most expert in regard to a contest? Should we not pick him who had learnt and practiced, and had also had good teachers of this particular skill?`,
     ],
   },
   {
@@ -219,13 +219,13 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `And even before that, we should ask what was this skill of which we are looking for the teachers ?`,
+      `And even before that, we should ask what was this skill of which we are looking for the teachers?`,
     ],
   },
   {
     character: LachesCharacter.Melisias,
     speech: [
-      `How do you mean ?`,
+      `How do you mean?`,
     ],
   },
   {
@@ -237,13 +237,13 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Nicias,
     speech: [
-      `Why, Socrates, is it not fighting in armour that we are considering, and whether it is a thing to be learnt by young men or not ?`,
+      `Why, Socrates, is it not fighting in armour that we are considering, and whether it is a thing to be learnt by young men or not?`,
     ],
   },
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Of course, Nicias ; but when someone considers whether a medicine is to be used as an eye- salve or not, do you think that this consultation is about the medicine or about the eyes ?`,
+      `Of course, Nicias ; but when someone considers whether a medicine is to be used as an eye- salve or not, do you think that this consultation is about the medicine or about the eyes?`,
     ],
   },
   {
@@ -255,7 +255,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `And when one considers whether a horse is to be bridled or not, and at what time, I presume one takes counsel about the horse, and not about the bridle ?`,
+      `And when one considers whether a horse is to be bridled or not, and at what time, I presume one takes counsel about the horse, and not about the bridle?`,
     ],
   },
   {
@@ -309,7 +309,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Laches,
     speech: [
-      `But I say, Socrates, have you never noticed how some people have become more skilled in certain things without teachers than others with them ?`,
+      `But I say, Socrates, have you never noticed how some people have become more skilled in certain things without teachers than others with them?`,
     ],
   },
   {
@@ -345,7 +345,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Lysimachus,
     speech: [
-      `How are you so sure of that, Nicias ?`,
+      `How are you so sure of that, Nicias?`,
     ],
   },
   {
@@ -369,13 +369,13 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Lysimachus,
     speech: [
-      `No, but the matter now rests with us, Socrates; for I venture to count you as one of us. So take my place in inquiring on behalf of the young men ; make out what it is that we want our friends here to tell us, and be our adviser by discussing it with them. For I find that o\A'ing to my age I forget the questions I intend to put, and also the answers I receive ; and if the discussion changes in the middle, my memory goes altogether. Do you therefore dis- cuss and elucidate our problem among yourselves ; and I will listen, and then with my friend Melesias I will act at once upon whatever may be your decision.`,
+      `No, but the matter now rests with us, Socrates; for I venture to count you as one of us. So take my place in inquiring on behalf of the young men ; make out what it is that we want our friends here to tell us, and be our adviser by discussing it with them. For I find that owing to my age I forget the questions I intend to put, and also the answers I receive ; and if the discussion changes in the middle, my memory goes altogether. Do you therefore dis- cuss and elucidate our problem among yourselves ; and I will listen, and then with my friend Melesias I will act at once upon whatever may be your decision.`,
     ],
   },
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Let us do, Nicias and Laches, as Lysimachus and Melesias bid us. Now the questions that we attempted to consider a while ago—" Who have been our teachers in this sort of training ? What other persons have we made better?" — are perhaps of a kind on which we might well examine ourselves : but I believe this other way of inquiring leads to the same thing, and will probably also start more from the beginning. For if we happen to know of such and such a thing that by being joined to another thing it makes this thing better, and further, if we are able to get the one joined to the other, we obviously know the thing itself on which we might be consulting as to how it might be best and most easily acquired. Now I daresay you do not grasp my meaning. Well, you will grasp it more easily in this way. If we happen to know that sight joined to eyes makes those eyes the better for it, and further if we are able to get it joined to eyes, we obviously know what this faculty of sight is, on which we might be consulting as to how it might be best and most easily acquired. For if we did not know first of all what sight or hearing is, we should hardly prove ourselves consultants or physicians of credit in the matter of eyes or ears, and the best way of acquiring sight or hearing.`,
+      `Let us do, Nicias and Laches, as Lysimachus and Melesias bid us. Now the questions that we attempted to consider a while ago—" Who have been our teachers in this sort of training? What other persons have we made better?" — are perhaps of a kind on which we might well examine ourselves : but I believe this other way of inquiring leads to the same thing, and will probably also start more from the beginning. For if we happen to know of such and such a thing that by being joined to another thing it makes this thing better, and further, if we are able to get the one joined to the other, we obviously know the thing itself on which we might be consulting as to how it might be best and most easily acquired. Now I daresay you do not grasp my meaning. Well, you will grasp it more easily in this way. If we happen to know that sight joined to eyes makes those eyes the better for it, and further if we are able to get it joined to eyes, we obviously know what this faculty of sight is, on which we might be consulting as to how it might be best and most easily acquired. For if we did not know first of all what sight or hearing is, we should hardly prove ourselves consultants or physicians of credit in the matter of eyes or ears, and the best way of acquiring sight or hearing.`,
     ],
   },
   {
@@ -387,7 +387,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `And you know, Laches, at this moment our two friends are inviting us to a consultation as to the way in which virtue may be joined to their sons' souls, and so make them better ?`,
+      `And you know, Laches, at this moment our two friends are inviting us to a consultation as to the way in which virtue may be joined to their sons' souls, and so make them better?`,
     ],
   },
   {
@@ -399,7 +399,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Then our first requisite is to know what virtue is ? For surely, if we had no idea at all what virtue actually is, we could not possibly consult with any- one as to how he might best acquire it ?`,
+      `Then our first requisite is to know what virtue is? For surely, if we had no idea at all what virtue actually is, we could not possibly consult with any- one as to how he might best acquire it?`,
     ],
   },
   {
@@ -447,7 +447,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Then which of the parts of virtue shall we choose ? Clearly, I think, that which the art of fighting in armour is supposed to promote ; and that, of course, is generally supposed to be courage, is it not ?`,
+      `Then which of the parts of virtue shall we choose? Clearly, I think, that which the art of fighting in armour is supposed to promote ; and that, of course, is generally supposed to be courage, is it not?`,
     ],
   },
   {
@@ -477,7 +477,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Laches,
     speech: [
-      `What do you mean by that, Socrates ?`,
+      `What do you mean by that, Socrates?`,
     ],
   },
   {
@@ -495,13 +495,13 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Yes, and I do too. But what of this other kind of man, who fights the enemy while fleeing, and not staying ?`,
+      `Yes, and I do too. But what of this other kind of man, who fights the enemy while fleeing, and not staying?`,
     ],
   },
   {
     character: LachesCharacter.Laches,
     speech: [
-      `How fleeing ?`,
+      `How fleeing?`,
     ],
   },
   {
@@ -531,7 +531,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `And so this is what I meant just now by saying that I was to blame for your wrong answer, by putting my question wrongly. For I wanted to have your \iew not only of brave men-at-arms, but also of courage in cavalry and in the entire warrior class ; and of the courageous not only in war but in the perils of the sea, and all who in disease and poverty, or again in pubUc affairs, are courageous ; and further, all who are not merely courageous against pain or fear, but doughty fighters against desires and pleasures, whether standing their ground or turning back upon the foe—for I take it. Laches, there are courageous people in all these kinds.`,
+      `And so this is what I meant just now by saying that I was to blame for your wrong answer, by putting my question wrongly. For I wanted to have your view not only of brave men-at-arms, but also of courage in cavalry and in the entire warrior class ; and of the courageous not only in war but in the perils of the sea, and all who in disease and poverty, or again in pubUc affairs, are courageous ; and further, all who are not merely courageous against pain or fear, but doughty fighters against desires and pleasures, whether standing their ground or turning back upon the foe—for I take it. Laches, there are courageous people in all these kinds.`,
     ],
   },
   {
@@ -555,7 +555,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `What either of them is—that is what I wanted to know. So try again, and tell me first what is this thing, courage, which is the same in all of these cases ; or do you still not comprehend my meaning ?`,
+      `What either of them is—that is what I wanted to know. So try again, and tell me first what is this thing, courage, which is the same in all of these cases ; or do you still not comprehend my meaning?`,
     ],
   },
   {
@@ -567,7 +567,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `I mean in this way : suppose, for instance, 1 were asking you what is quickness, as we find it in running and harping, in speaking and learning, and in many other activities, and as possessed by us practically in any action worth mentioning, whether of arms or legs, or mouth or voice, or mind : or do you not use the word so ?`,
+      `I mean in this way : suppose, for instance, 1 were asking you what is quickness, as we find it in running and harping, in speaking and learning, and in many other activities, and as possessed by us practically in any action worth mentioning, whether of arms or legs, or mouth or voice, or mind : or do you not use the word so?`,
     ],
   },
   {
@@ -579,7 +579,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Well then, suppose someone asked me : Socrates, what do you mean by this thing which in all cases you term quickness ? My reply would be : The faculty that gets a great deal done in a little time is what I call quickness, whether in a voice or in a race or in any of the other instances.`,
+      `Well then, suppose someone asked me : Socrates, what do you mean by this thing which in all cases you term quickness? My reply would be : The faculty that gets a great deal done in a little time is what I call quickness, whether in a voice or in a race or in any of the other instances.`,
     ],
   },
   {
@@ -591,7 +591,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `So now try and tell me on your part, Laches, about courage in the same way : what faculty is it, the same whether in pleasure or in pain or in any of the things in which we said just now it was to be found, that has been singled out by the name of courage ?`,
+      `So now try and tell me on your part, Laches, about courage in the same way : what faculty is it, the same whether in pleasure or in pain or in any of the things in which we said just now it was to be found, that has been singled out by the name of courage?`,
     ],
   },
   {
@@ -615,7 +615,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `And endurance joined with wisdom is noble and good ?`,
+      `And endurance joined with wisdom is noble and good?`,
     ],
   },
   {
@@ -627,7 +627,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `But what of it when joined with folly ? Is it not, on the contrary, hurtful and mischievous ?`,
+      `But what of it when joined with folly? Is it not, on the contrary, hurtful and mischievous?`,
     ],
   },
   {
@@ -639,7 +639,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `And can you say that such a thing is noble, when it is both mischievous and hurtful ?`,
+      `And can you say that such a thing is noble, when it is both mischievous and hurtful?`,
     ],
   },
   {
@@ -675,7 +675,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Now let us see in what it is wise. In all things, whether great or small ? For instance, if a man endures in spending money wisely, because he knows that by spending he will gain more, would you call him courageous?`,
+      `Now let us see in what it is wise. In all things, whether great or small? For instance, if a man endures in spending money wisely, because he knows that by spending he will gain more, would you call him courageous?`,
     ],
   },
   {
@@ -699,7 +699,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Well now, when a man endures in war, and is willing to fight, on a wise calculation whereby he knows that others will come to his aid, and that the forces against him will be fewer and feebler than those who are wth him, and when he has besides the advantage of position,—would you say of this man, if he endures with such wisdom and preparation, that he, or a man in the opposing army who is wilUng to stand up against him and endure, is the more courageous ?`,
+      `Well now, when a man endures in war, and is willing to fight, on a wise calculation whereby he knows that others will come to his aid, and that the forces against him will be fewer and feebler than those who are wth him, and when he has besides the advantage of position,—would you say of this man, if he endures with such wisdom and preparation, that he, or a man in the opposing army who is wilUng to stand up against him and endure, is the more courageous?`,
     ],
   },
   {
@@ -753,7 +753,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Laches,
     speech: [
-      `Yes, for what else can one say, Socrates ?`,
+      `Yes, for what else can one say, Socrates?`,
     ],
   },
   {
@@ -783,7 +783,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Now, we found before that foolish boldness and endurance are base and hurtful ?`,
+      `Now, we found before that foolish boldness and endurance are base and hurtful?`,
     ],
   },
   {
@@ -819,7 +819,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Then do you think our statement is correct ?`,
+      `Then do you think our statement is correct?`,
     ],
   },
   {
@@ -843,7 +843,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Well now, does it seem right that we should be in such a condition ?`,
+      `Well now, does it seem right that we should be in such a condition?`,
     ],
   },
   {
@@ -855,13 +855,13 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Then do you mind if we accept our statement to a certain point ?`,
+      `Then do you mind if we accept our statement to a certain point?`,
     ],
   },
   {
     character: LachesCharacter.Laches,
     speech: [
-      `To what point do you mean, and what statement ?`,
+      `To what point do you mean, and what statement?`,
     ],
   },
   {
@@ -891,7 +891,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Then do you agree to our inviting Nicias here to join. in our hunt ? He may be more resourceful than we are.`,
+      `Then do you agree to our inviting Nicias here to join. in our hunt? He may be more resourceful than we are.`,
     ],
   },
   {
@@ -915,7 +915,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `What is that, Nicias ?`,
+      `What is that, Nicias?`,
     ],
   },
   {
@@ -939,7 +939,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Do you hear him. Laches ?`,
+      `Do you hear him. Laches?`,
     ],
   },
   {
@@ -957,7 +957,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Laches,
     speech: [
-      `What kind of wisdom, Socrates ?`,
+      `What kind of wisdom, Socrates?`,
     ],
   },
   {
@@ -999,7 +999,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `But what is this knowledge then, or of what ?`,
+      `But what is this knowledge then, or of what?`,
     ],
   },
   {
@@ -1023,13 +1023,13 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `What is it that makes you say that, Laches ?`,
+      `What is it that makes you say that, Laches?`,
     ],
   },
   {
     character: LachesCharacter.Laches,
     speech: [
-      `What is it ? Why, surely wisdom is distinct from courage.`,
+      `What is it? Why, surely wisdom is distinct from courage.`,
     ],
   },
   {
@@ -1059,7 +1059,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Laches,
     speech: [
-      `Quite so, Nicias, and I will try to make it evident. You are talking nonsense : for instance, do not doctors know what is to be dreaded in dis-ease ? Or do you suppose that the courageous know this ? Or do you call doctors courageous ?`,
+      `Quite so, Nicias, and I will try to make it evident. You are talking nonsense : for instance, do not doctors know what is to be dreaded in dis-ease? Or do you suppose that the courageous know this? Or do you call doctors courageous?`,
     ],
   },
   {
@@ -1077,7 +1077,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `What is Laches saying, in your opinion, Nicias ? There does seem to be something in it.`,
+      `What is Laches saying, in your opinion, Nicias? There does seem to be something in it.`,
     ],
   },
   {
@@ -1095,7 +1095,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Nicias,
     speech: [
-      `Because he thinks that doctors know some- thing more, in treating sick persons, than how to tell what is healthy and what diseased. This, I imagine, is all that they know : but to tell whether health itself is to be dreaded by anyone rather than sickness,— do you suppose. Laches, that this is within a doctor's knowledge ? Do you not think that for many it is better that they should never arise from their bed of sickness ? Pray tell me, do you say that in every case it is better to Uve ? Is it not often preferable to be dead ?`,
+      `Because he thinks that doctors know some- thing more, in treating sick persons, than how to tell what is healthy and what diseased. This, I imagine, is all that they know : but to tell whether health itself is to be dreaded by anyone rather than sickness,— do you suppose. Laches, that this is within a doctor's knowledge? Do you not think that for many it is better that they should never arise from their bed of sickness? Pray tell me, do you say that in every case it is better to Uve? Is it not often preferable to be dead?`,
     ],
   },
   {
@@ -1119,25 +1119,25 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Nicias,
     speech: [
-      `Well, do you attribute the judgement of this matter to doctors or to any other skilled worker except him who has knowledge of what is to be dreaded and what is not — the man whom I call courageous ?`,
+      `Well, do you attribute the judgement of this matter to doctors or to any other skilled worker except him who has knowledge of what is to be dreaded and what is not — the man whom I call courageous?`,
     ],
   },
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Do you comprehend his meaning, Laches ?`,
+      `Do you comprehend his meaning, Laches?`,
     ],
   },
   {
     character: LachesCharacter.Laches,
     speech: [
-      `I do : it seems to be the seers whom he calls the courageous : for who else can know for which of us it is better to be aUve than dead ? And yet, Nicias, do you avow yourself to be a seer, or to be neither a seer nor courageous ?`,
+      `I do : it seems to be the seers whom he calls the courageous : for who else can know for which of us it is better to be aUve than dead? And yet, Nicias, do you avow yourself to be a seer, or to be neither a seer nor courageous?`,
     ],
   },
   {
     character: LachesCharacter.Nicias,
     speech: [
-      `What ! Is it now a seer, think you, who has the gift of judging what is to be dreaded and what to be dared ?`,
+      `What ! Is it now a seer, think you, who has the gift of judging what is to be dreaded and what to be dared?`,
     ],
   },
   {
@@ -1155,7 +1155,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Laches,
     speech: [
-      `Well, I fail to follow him, Socrates, or to see what he is driving at ; for he points out that neither a seer nor a doctor nor anybody else is the man he refers to as the courageous, unless perchance he means it is some god. Now it appears to me that Nicias is unwilling to admit honestly that he has no meaning at all, but dodges this way and that in the hope of conceahng his own perplexity. Why, you and I could have dodged in the same way just now, if we wished to avoid the appearance of contra- dicting ourselves. Of course, if we were arguing in a law-court, there would be some reason for so doing ; but here, in a meeting like this of ours, why waste time in adorning oneself with empty words ?`,
+      `Well, I fail to follow him, Socrates, or to see what he is driving at ; for he points out that neither a seer nor a doctor nor anybody else is the man he refers to as the courageous, unless perchance he means it is some god. Now it appears to me that Nicias is unwilling to admit honestly that he has no meaning at all, but dodges this way and that in the hope of conceahng his own perplexity. Why, you and I could have dodged in the same way just now, if we wished to avoid the appearance of contra- dicting ourselves. Of course, if we were arguing in a law-court, there would be some reason for so doing ; but here, in a meeting like this of ours, why waste time in adorning oneself with empty words?`,
     ],
   },
   {
@@ -1185,7 +1185,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Now tell me, Nicias, or rather, tell us—for Laches and I are sharing the argument between us — do you say that courage is knowledge of what is to be dreaded or dared ?`,
+      `Now tell me, Nicias, or rather, tell us—for Laches and I are sharing the argument between us — do you say that courage is knowledge of what is to be dreaded or dared?`,
     ],
   },
   {
@@ -1197,7 +1197,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `And that it is not every man that knows it, since neither a doctor nor a seer can know it, and cannot be courageous unless he add this particular knowledge to his own ? This was your statement, was it not ?`,
+      `And that it is not every man that knows it, since neither a doctor nor a seer can know it, and cannot be courageous unless he add this particular knowledge to his own? This was your statement, was it not?`,
     ],
   },
   {
@@ -1293,7 +1293,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Indeed I do. Now, Nicias, please go back to the beginning and answer us : you know we started our discussion by considering courage as a part of virtue ?`,
+      `Indeed I do. Now, Nicias, please go back to the beginning and answer us : you know we started our discussion by considering courage as a part of virtue?`,
     ],
   },
   {
@@ -1317,7 +1317,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Now, do you mean the same as I do by these ? Besides courage, I refer to temperance, justice, and other similar qualities. And you also, do you not ?`,
+      `Now, do you mean the same as I do by these? Besides courage, I refer to temperance, justice, and other similar qualities. And you also, do you not?`,
     ],
   },
   {
@@ -1329,7 +1329,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `So much for that ; thus far we agree : but let us pass on to what is to be dreaded and what to be dared, and make sure that you and we do not take two different views of these. Let me tell you our view of them, and if you do not agree with it, you shall instruct us. We hold that the dreadful are things that cause fear, and the safely ventured are those that do not ; and fear is caused not by past or present, but by expected evils : for fear is ex- pectation of coming evil. You are of the same mind with us in this, are you not, Laches ?`,
+      `So much for that ; thus far we agree : but let us pass on to what is to be dreaded and what to be dared, and make sure that you and we do not take two different views of these. Let me tell you our view of them, and if you do not agree with it, you shall instruct us. We hold that the dreadful are things that cause fear, and the safely ventured are those that do not ; and fear is caused not by past or present, but by expected evils : for fear is ex- pectation of coming evil. You are of the same mind with us in this, are you not, Laches?`,
     ],
   },
   {
@@ -1341,7 +1341,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `So there you have our view, Nicias,—that coming evils are to be dreaded, and things not evil, or good things, that are to come are to be safely dared. Would you describe them in this way, or in some other ?`,
+      `So there you have our view, Nicias,—that coming evils are to be dreaded, and things not evil, or good things, that are to come are to be safely dared. Would you describe them in this way, or in some other?`,
     ],
   },
   {
@@ -1353,7 +1353,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `And the knowledge of these things is what you term courage ?`,
+      `And the knowledge of these things is what you term courage?`,
     ],
   },
   {
@@ -1371,13 +1371,13 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Nicias,
     speech: [
-      `What point is that ?`,
+      `What point is that?`,
     ],
   },
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `I will tell you. It seems to your friend and me that, to take the various subjects of knowledge, there is not one knowledge of how a thing has happened in the past, another of how things are happening in the present, and another of how a thing that has not yet happened might or will happen most favourably in the future, but it is the same knowledge throughout. For example, in the case of health, it is medicine always and alone that surveys present, past, and future processes alike ; and farming is in the same position as regards the productions of the earth. And in matters of war I am sure you yourselves will bear me out when I say that here generalship makes the best forecasts on the whole, and particularly of future results, and is the mistress rather than the servant of the seer's art, because it knows better what is happening or about to happen in the operations of war ; whence the law ordains that the general shall give orders to the seer, and not the seer to the general. May we say this, Laches ?`,
+      `I will tell you. It seems to your friend and me that, to take the various subjects of knowledge, there is not one knowledge of how a thing has happened in the past, another of how things are happening in the present, and another of how a thing that has not yet happened might or will happen most favourably in the future, but it is the same knowledge throughout. For example, in the case of health, it is medicine always and alone that surveys present, past, and future processes alike ; and farming is in the same position as regards the productions of the earth. And in matters of war I am sure you yourselves will bear me out when I say that here generalship makes the best forecasts on the whole, and particularly of future results, and is the mistress rather than the servant of the seer's art, because it knows better what is happening or about to happen in the operations of war ; whence the law ordains that the general shall give orders to the seer, and not the seer to the general. May we say this, Laches?`,
     ],
   },
   {
@@ -1389,7 +1389,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Well now, do you agree with us, Nicias, that the same knowledge has comprehension of the same things, whether future, present, or past ?`,
+      `Well now, do you agree with us, Nicias, that the same knowledge has comprehension of the same things, whether future, present, or past?`,
     ],
   },
   {
@@ -1401,7 +1401,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `And courage, my good friend, is knowledge of what is to be dreaded and dared, as you say, do you not ?`,
+      `And courage, my good friend, is knowledge of what is to be dreaded and dared, as you say, do you not?`,
     ],
   },
   {
@@ -1413,7 +1413,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `And things to be dreaded and things to be dared have been admitted to be either future goods or future evils ?`,
+      `And things to be dreaded and things to be dared have been admitted to be either future goods or future evils?`,
     ],
   },
   {
@@ -1425,7 +1425,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `And the same knowledge is concerned with the same things, whether in the future or in any particular stage ?`,
+      `And the same knowledge is concerned with the same things, whether in the future or in any particular stage?`,
     ],
   },
   {
@@ -1449,7 +1449,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `So the answer that you gave us, Nicias, covers only about a third part of courage ; whereas our question was of what courage is as a whole. And now it appears, on your own showing, that courage is knowledge not merely of what is to be dreaded and what dared, but practically a knowledge con- cerning all goods and evils at every stage ; such is your present account of what courage must be. VVhat do you say to this new version, Nicias ?`,
+      `So the answer that you gave us, Nicias, covers only about a third part of courage ; whereas our question was of what courage is as a whole. And now it appears, on your own showing, that courage is knowledge not merely of what is to be dreaded and what dared, but practically a knowledge con- cerning all goods and evils at every stage ; such is your present account of what courage must be. VVhat do you say to this new version, Nicias?`,
     ],
   },
   {
@@ -1461,7 +1461,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Now do you think, my excellent friend, there could be anything wanting to the \'irtue of a man who knew all good things, and all about their pro- duction in the present, the future, and the past, and all about evil things likewise ? Do you suppose that such a man could be lacking in temperance, or justice, and holiness, when he alone has the gift of taking due precaution, in his deaUngs with gods and men, as regards what is to be dreaded and what is not, and of procuring good things, owing to his knowledge of the right behaviour towards them ?`,
+      `Now do you think, my excellent friend, there could be anything wanting to the \'irtue of a man who knew all good things, and all about their pro- duction in the present, the future, and the past, and all about evil things likewise? Do you suppose that such a man could be lacking in temperance, or justice, and holiness, when he alone has the gift of taking due precaution, in his deaUngs with gods and men, as regards what is to be dreaded and what is not, and of procuring good things, owing to his knowledge of the right behaviour towards them?`,
     ],
   },
   {
@@ -1545,13 +1545,13 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Lysimachus,
     speech: [
-      `It is only right that he should, Nicias, for indeed I would be willing to do many things for him which I would not do for a great many others. Well, what do you say, Socrates ? Will you comply, and lend your endeavours for the highest improvement of these boys ?`,
+      `It is only right that he should, Nicias, for indeed I would be willing to do many things for him which I would not do for a great many others. Well, what do you say, Socrates? Will you comply, and lend your endeavours for the highest improvement of these boys?`,
     ],
   },
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Why, how strange it would be, Lysimachus, to refuse to lend one's endeavours for the highest improvement of anybody ! Now if in the debates that we have just held I had been found to know what our two friends did not know, it would be right to make a point of inviting me to take up this work : but as it is, we have all got into the same difficulty, so why should one of us be preferred to another ? In my ovvn opinion, none of us should ; and this being so, perhaps you vvill allow me to give you a piece of advice. I tell you, gentlemen—and this is confidential—that we ought all alike to seek out the best teacher we can find, firet for ourselves—for we need one—and then for our boys, sparing neither expense nor anything else we can do : but to leave ourselves as we now are, this I do not advise. And if anyone makes fun of us for seeing fit to go to school at our time of life, I think we should appeal to Homer, who said that " shame is no good mate for a needy man." So let us not mind what anyone may say, but join together in arranging for our own and the boys' tuition.`,
+      `Why, how strange it would be, Lysimachus, to refuse to lend one's endeavours for the highest improvement of anybody ! Now if in the debates that we have just held I had been found to know what our two friends did not know, it would be right to make a point of inviting me to take up this work : but as it is, we have all got into the same difficulty, so why should one of us be preferred to another? In my ovvn opinion, none of us should ; and this being so, perhaps you vvill allow me to give you a piece of advice. I tell you, gentlemen—and this is confidential—that we ought all alike to seek out the best teacher we can find, firet for ourselves—for we need one—and then for our boys, sparing neither expense nor anything else we can do : but to leave ourselves as we now are, this I do not advise. And if anyone makes fun of us for seeing fit to go to school at our time of life, I think we should appeal to Homer, who said that " shame is no good mate for a needy man." So let us not mind what anyone may say, but join together in arranging for our own and the boys' tuition.`,
     ],
   },
   {
