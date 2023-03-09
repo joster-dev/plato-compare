@@ -428,7 +428,8 @@ export const LachesAllen: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `Yes, Laches, I have. But if they claimed to be good craftsmen, you surely wouldn't put trust in them unless they could show you some well-wrought work of their art—one, and more than one.`,
+      `Yes, Laches, I have. But if they claimed to be good craftsmen,`,
+      `you surely wouldn't put trust in them unless they could show you some well-wrought work of their art—one, and more than one.`,
     ],
   },
   {
@@ -440,7 +441,26 @@ export const LachesAllen: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Socrates,
     speech: [
-      `And so we also, Laches and Nicias-since Lysimachus and Melesias have summoned us into counsel about their two sons, eager that their souls become as good as possible-s-we also should show them who our teachers have been, if we claim we have them, teachers who, first, were good themselves and served the souls of many young people, and next, manifestly taught us. Or if any among us claims he did not have a teacher but all the same has works of his own, then he should speak and point out which Athenian or foreigner, freeman or slave, has acknowledgedly become better through him. But if neither is true of us, we should bid them seek out others, and simply not corrupt the sons of our comrades and risk incurring the most serious of charges from their closest relations. Well, to speak first for myself, Melesias and Lysimachus, I say I have not had a teacher in this; and yet, I've desired the thing from my youth. But I can't afford the fees of the sophists, who alone announced that they could make me noble and good, and on the other hand, I'm incapable even now of discovering the art myself. But I wouldn't be surprised if Nicias or Laches has discovered or learned it; actually, they have greater means than I do, so they may have learned it from others, and at the same time they're older, so by this time they may have discovered it themselves. I certainly think they have the ability to educate men. For they'd never fearlessly declare what pursuits are beneficial and harmful for a young man unless they were confident they adequately know. Now, in other matters I have confidence in them, but I was surprised that they disagreed with each other in this. So, Lysimachus, just as Laches a moment ago urged you not to let me go but to question me, so I now ask you in turn not to let Laches go, nor Nicias either, but to question them, saying, "Socrates denies that he understands the matter, or that he's adequate to judge which of you is speaking the truth—for he has neither discovered nor learned this sort of thing. But you, Laches and Nicias, will each please tell us the most skilled person you've met in the nurture of the young, and whether you know because you learned it from another or discovered it for yourselves. And if you learned it, who your teachers in either case were and who were their fellow practitioners, so that should you lack leisure due to the affairs of the city, we may go to them and persuade them with gifts or favors or both to care for our children and yours, so that they won't disgrace their forebears by turning out worthless. But if you understand because you've discovered this sort of thing yourselves, please give an example of others you've already cared for and made noble and good where before they were worthless. For if you're now beginning to educate for the first time, you must take care lest you put at risk not a Carian slave; but your own sons and the children of your friends—lest, in short, as the proverb has it, you begin pottery on a big pot. State then which of these you assert or deny to pertain and apply to you." Ask them that, Lysimachus, and don't let them go.`,
+      `And so we also, Laches and Nicias-since Lysimachus and Melesias have summoned us into counsel about their two sons,`,
+      `eager that their souls become as good as possible-we also should show them who our teachers have been,`,
+      `if we claim we have them, teachers who, first, were good themselves and served the souls of many young people, and next, manifestly taught us.`,
+      `Or if any among us claims he did not have a teacher but all the same has works of his own, then he should speak and point out which Athenian or foreigner, freeman or slave, has acknowledgedly become better through him.`,
+      `But if neither is true of us, we should bid them seek out others, and simply not corrupt the sons of our comrades and risk incurring the most serious of charges from their closest relations.`,
+      `Well, to speak first for myself, Melesias and Lysimachus, I say I have not had a teacher in this; and yet, I've desired the thing from my youth.`,
+      `But I can't afford the fees of the sophists, who alone announced that they could make me noble and good, and on the other hand, I'm incapable even now of discovering the art myself.`,
+      `But I wouldn't be surprised if Nicias or Laches has discovered or learned it; actually, they have greater means than I do, so they may have learned it from others, and at the same time they're older, so by this time they may have discovered it themselves.`,
+      `I certainly think they have the ability to educate men. For they'd never fearlessly declare what pursuits are beneficial and harmful for a young man unless they were confident they adequately know.`,
+      `Now, in other matters I have confidence in them, but I was surprised that they disagreed with each other in this.`,
+      `So, Lysimachus, just as Laches a moment ago urged you not to let me go but to question me, so I now ask you in turn not to let Laches go, nor Nicias either, but to question them, saying,`,
+      `"Socrates denies that he understands the matter, or that he's adequate to judge which of you is speaking the truth—for he has neither discovered nor learned this sort of thing.`,
+      `But you, Laches and Nicias, will each please tell us the most skilled person you've met in the nurture of the young, and whether you know because you learned it from another or discovered it for yourselves.`,
+      `And if you learned it, who your teachers in either case were and who were their fellow practitioners, so that should you lack leisure due to the affairs of the city,`,
+      `we may go to them and persuade them with gifts or favors or both to care for our children and yours, so that they won't disgrace their forebears by turning out worthless.`,
+      `But if you understand because you've discovered this sort of thing yourselves, please give an example of others you've already cared for and made noble and good where before they were worthless.`,
+      `For if you're now beginning to educate for the first time, you must take care lest you put at risk not a Carian slave;`,
+      `but your own sons and the children of your friends—lest, in short, as the proverb has it, you begin pottery on a big pot.`,
+      `State then which of these you assert or deny to pertain and apply to you."`,
+      `Ask them that, Lysimachus, and don't let them go.`,
     ],
   },
   {
