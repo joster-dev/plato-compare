@@ -4,21 +4,23 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { LachesComponent } from './laches/laches.component';
-import { DialoguesComponent } from './dialogues/dialogues.component';
-import { TranslationComponent } from './translation/translation.component';
+import { PhaedrusComponent } from './phaedrus/phaedrus.component';
+import { HomeComponent } from './home/home.component';
+import { DialogueComponent } from './dialogue/dialogue.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     LachesComponent,
-    DialoguesComponent,
-    TranslationComponent
+    PhaedrusComponent,
+    HomeComponent,
+    DialogueComponent,
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
 export class AppModule { }

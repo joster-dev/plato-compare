@@ -1,13 +1,15 @@
 import { Component, HostListener } from '@angular/core';
-import { LachesAllen } from '../models/laches-allen.const';
-import { LachesLamb } from '../models/laches-lamb.const';
+import { LachesAllen } from './laches-allen.const';
+import { LachesDialogue } from './laches-dialogue.const';
+import { LachesLamb } from './laches-lamb.const';
 
 @Component({
   selector: 'pc-laches',
   templateUrl: './laches.component.html',
-  styleUrls: ['./laches.component.scss']
+  styleUrls: ['./laches.component.scss'],
 })
 export class LachesComponent {
+  readonly dialogue = LachesDialogue;
   // todo: standardize name spelling
   translations = [
     LachesLamb,

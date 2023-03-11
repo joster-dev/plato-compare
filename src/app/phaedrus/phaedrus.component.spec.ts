@@ -1,18 +1,18 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { DialoguesComponent } from './dialogues.component';
+import { PhaedrusComponent } from './phaedrus.component';
 
-describe('DialoguesComponent', () => {
-  let component: DialoguesComponent;
-  let fixture: ComponentFixture<DialoguesComponent>;
+describe('PhaedrusComponent', () => {
+  let component: PhaedrusComponent;
+  let fixture: ComponentFixture<PhaedrusComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ DialoguesComponent ]
+      declarations: [ PhaedrusComponent ]
     })
     .compileComponents();
 
-    fixture = TestBed.createComponent(DialoguesComponent);
+    fixture = TestBed.createComponent(PhaedrusComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

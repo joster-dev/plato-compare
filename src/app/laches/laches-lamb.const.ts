@@ -1,5 +1,5 @@
 import { LachesCharacter } from './laches-character.enum';
-import { Turn } from './turn.interface';
+import { Turn } from '../models/turn.interface';
 
 export const LachesLamb: Turn<LachesCharacter>[] = [
   {
@@ -466,13 +466,19 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Lysimachus,
     speech: [
-      `To my mind, good sirs, these remarks of Socrates are excellent : but it is for you, Nicias and Laches, to decide for yourselves whether it suits you to be questioned and offer some explanation on such points. For I and Melesias here would certainly be delighted if you would consent to expound in detail all that Socrates puts to you in his questions : as I began by saying at the outset, we invited you to consult with us just because we thought, very naturally, that you had given serious consideration to this "kind of thing, especially as your boys, like ours, are almost of an age to be educated. Accordingly, if it is all the same to you, discuss it now by joint inquiry with Socrates, exchanging views with him in turn : for it is a particularly good remark of his that we are consulting now about the greatest of all our concerns. Come, see if you consider that this is the proper course to take.`,
+      `To my mind, good sirs, these remarks of Socrates are excellent :`,
+      `but it is for you, Nicias and Laches, to decide for yourselves whether it suits you to be questioned and offer some explanation on such points.`,
+      `For I and Melesias here would certainly be delighted if you would consent to expound in detail all that Socrates puts to you in his questions : as I began by saying at the outset, we invited you to consult with us just because we thought, very naturally, that you had given serious consideration to this "kind of thing, especially as your boys, like ours, are almost of an age to be educated.`,
+      `Accordingly, if it is all the same to you, discuss it now by joint inquiry with Socrates, exchanging views with him in turn :`,
+      `for it is a particularly good remark of his that we are consulting now about the greatest of all our concerns.`,
+      `Come, see if you consider that this is the proper course to take.`,
     ],
   },
   {
     character: LachesCharacter.Nicias,
     speech: [
-      `Lysimachus, it looks to me, in very truth, as though you only knew Socrates at second hand — through his father—and had not conversed with him personally except in his childhood, when you may have chanced to meet him among the people of his district, accompanying his father at the temple or at some local gathering. But you have evidently not yet had to do with him since he has reached maturer years.`,
+      `Lysimachus, it looks to me, in very truth, as though you only knew Socrates at second hand — through his father—and had not conversed with him personally except in his childhood, when you may have chanced to meet him among the people of his district, accompanying his father at the temple or at some local gathering.`,
+      `But you have evidently not yet had to do with him since he has reached maturer years.`,
     ],
   },
   {
@@ -484,7 +490,7 @@ export const LachesLamb: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Nicias,
     speech: [
-      `You strike me as not being aware that, who- ever comes into close contact with Socrates and has any talk with him face to face, is bound to be drawn round and round by him in the course of the argument—though it may have started at first on a quite different theme—and cannot stop until he is led into giving an account of himself, of the manner in which he now spends his days, and of the kind of life he has lived hitherto ; and when once he has been led into that, Socrates >vill never let him go until he has thoroughly and properly put all his ways to the test. Now I am accustomed to him, and so I know that one is bound to be thus treated by him, and further, that I myself shall certainly get the same treatment also. For I dehght, Lysimachus, in conversing with the man, and see no harm in our being reminded of any past or present misdoing : nay, one must needs take more careful thought for the rest of one's life, if one does not fly from his words but is mlUng, as Solon said,^ and zealous to learn as long as one hves, •and does not expect to get good sense by the mere arrival of old age. So to me there is nothing unusual, or unpleasant either, in being tried and tested by Socrates ; in fact, I knew pretty well all the time that our argument would not be about the boys if Socrates were present, but about ourselves. Let me therefore repeat that tliere is no objection on my part to holding a debate with Socrates after the fashion that he likes ; but you must see how Laches here feels on the matter.`,
+      `You strike me as not being aware that, whoever comes into close contact with Socrates and has any talk with him face to face, is bound to be drawn round and round by him in the course of the argument—though it may have started at first on a quite different theme—and cannot stop until he is led into giving an account of himself, of the manner in which he now spends his days, and of the kind of life he has lived hitherto ; and when once he has been led into that, Socrates >vill never let him go until he has thoroughly and properly put all his ways to the test. Now I am accustomed to him, and so I know that one is bound to be thus treated by him, and further, that I myself shall certainly get the same treatment also. For I dehght, Lysimachus, in conversing with the man, and see no harm in our being reminded of any past or present misdoing : nay, one must needs take more careful thought for the rest of one's life, if one does not fly from his words but is mlUng, as Solon said,^ and zealous to learn as long as one hves, •and does not expect to get good sense by the mere arrival of old age. So to me there is nothing unusual, or unpleasant either, in being tried and tested by Socrates ; in fact, I knew pretty well all the time that our argument would not be about the boys if Socrates were present, but about ourselves. Let me therefore repeat that tliere is no objection on my part to holding a debate with Socrates after the fashion that he likes ; but you must see how Laches here feels on the matter.`,
     ],
   },
   {

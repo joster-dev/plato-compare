@@ -1,5 +1,5 @@
 import { LachesCharacter } from './laches-character.enum';
-import { Turn } from './turn.interface';
+import { Turn } from '../models/turn.interface';
 
 export const LachesAllen: Turn<LachesCharacter>[] = [
   {
@@ -466,13 +466,19 @@ export const LachesAllen: Turn<LachesCharacter>[] = [
   {
     character: LachesCharacter.Lysimachus,
     speech: [
-      `I think Socrates speaks well, gentlemen. But it's for you to decide, Nicias and Laches, whether you wish to be questioned and render an account of such matters. As for myself and Melesias here, we'd clearly be pleased if you were ready to go through an account of everything Socrates asks; in fact, we began by saying that we'd summoned you to counsel because we believe you're concerned about such matters as this, as is natural, especially since your sons are almost, as ours actually are, of an age to be educated. So if it's all the same to you, please join Socrates in common inquiry, rendering and receiving an account from each other. For he's surely right to say that we're now taking counsel about our most important possession. Do you agree to the inquiry?`,
+      `I think Socrates speaks well, gentlemen.`,
+      `But it's for you to decide, Nicias and Laches, whether you wish to be questioned and render an account of such matters.`,
+      `As for myself and Melesias here, we'd clearly be pleased if you were ready to go through an account of everything Socrates asks; in fact, we began by saying that we'd summoned you to counsel because we believe you're concerned about such matters as this, as is natural, especially since your sons are almost, as ours actually are, of an age to be educated.`,
+      `So if it's all the same to you, please join Socrates in common inquiry, rendering and receiving an account from each other.`,
+      `For he's surely right to say that we're now taking counsel about our most important possession.`,
+      `Do you agree to the inquiry?`,
     ],
   },
   {
     character: LachesCharacter.Nicias,
     speech: [
-      `I think you really know Socrates only through his father, Lysimachus, and haven't associated with him except as a child, if perhaps he followed along after his father and met you at temple or some other gathering among the people of your deme. You clearly haven't met him since he grew up.`,
+      `I think you really know Socrates only through his father, Lysimachus, and haven't associated with him except as a child, if perhaps he followed along after his father and met you at temple or some other gathering among the people of your deme.`,
+      `You clearly haven't met him since he grew up.`,
     ],
   },
   {
