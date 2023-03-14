@@ -5,8 +5,9 @@ import { LachesLamb } from './laches-lamb.const';
 
 export const LachesDialogue: Dialogue<LachesCharacter> = {
   title: 'Laches',
+  safeTitle: 'laches',
   translations: [
     LachesLamb,
     LachesAllen,
   ],
-}
+};

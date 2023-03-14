@@ -38,6 +38,8 @@
       <span
         *ngFor="let phrase of turn.speech; let phraseIndex = index"
         [class.highlight]="turnIndex === selectedTurn && phraseIndex === selectedPhrase"
+        id="{{model.safeTitle}}-{{phraseIndex}}-{{turnIndex}}-{{translationIndex}}"
+        (click)="onClickPhrase(phraseIndex, turnIndex)"
       >
         {{phrase}}
       </span>
