@@ -16,7 +16,6 @@ export class DialogueComponent {
   onClickPhrase(phraseIndex: number, turnIndex: number): void {
     this.selectedPhrase = phraseIndex;
     this.selectedTurn = turnIndex;
-    this.scrollToPhrase();
   }
 
   @HostListener('window:keydown', ['$event'])
@@ -50,12 +49,14 @@ export class DialogueComponent {
       if (this.selectedTranslation < this.model.translations.length - 1) {
         this.selectedTranslation = this.selectedTranslation + 1;
       }
+      setTimeout(() => this.scrollToPhrase());
     }
     if (event.code === 'ArrowLeft') {
       event.preventDefault();
       if (this.selectedTranslation > 0) {
         this.selectedTranslation = this.selectedTranslation - 1;
       }
+      setTimeout(() => this.scrollToPhrase());
     }
   }
 

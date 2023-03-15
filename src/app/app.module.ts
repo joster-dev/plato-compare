@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { ChaosControlModule } from '@joster-dev/chaos-control';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -19,6 +20,7 @@ import { DialogueComponent } from './dialogue/dialogue.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
+    ChaosControlModule,
   ],
   providers: [],
   bootstrap: [AppComponent],

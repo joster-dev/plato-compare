@@ -3,26 +3,28 @@
     {{model.title}}
   </h2>
   <div>
-    <a
+    <jo-link
       title="Back to Dialogues"
       routerLink="/home"
     >
       Back
-    </a>
-    <button
+    </jo-link>
+    <jo-button
       title="Previous Translation"
-      [disabled]="selectedTranslation === 0"
-      (click)="selectedTranslation = selectedTranslation - 1"
+      [isDisabled]="selectedTranslation === 0"
+      [borderRadiusRight]="false"
+      (onClick)="selectedTranslation = selectedTranslation - 1"
     >
       Prev
-    </button>
-    <button
+    </jo-button>
+    <jo-button
       title="Next Translation"
-      [disabled]="selectedTranslation === model.translations.length - 1"
-      (click)="selectedTranslation = selectedTranslation + 1"
+      [isDisabled]="selectedTranslation === model.translations.length - 1"
+      [borderRadiusLeft]="false"
+      (onClick)="selectedTranslation = selectedTranslation + 1"
     >
       Next
-    </button>
+    </jo-button>
   </div>
 </header>
 
