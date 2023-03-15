@@ -8,7 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "lint": "ng lint",
-    "pages": "ng build --base-href=https://joster-dev.github.io/plato-compare/"
+    "pages": "ng build --output-path=docs --base-href=https://joster-dev.github.io/plato-compare/"
   },
   "private": true,
   "dependencies": {
