@@ -5,19 +5,22 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Dear Phaedrus, whither away, and where do you come from ?`,
+      `Dear Phaedrus, whither away, and where do you come from?`,
     ],
   },
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `From Lysias, Socrates, the son of Cephalus ; and I am going for a walk outside the wall. For I spent a long time there with Lysias, sitting since early morning ; and on the advice of your friend and mine, Acumenus, I am taking my walk on the roads; for he says they are less fatiguing than the streets.`,
+      `From Lysias, Socrates, the son of Cephalus; and I am going for a walk outside the wall.`,
+      `For I spent a long time there with Lysias, sitting since early morning;`,
+      `and on the advice of your friend and mine, Acumenus, I am taking my walk on the roads;`,
+      `for he says they are less fatiguing than the streets.`,
     ],
   },
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `He is right, my friend. Then Lysias, it seems, was in the city ?`,
+      `He is right, my friend. Then Lysias, it seems, was in the city?`,
     ],
   },
   {
@@ -29,7 +32,8 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `What was your conversation ? But it is obvious that Lysias entertained you with his speeches.`,
+      `What was your conversation?`,
+      `But it is obvious that Lysias entertained you with his speeches.`,
     ],
   },
   {
@@ -41,7 +45,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `What ? Don't you believe that I consider hearing your conversation with Lysias " a greater thing even than business," as Pindar says ?`,
+      `What? Don't you believe that I consider hearing your conversation with Lysias "a greater thing even than business," as Pindar says?`,
     ],
   },
   {
@@ -59,7 +63,10 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `Indeed, Socrates, you are just the man to hear it. For the discourse about which we conversed, was in a way, a love-speech. For Lysias has represented one of the beauties being tempted, but not by a lover ; this is just the clever thing about it ; for lie says that favours should be granted rather to the one who is not in love than to the lover.`,
+      `Indeed, Socrates, you are just the man to hear it.`,
+      `For the discourse about which we conversed, was in a way, a love-speech.`,
+      `For Lysias has represented one of the beauties being tempted, but not by a lover ; this is just the clever thing about it ;`,
+      `for he says that favours should be granted rather to the one who is not in love than to the lover.`,
     ],
   },
   {
@@ -71,7 +78,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `What are you saying, my dear Socrates ? Do you suppose that I, who am a mere ordinary man, can tell from memory, in a way that is worthy of Lysias, what he, the cleverest writer of our day, composed at his leisure and took a long time for? Far from it ; and yet I would rather have that ability than a good sum of money.`,
+      `What are you saying, my dear Socrates? Do you suppose that I, who am a mere ordinary man, can tell from memory, in a way that is worthy of Lysias, what he, the cleverest writer of our day, composed at his leisure and took a long time for? Far from it ; and yet I would rather have that ability than a good sum of money.`,
     ],
   },
   {
@@ -107,7 +114,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `Stop. You have robbed me of the hope I had of practising on you. But where shall we sit and read ?`,
+      `Stop. You have robbed me of the hope I had of practising on you. But where shall we sit and read?`,
     ],
   },
   {
@@ -131,13 +138,13 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `Do you see that very tall plane tree ?`,
+      `Do you see that very tall plane tree?`,
     ],
   },
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `What of it ?`,
+      `What of it?`,
     ],
   },
   {
@@ -155,7 +162,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `Tell me, Socrates, is it not from some place along here by the Ilissus that Boreas is said to have carried off Oreithyia ?`,
+      `Tell me, Socrates, is it not from some place along here by the Ilissus that Boreas is said to have carried off Oreithyia?`,
     ],
   },
   {
@@ -167,7 +174,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `Well, is it from here ? The streamlet looks very pretty and pure and clear and fit for girls to play by.`,
+      `Well, is it from here? The streamlet looks very pretty and pure and clear and fit for girls to play by.`,
     ],
   },
   {
@@ -179,13 +186,13 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `I have never noticed it. But, for Heaven's sake, Socrates, tell me ; do you believe this tale is true ?`,
+      `I have never noticed it. But, for Heaven's sake, Socrates, tell me ; do you believe this tale is true?`,
     ],
   },
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `If I disbelieved, as the wise men do, I should not be extraordinary ; then I might give a rational explanation, that a blast of Boreas, the north wind, pushed her off the neighbouring rocks as she was playing with Pharmacea, and that when she had died in this manner she was said to have been carried off by Boreas. 1 But I, Phaedrus, think such explana- tions are very pretty in general, but are the inventions of a very clever and laborious and not altogether envi- able man, for no other reason than because after this he must explain the forms of the Centaurs, and then that of the Chimaera, and there presses in upon him a whole crowd of such creatures, Gorgons and Pegas, and multitudes of strange, inconceivable, portentous natures. If anyone disbelieves in these, and with a rustic sort of wisdom, undertakes to explain each in accordance with probability, he will need a great deal of leisure. But I have no leisure for them at all ; and the reason, my friend, is this : I am not yet able, as the Delphic inscription has it, to know my- self; so it seems to me ridiculous, when I do not yet know that, to investigate irrelevant things. And so I dismiss these matters and accepting the customary belief about them, as I was saying just now, I inves- tigate not these things, but myself, to know whether I am a monster more complicated and more furious than Typhon or a gentler and simpler creature, to whom a divine and quiet lot is given by nature. But, my friend, while we were talking, is not this the tree to which you were leading us ?`,
+      `If I disbelieved, as the wise men do, I should not be extraordinary ; then I might give a rational explanation, that a blast of Boreas, the north wind, pushed her off the neighbouring rocks as she was playing with Pharmacea, and that when she had died in this manner she was said to have been carried off by Boreas. 1 But I, Phaedrus, think such explana- tions are very pretty in general, but are the inventions of a very clever and laborious and not altogether envi- able man, for no other reason than because after this he must explain the forms of the Centaurs, and then that of the Chimaera, and there presses in upon him a whole crowd of such creatures, Gorgons and Pegas, and multitudes of strange, inconceivable, portentous natures. If anyone disbelieves in these, and with a rustic sort of wisdom, undertakes to explain each in accordance with probability, he will need a great deal of leisure. But I have no leisure for them at all ; and the reason, my friend, is this : I am not yet able, as the Delphic inscription has it, to know my- self; so it seems to me ridiculous, when I do not yet know that, to investigate irrelevant things. And so I dismiss these matters and accepting the customary belief about them, as I was saying just now, I inves- tigate not these things, but myself, to know whether I am a monster more complicated and more furious than Typhon or a gentler and simpler creature, to whom a divine and quiet lot is given by nature. But, my friend, while we were talking, is not this the tree to which you were leading us?`,
     ],
   },
   {
@@ -215,7 +222,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `Hear then. You know what my condition is, and you have heard how I think it is to our advantage to arrange these matters. And I claim that I ought not to be refused what I ask because I am not your lover. For lovers repent of the kindnesses they have done when their passion ceases ; but there is no time when non-lovers naturally repent. For they do kindnesses to the best of their ability, not under compulsion, but of their free will, according to their view of their own best interest. And besides, lovers consider the injury they have done to their own concerns on account of their love, and the benefits they have conferred, and they add the trouble they have had, and so they think they have long ago made sufficient return to the beloved ; but non-lovers cannot aver neglect of their own affairs because of their con- dition, nor can they take account of the pains they have been at in the past, nor lay any blame for quarrels with their relatives ; and so, since all these evils are removed, there is nothing left for them but to do eagerly what they think will please the beloved. And besides, if lovers ought to be highly esteemed because they say they have the greatest love for the objects of their passion, since both by word and deed they are ready to make themselves hated by others to please the beloved, it is easy to see that, if what they say is true, whenever they fall in love after- wards, they will care for the new love more than for the old and will certainly injure the old love, if that pleases the new. And how can one reason- ably entrust matters of such importance to one who is afflicted with a disease such that no one of any experience would even try to cure it? For they themselves confess that they are insane, rather than in their right mind, and that they know they are foolish, but cannot control themselves ; and so, how could they, when they have come to their senses, think those acts were good which they deter- mined upon when in such a condition ? And if you were to choose the best from among your lovers, your choice would be limited to a few ; whereas it would be made from a great number, if you chose the most congenial from non-lovers, so that you would have a better chance, in choosing among many, of finding the one most worthy of your affection. Now if you are afraid of public opinion, and fear that if people find out your love affair you will be disgraced, consider that lovers, believing that others would be as envious of them as they are of others, are likely to be excited by possession and in their pride to show everybody that they have not toiled in vain ; but the non-lovers, since they have control of their feelings, are likely to choose what is really best, rather than to court the opinion of mankind. More- over, many are sure to notice and see the lovers going about with their beloved ones and making that their chief business, and so, when they are seen talking with each other, people think they are met in connexion with some love-matter either past or future ; but no one ever thinks of finding fault with non-lovers because they meet, since everyone knows that one must converse with somebody, either because of friendship or because it is pleasant for some other reason. And then, too, if you are frightened by the thought that it is hard for friendship to last, and that under other circumstances any quarrel would be an equal misfortune to both, but that when you have sur- rendered what you prize most highly you would be the chief sufferer, it would be reasonable for you to be more afraid of the lovers ; for they are pained by many things and they think everything that happens is done for the sake of hurting them. Therefore they prevent their loves from associating with other men, for they fear the wealthy, lest their money give them an advantage, and the educated, lest they prove superior in intellect ; and they are on their guard against the influence of everyone who possesses any other good thing. If now they persuade you to incur the dislike of all these, they involve you in a dearth of friends, and if you consider your own interest and are more sensible than they, you will have to quarrel with them. But those who are not in love, but who have gained the satisfaction of their desires because of their merit, would not be jealous of those who associated with you, but would hate those who did not wish to do so, thinking that you are slighted by these last and benefited by the former, so that there is much more likelihood that they will gain friendship than enmity from their love-affair with you. And then, too, many lovers are moved by physical passion before they know the character or have become acquainted with the connexions of the beloved, so that it is uncertain whether they will wish to be your friends after their passion has ceased. But in the case of those who are not in love, who were your friends before entering into the closer relation, the favours received are not likely to make the friendship less, but will remain as pledges of future joys. And then, too, it will be better for your character to yield to me than to a lover. For lovers praise your words and acts beyond due measure, partly through fear of incurring your displeasure, and partly because their own judgment is obscured by their passion. For such are the exhibitions of the power of Love : he makes the unsuccessful lovers think that things are grievous which cause no pain to others, and he com- pels the successful to praise what ought not to give pleasure ; therefore those whom they love are more to be pitied than envied. But if you yield to me, I shall consort with you, not with a view to present pleasure only, but to future advantage also, not being overcome by passion but in full control of myself, and not taking up violent enmity because of small matters, but slowly gathering little anger when the transgres- sions are great, forgiving involuntary wrongs and try- ing to prevent intentional ones; for these are the proofs of a friendship that will endure for a long time. But if you have a notion that friendship cannot be firm unless one is in love, you should bear in mind that in that case we should not have great affection for sons or for fathers and mothers, nor should we possess faithful friends who have been gained not through passion but through associations of a different kind. Besides, if you ought to grant favours to those who ask for them most eagerly, you ought in other matters also to confer benefits, not on the best, but on the most needy ; for they will be most grateful, since they are relieved of the greatest ills. And then, too, at private entertainments you ought not to invite your friends, but beggars and those who need a meal ; for they will love you and attend you and come to your doors and be most pleased and grateful, and will call down many blessings upon your head. Perhaps, however, you ought not to grant favours to those who beg for them, but to those who are most able to repay you ; and not to those who ask merely, but to the most deserving ; and not to those who will enjoy your youthful beauty, but to those who will share their good things with you when you are older ; and not to those who, when they have succeeded, will boast to others of their success, but to those who will modestly keep it a secret from all ; and not to those who will be enamoured for a little while, but to those who will be your friends for life ; and not to those who will seek a pretext for a quarrel when their passion has died out, but to those who will show their own merit when your youth is passed. Do you, then, remember what I have said, and bear this also in mind, that lovers are admonished by their friends, who think their way of life is bad, but no relative ever blamed a non-lover for bad management of his own interests on account of that condition. Perhaps you may ask me if I advise you to grant favours to all non-lovers. But I think the lover would not urge you to be so disposed toward all lovers either ; for the favour, if scattered broadcast, is not so highly prized by the rational recipient, nor can you, if you wish, keep your relations with one hidden from the rest. But from love no harm ought to come, but benefit to both parties. Now I think I have said enough. But if you feel any lack, or think any- thing has been omitted, ask questions. What do you think of the discourse, Socrates? Is it not wonderful, especially in diction ?`,
+      `Hear then. You know what my condition is, and you have heard how I think it is to our advantage to arrange these matters. And I claim that I ought not to be refused what I ask because I am not your lover. For lovers repent of the kindnesses they have done when their passion ceases ; but there is no time when non-lovers naturally repent. For they do kindnesses to the best of their ability, not under compulsion, but of their free will, according to their view of their own best interest. And besides, lovers consider the injury they have done to their own concerns on account of their love, and the benefits they have conferred, and they add the trouble they have had, and so they think they have long ago made sufficient return to the beloved ; but non-lovers cannot aver neglect of their own affairs because of their con- dition, nor can they take account of the pains they have been at in the past, nor lay any blame for quarrels with their relatives ; and so, since all these evils are removed, there is nothing left for them but to do eagerly what they think will please the beloved. And besides, if lovers ought to be highly esteemed because they say they have the greatest love for the objects of their passion, since both by word and deed they are ready to make themselves hated by others to please the beloved, it is easy to see that, if what they say is true, whenever they fall in love after- wards, they will care for the new love more than for the old and will certainly injure the old love, if that pleases the new. And how can one reason- ably entrust matters of such importance to one who is afflicted with a disease such that no one of any experience would even try to cure it? For they themselves confess that they are insane, rather than in their right mind, and that they know they are foolish, but cannot control themselves ; and so, how could they, when they have come to their senses, think those acts were good which they deter- mined upon when in such a condition? And if you were to choose the best from among your lovers, your choice would be limited to a few ; whereas it would be made from a great number, if you chose the most congenial from non-lovers, so that you would have a better chance, in choosing among many, of finding the one most worthy of your affection. Now if you are afraid of public opinion, and fear that if people find out your love affair you will be disgraced, consider that lovers, believing that others would be as envious of them as they are of others, are likely to be excited by possession and in their pride to show everybody that they have not toiled in vain ; but the non-lovers, since they have control of their feelings, are likely to choose what is really best, rather than to court the opinion of mankind. More- over, many are sure to notice and see the lovers going about with their beloved ones and making that their chief business, and so, when they are seen talking with each other, people think they are met in connexion with some love-matter either past or future ; but no one ever thinks of finding fault with non-lovers because they meet, since everyone knows that one must converse with somebody, either because of friendship or because it is pleasant for some other reason. And then, too, if you are frightened by the thought that it is hard for friendship to last, and that under other circumstances any quarrel would be an equal misfortune to both, but that when you have sur- rendered what you prize most highly you would be the chief sufferer, it would be reasonable for you to be more afraid of the lovers ; for they are pained by many things and they think everything that happens is done for the sake of hurting them. Therefore they prevent their loves from associating with other men, for they fear the wealthy, lest their money give them an advantage, and the educated, lest they prove superior in intellect ; and they are on their guard against the influence of everyone who possesses any other good thing. If now they persuade you to incur the dislike of all these, they involve you in a dearth of friends, and if you consider your own interest and are more sensible than they, you will have to quarrel with them. But those who are not in love, but who have gained the satisfaction of their desires because of their merit, would not be jealous of those who associated with you, but would hate those who did not wish to do so, thinking that you are slighted by these last and benefited by the former, so that there is much more likelihood that they will gain friendship than enmity from their love-affair with you. And then, too, many lovers are moved by physical passion before they know the character or have become acquainted with the connexions of the beloved, so that it is uncertain whether they will wish to be your friends after their passion has ceased. But in the case of those who are not in love, who were your friends before entering into the closer relation, the favours received are not likely to make the friendship less, but will remain as pledges of future joys. And then, too, it will be better for your character to yield to me than to a lover. For lovers praise your words and acts beyond due measure, partly through fear of incurring your displeasure, and partly because their own judgment is obscured by their passion. For such are the exhibitions of the power of Love : he makes the unsuccessful lovers think that things are grievous which cause no pain to others, and he com- pels the successful to praise what ought not to give pleasure ; therefore those whom they love are more to be pitied than envied. But if you yield to me, I shall consort with you, not with a view to present pleasure only, but to future advantage also, not being overcome by passion but in full control of myself, and not taking up violent enmity because of small matters, but slowly gathering little anger when the transgres- sions are great, forgiving involuntary wrongs and try- ing to prevent intentional ones; for these are the proofs of a friendship that will endure for a long time. But if you have a notion that friendship cannot be firm unless one is in love, you should bear in mind that in that case we should not have great affection for sons or for fathers and mothers, nor should we possess faithful friends who have been gained not through passion but through associations of a different kind. Besides, if you ought to grant favours to those who ask for them most eagerly, you ought in other matters also to confer benefits, not on the best, but on the most needy ; for they will be most grateful, since they are relieved of the greatest ills. And then, too, at private entertainments you ought not to invite your friends, but beggars and those who need a meal ; for they will love you and attend you and come to your doors and be most pleased and grateful, and will call down many blessings upon your head. Perhaps, however, you ought not to grant favours to those who beg for them, but to those who are most able to repay you ; and not to those who ask merely, but to the most deserving ; and not to those who will enjoy your youthful beauty, but to those who will share their good things with you when you are older ; and not to those who, when they have succeeded, will boast to others of their success, but to those who will modestly keep it a secret from all ; and not to those who will be enamoured for a little while, but to those who will be your friends for life ; and not to those who will seek a pretext for a quarrel when their passion has died out, but to those who will show their own merit when your youth is passed. Do you, then, remember what I have said, and bear this also in mind, that lovers are admonished by their friends, who think their way of life is bad, but no relative ever blamed a non-lover for bad management of his own interests on account of that condition. Perhaps you may ask me if I advise you to grant favours to all non-lovers. But I think the lover would not urge you to be so disposed toward all lovers either ; for the favour, if scattered broadcast, is not so highly prized by the rational recipient, nor can you, if you wish, keep your relations with one hidden from the rest. But from love no harm ought to come, but benefit to both parties. Now I think I have said enough. But if you feel any lack, or think any- thing has been omitted, ask questions. What do you think of the discourse, Socrates? Is it not wonderful, especially in diction?`,
     ],
   },
   {
@@ -233,19 +240,19 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Do I seem to you to be joking and not to be in earnest ?`,
+      `Do I seem to you to be joking and not to be in earnest?`,
     ],
   },
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `Do not jest, Socrates, but, in the name of Zeus, the god of friendship, tell me truly, do you think any other of the Greeks could speak better or more copiously than this on the same subject ?`,
+      `Do not jest, Socrates, but, in the name of Zeus, the god of friendship, tell me truly, do you think any other of the Greeks could speak better or more copiously than this on the same subject?`,
     ],
   },
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `What ? Are you and I to praise the discourse because the author has said what he ought, and not merely because all the expressions are clear and well rounded and finely turned ? For if that is expected, I must grant it for your sake, since, because of my stupidity, I did not notice it. I was attending only to the rhetorical manner, and I thought even Lysias himself would not think that satisfactory. It seemed to me, Phaedrus, unless you disagree, that he said the same thing two or three times, as if he did not find it easy to say many things about one subject, or perhaps he did not care about such a detail ; and he appeared to me in youthful fashion to be exhibit- ing his ability to say the same thing in two different ways and in both ways excellently.`,
+      `What? Are you and I to praise the discourse because the author has said what he ought, and not merely because all the expressions are clear and well rounded and finely turned? For if that is expected, I must grant it for your sake, since, because of my stupidity, I did not notice it. I was attending only to the rhetorical manner, and I thought even Lysias himself would not think that satisfactory. It seemed to me, Phaedrus, unless you disagree, that he said the same thing two or three times, as if he did not find it easy to say many things about one subject, or perhaps he did not care about such a detail ; and he appeared to me in youthful fashion to be exhibit- ing his ability to say the same thing in two different ways and in both ways excellently.`,
     ],
   },
   {
@@ -263,13 +270,13 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `Who are they? and where have you heard anything better than this ?`,
+      `Who are they? and where have you heard anything better than this?`,
     ],
   },
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `I cannot say, just at this moment ; but I certainly must have heard something, either from the lovely Sappho or the wise Anacreon, or perhaps from some prose writers. What ground have I for saying so ? Why, my dear friend, I feel that my own bosom is full, and that I could make another speech, different from this and quite as good. Now I am conscious of my own ignorance, and I know very well that I have never invented these things myself, so the only alternative is that I have been filled through the ears, like a pitcher, from the well springs of another ; but, again because of my stupidity, I have forgotten how and from whom I heard it.`,
+      `I cannot say, just at this moment ; but I certainly must have heard something, either from the lovely Sappho or the wise Anacreon, or perhaps from some prose writers. What ground have I for saying so? Why, my dear friend, I feel that my own bosom is full, and that I could make another speech, different from this and quite as good. Now I am conscious of my own ignorance, and I know very well that I have never invented these things myself, so the only alternative is that I have been filled through the ears, like a pitcher, from the well springs of another ; but, again because of my stupidity, I have forgotten how and from whom I heard it.`,
     ],
   },
   {
@@ -281,7 +288,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `You are a darling and truly golden, Phaedrus, if you think I mean that Lysias has failed in every respect and that I can compose a discourse containing nothing that he has said. That, I fancy, could not happen even to the worst writer. For example, to take the subject of his speech, who do you suppose, in arguing that the non-lover ought to be more favoured than the lover, could omit praise of the non-lover's calm sense and blame of the lover's unreason, which are inevitable arguments, and then say something else instead ? No, such arguments, 1 think, must be allowed and excused ; and in these the arrangement, not the invention, is to be praised ; but in the case of arguments which are not inevitable and are hard to discover, the invention deserves praise as well as the arrangement.`,
+      `You are a darling and truly golden, Phaedrus, if you think I mean that Lysias has failed in every respect and that I can compose a discourse containing nothing that he has said. That, I fancy, could not happen even to the worst writer. For example, to take the subject of his speech, who do you suppose, in arguing that the non-lover ought to be more favoured than the lover, could omit praise of the non-lover's calm sense and blame of the lover's unreason, which are inevitable arguments, and then say something else instead? No, such arguments, 1 think, must be allowed and excused ; and in these the arrangement, not the invention, is to be praised ; but in the case of arguments which are not inevitable and are hard to discover, the invention deserves praise as well as the arrangement.`,
     ],
   },
   {
@@ -293,7 +300,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Have you taken my jest in earnest, Phaedrus, because, to tease you, I laid hands on your beloved, and do you really suppose I am going to try to surpass the rhetoric of Lysias and make a speech more ingenious than his ?`,
+      `Have you taken my jest in earnest, Phaedrus, because, to tease you, I laid hands on your beloved, and do you really suppose I am going to try to surpass the rhetoric of Lysias and make a speech more ingenious than his?`,
     ],
   },
   {
@@ -323,7 +330,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `Yes, but I will. And my saying shall be an oath. I swear to you by by what god ? By this plane tree ? I take my solemn oath that unless you produce the discourse in the very presence of this plane tree, I will never read you another or tell you of another.`,
+      `Yes, but I will. And my saying shall be an oath. I swear to you by by what god? By this plane tree? I take my solemn oath that unless you produce the discourse in the very presence of this plane tree, I will never read you another or tell you of another.`,
     ],
   },
   {
@@ -335,13 +342,13 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `Then why do you try to get out of it ?`,
+      `Then why do you try to get out of it?`,
     ],
   },
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `I won't any more, since you have taken this oath ; for how could I give up such pleasures ?`,
+      `I won't any more, since you have taken this oath ; for how could I give up such pleasures?`,
     ],
   },
   {
@@ -353,13 +360,13 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Do you know what I'm going to do ?`,
+      `Do you know what I'm going to do?`,
     ],
   },
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `About what ?`,
+      `About what?`,
     ],
   },
   {
@@ -377,7 +384,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Come then, O tuneful Muses, whether ye receive this name from the quality of your song or from the musical race of the Ligyans, grant me your aid in the tale this most excellent man compels me to relate, that his friend whom he has hitherto con- sidered wise, may seem to him wiser still. Now there was once upon a time a boy, or rather a stripling, of great beauty : and he had many lovers. And among these was one of peculiar craftiness, who was as much in love with the boy as anyone, but had made him believe that he was not in love ; and once in wooing him, he tried to persuade him of this very thing, that favours ought to be granted rather to the non-lover than to the lover ; and his words were as follows : There is only one way, dear boy, for those to begin who are to take counsel wisely about anything. One must know what the counsel is about, or it is sure to be utterly futile, but most people are ignorant of the fact that they do not know the nature of things. So, supposing that they do know it, they come to no agreement in the beginning of their enquiry, and as they go on they reach the natural result, they agree neither with themselves nor with each other. Now you and I must not fall into the error which we con- demn in others, but, since we are to discuss the ques- tion, whether the lover or the non-lover is to be preferred let us first agree on a definition of love, its nature and its power, and then, keeping this definition in view and making constant reference to it, let us enquire whether love brings advantage or harm. Now everyone sees that love is a desire ; and we know too that non-lovers also desire the beautiful. How then are we to distinguish the lover from the non- lover ? We must observe that in each one of us there are two ruling and leading principles, which we follow whithersoever they lead ; one is the innate desire for pleasures, the other an acquired opinion which strives for the best. These two sometimes agree within us and are sometimes in strife ; and sometimes one, and sometimes the other has the greater power. Now when opinion leads through reason toward the best and is more powerful, its power is called self-restraint, but when desire irrationally drags us toward pleasures and rules within us, its rule is called excess. Now excess has many names, for it has many members and many forms ; and whichever of these forms is most marked gives its own name, neither beautiful nor honourable, to him who possesses it. For example, if the desire for food prevails over the higher reason and the other desires, it is called gluttony, and he who pos- sesses it will be called by the corresponding name of glutton, and again, if the desire for drink becomes the tyrant and leads him who possesses it toward drink, we know what he is called ; and it is quite clear what fitting names of the same sort will be given when any desire akin to these acquires the rule. The reason for what I have said hitherto is pretty clear by this time, but everything is plainer when spoken than when unspoken ; so I say that the desire which overcomes the rational opinion that strives toward the right, and which is led away toward the enjoyment of beauty and again is strongly forced by the desires that are kindred to itself toward personal beauty, when it gains the victory, takes its name from that very force, and is called love. 1 Well, my dear Phaedrus, does it seem to you, as it does to me, that I am inspired ?`,
+      `Come then, O tuneful Muses, whether ye receive this name from the quality of your song or from the musical race of the Ligyans, grant me your aid in the tale this most excellent man compels me to relate, that his friend whom he has hitherto con- sidered wise, may seem to him wiser still. Now there was once upon a time a boy, or rather a stripling, of great beauty : and he had many lovers. And among these was one of peculiar craftiness, who was as much in love with the boy as anyone, but had made him believe that he was not in love ; and once in wooing him, he tried to persuade him of this very thing, that favours ought to be granted rather to the non-lover than to the lover ; and his words were as follows : There is only one way, dear boy, for those to begin who are to take counsel wisely about anything. One must know what the counsel is about, or it is sure to be utterly futile, but most people are ignorant of the fact that they do not know the nature of things. So, supposing that they do know it, they come to no agreement in the beginning of their enquiry, and as they go on they reach the natural result, they agree neither with themselves nor with each other. Now you and I must not fall into the error which we con- demn in others, but, since we are to discuss the ques- tion, whether the lover or the non-lover is to be preferred let us first agree on a definition of love, its nature and its power, and then, keeping this definition in view and making constant reference to it, let us enquire whether love brings advantage or harm. Now everyone sees that love is a desire ; and we know too that non-lovers also desire the beautiful. How then are we to distinguish the lover from the non- lover? We must observe that in each one of us there are two ruling and leading principles, which we follow whithersoever they lead ; one is the innate desire for pleasures, the other an acquired opinion which strives for the best. These two sometimes agree within us and are sometimes in strife ; and sometimes one, and sometimes the other has the greater power. Now when opinion leads through reason toward the best and is more powerful, its power is called self-restraint, but when desire irrationally drags us toward pleasures and rules within us, its rule is called excess. Now excess has many names, for it has many members and many forms ; and whichever of these forms is most marked gives its own name, neither beautiful nor honourable, to him who possesses it. For example, if the desire for food prevails over the higher reason and the other desires, it is called gluttony, and he who pos- sesses it will be called by the corresponding name of glutton, and again, if the desire for drink becomes the tyrant and leads him who possesses it toward drink, we know what he is called ; and it is quite clear what fitting names of the same sort will be given when any desire akin to these acquires the rule. The reason for what I have said hitherto is pretty clear by this time, but everything is plainer when spoken than when unspoken ; so I say that the desire which overcomes the rational opinion that strives toward the right, and which is led away toward the enjoyment of beauty and again is strongly forced by the desires that are kindred to itself toward personal beauty, when it gains the victory, takes its name from that very force, and is called love. 1 Well, my dear Phaedrus, does it seem to you, as it does to me, that I am inspired?`,
     ],
   },
   {
@@ -401,25 +408,25 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `You are responsible for that ; but hear what follows ; for perhaps the attack may be averted. That, however, is in the hands of God ; we must return to our boy. Well then, my dearest, what the subject is, about which we are to take counsel, has been said and de- fined, and now let us continue, keeping our attention fixed upon that definition, and tell what advantage or harm will naturally come from the lover or the non-lover to him who grants them his favours. He who is ruled by desire and is a slave to plea- sure will inevitably desire to make his beloved as pleasing to himself as possible. Now to one who is of unsound mind everything is pleasant which does not oppose him, but everything that is better or equal is hateful. So the lover will not, if he can help it, endure a beloved who is better than himself or his equal, but always makes him weaker and inferior ; but the ignorant is inferior to the wise, the coward to the brave, the poor speaker to the eloquent, the slow of wit to the clever. Such mental defects, and still greater than these, in the beloved will necessarily please the lover, if they are implanted by Nature, and if they are not, he must implant them or be de- prived of his immediate enjoyment. And he is of necessity jealous and will do him great harm by keeping him from many advantageous associations, which would most tend to make a man of him, espe- cially from that which would do most to make him wise. This is divine philosophy, and from it the lover will certainly keep his beloved away, through fear of being despised ; and he will contrive to keep him ignorant of everything else and make him look to his lover for everything, so that he will be most agreeable to him and most harmful to himself. In respect to the intellect, then, a man in love is by no means a profitable guardian or associate. We must next consider how he who is forced to follow pleasure and not good will keep the body of him whose master he is, and what care he will give to it. He will plainly court a beloved who is effeminate, not virile, not brought up in the pure sunshine, but in mingled shade, unused to manly toils and the sweat of exertion, but accustomed to a delicate and unmanly mode of life, adorned with a bright complexion of artificial origin, since he has none by nature, and in general living a life such as all this indicates, which it is certainly not worth while to describe further. We can sum it all up briefly and pass on. A person with such a body, in war and in all important crises, gives courage to his enemies, and fills his friends, and even his lovers themselves, with fear. This may be passed over as self-evident, but the next question, what advantage or harm the inter- course and guardianship of the lover will bring to his beloved in the matter of his property, must be dis- cussed. Now it is clear to everyone, and especially to the lover, that he would desire above all things to have his beloved bereft of the dearest and kindest and holiest possessions ; for he would wish him to be deprived of father, mother, relatives and friends, thinking that they would hinder and censure his most sweet intercourse with him. But he will also think that one who has property in money or other possessions will be less easy to catch and when caught will be less manageable ; wherefore the lover must necessarily begrudge his beloved the possession of property and rejoice at its loss. Moreover the lover would wish his beloved to be as long as possible un- married, childless, and homeless, since he wishes to enjoy as long as possible what is pleasant to himself. Now there are also other evils, but God has mingled with most of them some temporary pleasure ; so, for instance, a flatterer is a horrid creature and does great harm, yet Nature has combined with him a kind of pleasure that is not without charm, and one might find fault with a courtesan as an injurious thing, and there are many other such creatures and practices which are yet for the time being very plea- sant ; but a lover is not only harmful to his beloved but extremely disagreeable to live with as well. The old proverb says, " birds of a feather flock together " ; that is, I suppose, equality of age leads them to similar pleasures and through similarity begets friendship ; and yet even they grow tired of each other's society. Now compulsion of every kind is said to be oppressive to every one, and the lover not only is unlike his beloved, but he exercises the strongest compulsion. For he is old while his love is young, and he does not leave him day or night, if he can help it, but is driven by the sting of necessity, which urges him on, always giving him pleasure in seeing, hearing, touching, and by aH his senses perceiving his beloved, so that he is glad to serve him constantly. But what consolation or what pleasure can he give the beloved ? Must not this protracted intercourse bring him to the utter- most disgust, as he looks at the old, unlovely face, and other things to match, which it is not pleasant even to hear about, to say nothing of being constantly compelled to come into contact with them? And he is suspiciously guarded in all ways against everybody, and has to listen to untimely and exaggerated praises and to reproaches which are unendurable when the man is sober, and when he is in his cups and indulges in wearisome and unrestrained freedom of speech be- come not only unendurable but disgusting. And while he is in love he is harmful and disagree- able, but when his love has ceased he is thereafter false to him whom he formerly hardly induced to endure his wearisome companionship through the hope of future benefits by making promises with many prayers and oaths. But now that the time of pay- ment has come he has a new ruler and governor within him, sense and reason in place of love and madness, and has become a different person ; but of this his beloved knows nothing. He asks of him a return for former favours, reminding him of past sayings and doings, as if he were speaking to the same man ; but the lover is ashamed to say that he has changed, and yet he cannot keep the oaths and promises he made when he was ruled by his former folly, now that he has regained his reason and come to his senses, lest by doing what he formerly did he become again what he was. He runs away from these things, and the former lover is compelled to be- come a defaulter. The shell has fallen with the other side up ; 1 and he changes his part and runs away ; and the other is forced to run after him in anger and with imprecations, he who did not know at the start that he ought never to have accepted a lover who was necessarily without reason, but rather a reason- able non-lover ; for otherwise he would have to surrender himself to one who was faithless, irritable, jealous, and disagreeable, harmful to his property, harmful to his physical condition, and most harm- ful by far to the cultivation of his soul, than which there neither is nor ever will be anything of higher importance in truth either in heaven or on earth. These things, dear boy, you must bear in mind, and you must know that the fondness of the lover is not a matter of goodwill, but of appetite which he wishes to satisfy : Just as the wolf loves the lamb, so the lover adores his beloved. There it is, Phaedrus ! Do not listen to me any longer ; let my speech end here.`,
+      `You are responsible for that ; but hear what follows ; for perhaps the attack may be averted. That, however, is in the hands of God ; we must return to our boy. Well then, my dearest, what the subject is, about which we are to take counsel, has been said and de- fined, and now let us continue, keeping our attention fixed upon that definition, and tell what advantage or harm will naturally come from the lover or the non-lover to him who grants them his favours. He who is ruled by desire and is a slave to plea- sure will inevitably desire to make his beloved as pleasing to himself as possible. Now to one who is of unsound mind everything is pleasant which does not oppose him, but everything that is better or equal is hateful. So the lover will not, if he can help it, endure a beloved who is better than himself or his equal, but always makes him weaker and inferior ; but the ignorant is inferior to the wise, the coward to the brave, the poor speaker to the eloquent, the slow of wit to the clever. Such mental defects, and still greater than these, in the beloved will necessarily please the lover, if they are implanted by Nature, and if they are not, he must implant them or be de- prived of his immediate enjoyment. And he is of necessity jealous and will do him great harm by keeping him from many advantageous associations, which would most tend to make a man of him, espe- cially from that which would do most to make him wise. This is divine philosophy, and from it the lover will certainly keep his beloved away, through fear of being despised ; and he will contrive to keep him ignorant of everything else and make him look to his lover for everything, so that he will be most agreeable to him and most harmful to himself. In respect to the intellect, then, a man in love is by no means a profitable guardian or associate. We must next consider how he who is forced to follow pleasure and not good will keep the body of him whose master he is, and what care he will give to it. He will plainly court a beloved who is effeminate, not virile, not brought up in the pure sunshine, but in mingled shade, unused to manly toils and the sweat of exertion, but accustomed to a delicate and unmanly mode of life, adorned with a bright complexion of artificial origin, since he has none by nature, and in general living a life such as all this indicates, which it is certainly not worth while to describe further. We can sum it all up briefly and pass on. A person with such a body, in war and in all important crises, gives courage to his enemies, and fills his friends, and even his lovers themselves, with fear. This may be passed over as self-evident, but the next question, what advantage or harm the inter- course and guardianship of the lover will bring to his beloved in the matter of his property, must be dis- cussed. Now it is clear to everyone, and especially to the lover, that he would desire above all things to have his beloved bereft of the dearest and kindest and holiest possessions ; for he would wish him to be deprived of father, mother, relatives and friends, thinking that they would hinder and censure his most sweet intercourse with him. But he will also think that one who has property in money or other possessions will be less easy to catch and when caught will be less manageable ; wherefore the lover must necessarily begrudge his beloved the possession of property and rejoice at its loss. Moreover the lover would wish his beloved to be as long as possible un- married, childless, and homeless, since he wishes to enjoy as long as possible what is pleasant to himself. Now there are also other evils, but God has mingled with most of them some temporary pleasure ; so, for instance, a flatterer is a horrid creature and does great harm, yet Nature has combined with him a kind of pleasure that is not without charm, and one might find fault with a courtesan as an injurious thing, and there are many other such creatures and practices which are yet for the time being very plea- sant ; but a lover is not only harmful to his beloved but extremely disagreeable to live with as well. The old proverb says, " birds of a feather flock together " ; that is, I suppose, equality of age leads them to similar pleasures and through similarity begets friendship ; and yet even they grow tired of each other's society. Now compulsion of every kind is said to be oppressive to every one, and the lover not only is unlike his beloved, but he exercises the strongest compulsion. For he is old while his love is young, and he does not leave him day or night, if he can help it, but is driven by the sting of necessity, which urges him on, always giving him pleasure in seeing, hearing, touching, and by aH his senses perceiving his beloved, so that he is glad to serve him constantly. But what consolation or what pleasure can he give the beloved? Must not this protracted intercourse bring him to the utter- most disgust, as he looks at the old, unlovely face, and other things to match, which it is not pleasant even to hear about, to say nothing of being constantly compelled to come into contact with them? And he is suspiciously guarded in all ways against everybody, and has to listen to untimely and exaggerated praises and to reproaches which are unendurable when the man is sober, and when he is in his cups and indulges in wearisome and unrestrained freedom of speech be- come not only unendurable but disgusting. And while he is in love he is harmful and disagree- able, but when his love has ceased he is thereafter false to him whom he formerly hardly induced to endure his wearisome companionship through the hope of future benefits by making promises with many prayers and oaths. But now that the time of pay- ment has come he has a new ruler and governor within him, sense and reason in place of love and madness, and has become a different person ; but of this his beloved knows nothing. He asks of him a return for former favours, reminding him of past sayings and doings, as if he were speaking to the same man ; but the lover is ashamed to say that he has changed, and yet he cannot keep the oaths and promises he made when he was ruled by his former folly, now that he has regained his reason and come to his senses, lest by doing what he formerly did he become again what he was. He runs away from these things, and the former lover is compelled to be- come a defaulter. The shell has fallen with the other side up ; 1 and he changes his part and runs away ; and the other is forced to run after him in anger and with imprecations, he who did not know at the start that he ought never to have accepted a lover who was necessarily without reason, but rather a reason- able non-lover ; for otherwise he would have to surrender himself to one who was faithless, irritable, jealous, and disagreeable, harmful to his property, harmful to his physical condition, and most harm- ful by far to the cultivation of his soul, than which there neither is nor ever will be anything of higher importance in truth either in heaven or on earth. These things, dear boy, you must bear in mind, and you must know that the fondness of the lover is not a matter of goodwill, but of appetite which he wishes to satisfy : Just as the wolf loves the lamb, so the lover adores his beloved. There it is, Phaedrus ! Do not listen to me any longer ; let my speech end here.`,
     ],
   },
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `But I thought you were in the middle of it, and would say as much about the non-lover as you have said about the lover, to set forth all his good points and show that he ought to be favoured. So now, Socrates, why do you stop ?`,
+      `But I thought you were in the middle of it, and would say as much about the non-lover as you have said about the lover, to set forth all his good points and show that he ought to be favoured. So now, Socrates, why do you stop?`,
     ],
   },
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Did you not notice, my friend, that I am already speaking in hexameters, not mere dithy- rambics, even though I am finding fault with the lover ? But if I begin to praise the non-lover, what kind of hymn do you suppose I shall raise ? I shall surely be possessed of the nymphs to whom you pur- posely exposed me. So, in a word, I say that the non-lover possesses all the advantages that are opposed to the disadvantages we found in the lover. Why make a long speech ? I have said enough about both of them. And so my tale shall fare as it may ; I shall cross this stream and go away before you put some further compulsion upon me.`,
+      `Did you not notice, my friend, that I am already speaking in hexameters, not mere dithy- rambics, even though I am finding fault with the lover? But if I begin to praise the non-lover, what kind of hymn do you suppose I shall raise? I shall surely be possessed of the nymphs to whom you pur- posely exposed me. So, in a word, I say that the non-lover possesses all the advantages that are opposed to the disadvantages we found in the lover. Why make a long speech? I have said enough about both of them. And so my tale shall fare as it may ; I shall cross this stream and go away before you put some further compulsion upon me.`,
     ],
   },
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `Not yet, Socrates, till the heat is past. Don't you see that it is already almost noon ? Let us stay and talk over what has been said, and then, when it is cooler, we will go away.`,
+      `Not yet, Socrates, till the heat is past. Don't you see that it is already almost noon? Let us stay and talk over what has been said, and then, when it is cooler, we will go away.`,
     ],
   },
   {
@@ -431,7 +438,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `That is not exactly a declaration of war ! But how is this, and what is the discourse ?`,
+      `That is not exactly a declaration of war ! But how is this, and what is the discourse?`,
     ],
   },
   {
@@ -443,7 +450,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `What do you mean ?`,
+      `What do you mean?`,
     ],
   },
   {
@@ -461,7 +468,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `It was foolish, and somewhat impious. What could be more dreadful than that ?`,
+      `It was foolish, and somewhat impious. What could be more dreadful than that?`,
     ],
   },
   {
@@ -473,7 +480,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Well, do you not believe that Love is the son of Aphrodite and is a god ?`,
+      `Well, do you not believe that Love is the son of Aphrodite and is a god?`,
     ],
   },
   {
@@ -497,7 +504,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Just consider, my good Phaedrus, how shameless the two speeches were, both this of mine and the one you read out of the book. For if any man of noble and gentle nature, one who was himself in love with another of the same sort, or who had ever been loved by such a one, had happened to hear us saying that lovers take up violent enmity because of small matters and are jealously disposed and harmful to the beloved, don't you think he would imagine he was listening to people brought up among low sailors, who had never seen a generous love ? Would he not refuse utterly to assent to our censure of Love ?`,
+      `Just consider, my good Phaedrus, how shameless the two speeches were, both this of mine and the one you read out of the book. For if any man of noble and gentle nature, one who was himself in love with another of the same sort, or who had ever been loved by such a one, had happened to hear us saying that lovers take up violent enmity because of small matters and are jealously disposed and harmful to the beloved, don't you think he would imagine he was listening to people brought up among low sailors, who had never seen a generous love? Would he not refuse utterly to assent to our censure of Love?`,
     ],
   },
   {
@@ -533,7 +540,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Where is the youth to whom I was speaking ? He must hear this also, lest if he do not hear it, he accept a non-lover before we can stop him.`,
+      `Where is the youth to whom I was speaking? He must hear this also, lest if he do not hear it, he accept a non-lover before we can stop him.`,
     ],
   },
   {
@@ -575,7 +582,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `What do you mean ? I don't understand.`,
+      `What do you mean? I don't understand.`,
     ],
   },
   {
@@ -593,7 +600,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `The writer says, "It was voted by the senate (or the people, or both), and so-and-so moved," mentioning his own name with great dignity and praise, then after that he goes on, displaying his own wisdom to his approvers, and sometimes making a very long document. Does it seem to you that a thing of that sort is anything else than a written speech ?`,
+      `The writer says, "It was voted by the senate (or the people, or both), and so-and-so moved," mentioning his own name with great dignity and praise, then after that he goes on, displaying his own wisdom to his approvers, and sometimes making a very long document. Does it seem to you that a thing of that sort is anything else than a written speech?`,
     ],
   },
   {
@@ -629,7 +636,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Well then, when an orator or a king is able to rival the greatness of Lycurgus or Solon or Darius and attain immortality as a writer in the state, does he not while living think himself equal to the gods, and has not posterity the same opinion of him, when they see his writings ?`,
+      `Well then, when an orator or a king is able to rival the greatness of Lycurgus or Solon or Darius and attain immortality as a writer in the state, does he not while living think himself equal to the gods, and has not posterity the same opinion of him, when they see his writings?`,
     ],
   },
   {
@@ -641,7 +648,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Do you think, then, that any of the statesmen, no matter how ill-disposed toward Lysias, reproaches him for being a writer ?`,
+      `Do you think, then, that any of the statesmen, no matter how ill-disposed toward Lysias, reproaches him for being a writer?`,
     ],
   },
   {
@@ -659,7 +666,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `How can it be ?`,
+      `How can it be?`,
     ],
   },
   {
@@ -677,13 +684,13 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `What, then, is the method of writing well or badly ? Do we want to question Lysias about this, and anyone else who ever has written or will write anything, whether a public or private document, in verse or in prose, be he poet or ordinary man ?`,
+      `What, then, is the method of writing well or badly? Do we want to question Lysias about this, and anyone else who ever has written or will write anything, whether a public or private document, in verse or in prose, be he poet or ordinary man?`,
     ],
   },
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `You ask if we want to question them ? What else should one live for, so to speak, but for such pleasures ? Certainly not for those which cannot be enjoyed without previous pain, which is the case with nearly all bodily pleasures and causes them to be justly called slavish.`,
+      `You ask if we want to question them? What else should one live for, so to speak, but for such pleasures? Certainly not for those which cannot be enjoyed without previous pain, which is the case with nearly all bodily pleasures and causes them to be justly called slavish.`,
     ],
   },
   {
@@ -725,7 +732,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `If a speech is to be good, must not the mind of the speaker know the truth about the matters of which he is to speak ?`,
+      `If a speech is to be good, must not the mind of the speaker know the truth about the matters of which he is to speak?`,
     ],
   },
   {
@@ -785,7 +792,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `But is it not better to be ridiculous than to be clever and an enemy ?`,
+      `But is it not better to be ridiculous than to be clever and an enemy?`,
     ],
   },
   {
@@ -797,7 +804,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Then when the orator who does not know what good and evil are undertakes to persuade a state which is equally ignorant, not by praising the " shadow of an ass " 2 under the name of a horse, but by praising evil under the name of good, and having studied the opinions of the multitude persuades them to do evil instead of good, what harvest do you suppose his oratory will reap thereafter from the seed he has sown ?`,
+      `Then when the orator who does not know what good and evil are undertakes to persuade a state which is equally ignorant, not by praising the " shadow of an ass " 2 under the name of a horse, but by praising evil under the name of good, and having studied the opinions of the multitude persuades them to do evil instead of good, what harvest do you suppose his oratory will reap thereafter from the seed he has sown?`,
     ],
   },
   {
@@ -809,13 +816,13 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Well, do you think we have reproached the art of speaking too harshly ? Perhaps she might say : " Why do you talk such nonsense, you strange men ? I do not compel anyone to learn to speak without knowing the truth, but if my advice is of any value, he learns that first and then acquires me. So what I claim is this, that without my help the knowledge of the truth does not give the art of persuasion."`,
+      `Well, do you think we have reproached the art of speaking too harshly? Perhaps she might say : " Why do you talk such nonsense, you strange men? I do not compel anyone to learn to speak without knowing the truth, but if my advice is of any value, he learns that first and then acquires me. So what I claim is this, that without my help the knowledge of the truth does not give the art of persuasion."`,
     ],
   },
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `And will she be right in saying this ?`,
+      `And will she be right in saying this?`,
     ],
   },
   {
@@ -845,7 +852,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Is not rhetoric in its entire nature an art which leads the soul by means of words, not only in law courts and the various other public assemblages, but in private companies as well ? And is it not the same when concerned with small things as with great, and, properly speaking, no more to be esteemed in important than in trifling matters ? Is this what you have heard ?`,
+      `Is not rhetoric in its entire nature an art which leads the soul by means of words, not only in law courts and the various other public assemblages, but in private companies as well? And is it not the same when concerned with small things as with great, and, properly speaking, no more to be esteemed in important than in trifling matters? Is this what you have heard?`,
     ],
   },
   {
@@ -857,7 +864,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Then you have heard only of the treatises on rhetoric by Nestor and Odysseus, which they wrote when they had nothing to do at Troy, and you have not heard of that by Palamedes ?`,
+      `Then you have heard only of the treatises on rhetoric by Nestor and Odysseus, which they wrote when they had nothing to do at Troy, and you have not heard of that by Palamedes?`,
     ],
   },
   {
@@ -869,7 +876,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Perhaps I am. However, never mind them; but tell me, what do the parties in a lawsuit do in court ? Do they not contend in speech, or what shall we say they do ?`,
+      `Perhaps I am. However, never mind them; but tell me, what do the parties in a lawsuit do in court? Do they not contend in speech, or what shall we say they do?`,
     ],
   },
   {
@@ -893,7 +900,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Then he whose speaking is an art will make the same thing appear to the same persons at one time just and at another, if he wishes, unjust ?`,
+      `Then he whose speaking is an art will make the same thing appear to the same persons at one time just and at another, if he wishes, unjust?`,
     ],
   },
   {
@@ -905,7 +912,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `And in political speaking he will make the same things seem to the State at one time good and at another the opposite ?`,
+      `And in political speaking he will make the same things seem to the State at one time good and at another the opposite?`,
     ],
   },
   {
@@ -917,7 +924,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Do we not know that the Eleatic Palamedes (Zeno) has such an art of speaking that the same things appear to his hearers to be alike and unlike, one and many, stationary and in motion ?`,
+      `Do we not know that the Eleatic Palamedes (Zeno) has such an art of speaking that the same things appear to his hearers to be alike and unlike, one and many, stationary and in motion?`,
     ],
   },
   {
@@ -935,13 +942,13 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `What do you mean by that ?`,
+      `What do you mean by that?`,
     ],
   },
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `I think it will be plain if we examine the matter in this way. Is deception easier when there is much difference between things or when there is little ?`,
+      `I think it will be plain if we examine the matter in this way. Is deception easier when there is much difference between things or when there is little?`,
     ],
   },
   {
@@ -977,7 +984,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Now will he be able, not knowing the truth about a given thing, to recognise in other things the great or small degree of likeness to that which he does not know ?`,
+      `Now will he be able, not knowing the truth about a given thing, to recognise in other things the great or small degree of likeness to that which he does not know?`,
     ],
   },
   {
@@ -1025,7 +1032,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Shall we look in the speech of Lysias, which you have with you, and in what I said, for something which we think shows art and the lack of art ?`,
+      `Shall we look in the speech of Lysias, which you have with you, and in what I said, for something which we think shows art and the lack of art?`,
     ],
   },
   {
@@ -1061,7 +1068,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Stop. Now we must tell what there is in this that is faulty and lacks art, must we not ?`,
+      `Stop. Now we must tell what there is in this that is faulty and lacks art, must we not?`,
     ],
   },
   {
@@ -1073,7 +1080,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `It is clear to everyone that we are in accord about some matters of this kind and at variance about others, is it not ?`,
+      `It is clear to everyone that we are in accord about some matters of this kind and at variance about others, is it not?`,
     ],
   },
   {
@@ -1085,7 +1092,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `When one says "iron" or "silver," we all understand the same thing, do we not ?`,
+      `When one says "iron" or "silver," we all understand the same thing, do we not?`,
     ],
   },
   {
@@ -1097,7 +1104,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `What if he says "justice" or "good- ness " ? Do we not part company, and disagree with each other and with ourselves ?`,
+      `What if he says "justice" or "good- ness "? Do we not part company, and disagree with each other and with ourselves?`,
     ],
   },
   {
@@ -1121,7 +1128,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Then in which of the two are we more easy to deceive, and in which has rhetoric the greater power ?`,
+      `Then in which of the two are we more easy to deceive, and in which has rhetoric the greater power?`,
     ],
   },
   {
@@ -1157,13 +1164,13 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Well then, to which does Love belong ? To the doubtful things or the others ?`,
+      `Well then, to which does Love belong? To the doubtful things or the others?`,
     ],
   },
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `To the doubtful, surely ; if he did not, do you think he would have let you say what you said just now about him, that he is an injury to the beloved and to the lover, and again that he is the greatest of blessings ?`,
+      `To the doubtful, surely ; if he did not, do you think he would have let you say what you said just now about him, that he is an injury to the beloved and to the lover, and again that he is the greatest of blessings?`,
     ],
   },
   {
@@ -1181,7 +1188,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Oh, how much more versed the nymphs, daughters of Achelous, and Pan, son of Hermes, are in the art of speech than Lysias, son of Cephalus ! Or am I wrong, and did Lysias also, in the beginning of his discourse on Love, compel us to suppose Love to be some one thing which he chose to consider it, and did he then compose and finish his discourse with that in view ? Shall we read the beginning of it again ?`,
+      `Oh, how much more versed the nymphs, daughters of Achelous, and Pan, son of Hermes, are in the art of speech than Lysias, son of Cephalus ! Or am I wrong, and did Lysias also, in the beginning of his discourse on Love, compel us to suppose Love to be some one thing which he chose to consider it, and did he then compose and finish his discourse with that in view? Shall we read the beginning of it again?`,
     ],
   },
   {
@@ -1205,7 +1212,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `He certainly does not at all seem to do what we demand, for he does not even begin at the beginning, but undertakes to swim on his back up the current of his discourse from its end, and begins with what the lover would says at the end to his beloved. Am I not right, Phaedrus my dear ?`,
+      `He certainly does not at all seem to do what we demand, for he does not even begin at the beginning, but undertakes to swim on his back up the current of his discourse from its end, and begins with what the lover would says at the end to his beloved. Am I not right, Phaedrus my dear?`,
     ],
   },
   {
@@ -1217,7 +1224,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `And how about the rest ? Don't you think the parts of the discourse are thrown out helter-skelter ? Or does it seem to you that the second topic had to be put second for any cogent reason, or that any of the other things he says are so placed ? It seemed to me, who am wholly ignorant, that the writer uttered boldly whatever occurred to him. Do you know any rhetorical reason why he arranged his topics in this order ?`,
+      `And how about the rest? Don't you think the parts of the discourse are thrown out helter-skelter? Or does it seem to you that the second topic had to be put second for any cogent reason, or that any of the other things he says are so placed? It seemed to me, who am wholly ignorant, that the writer uttered boldly whatever occurred to him. Do you know any rhetorical reason why he arranged his topics in this order?`,
     ],
   },
   {
@@ -1247,7 +1254,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `What sort of inscription is that, and what is the matter with it ?`,
+      `What sort of inscription is that, and what is the matter with it?`,
     ],
   },
   {
@@ -1271,7 +1278,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `What do you mean ?`,
+      `What do you mean?`,
     ],
   },
   {
@@ -1289,7 +1296,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `I thought you were going to speak the truth and say "madly " ; however, that is just what I had in mind. We said that love was a kind of madness, did we not ?`,
+      `I thought you were going to speak the truth and say "madly " ; however, that is just what I had in mind. We said that love was a kind of madness, did we not?`,
     ],
   },
   {
@@ -1331,7 +1338,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `What do you mean ?`,
+      `What do you mean?`,
     ],
   },
   {
@@ -1343,7 +1350,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `What principles ?`,
+      `What principles?`,
     ],
   },
   {
@@ -1355,7 +1362,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `And what is the other principle, Socrates ?`,
+      `And what is the other principle, Socrates?`,
     ],
   },
   {
@@ -1373,7 +1380,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Now I myself, Phaedrus, am a lover of these processes of division and bringing together, as aids to speech and thought ; and if I think any other man is able to see things that can naturally be collected into one and divided into many, him I follow after and "walk in his footsteps as if he were a god." And whether the name I give to those who can do this is right or wrong, God knows, but I have called them hitherto dialecticians. But tell me now what name to give to those who are taught by you and Lysias, or is this that art of speech by means of which Thrasymachus and the rest have become able speakers themselves, and make others so, if they are willing to pay them royal tribute ?`,
+      `Now I myself, Phaedrus, am a lover of these processes of division and bringing together, as aids to speech and thought ; and if I think any other man is able to see things that can naturally be collected into one and divided into many, him I follow after and "walk in his footsteps as if he were a god." And whether the name I give to those who can do this is right or wrong, God knows, but I have called them hitherto dialecticians. But tell me now what name to give to those who are taught by you and Lysias, or is this that art of speech by means of which Thrasymachus and the rest have become able speakers themselves, and make others so, if they are willing to pay them royal tribute?`,
     ],
   },
   {
@@ -1385,7 +1392,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `What do you mean ? Can there be anything of importance, which is not included in these processes and yet comes under the head of art? Certainly you and I must not neglect it, but must say what it is that remains of rhetoric.`,
+      `What do you mean? Can there be anything of importance, which is not included in these processes and yet comes under the head of art? Certainly you and I must not neglect it, but must say what it is that remains of rhetoric.`,
     ],
   },
   {
@@ -1397,7 +1404,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Thank you for reminding me. You mean that there must be an introduction first, at the beginning of the discourse ; these are the things you mean, are they not ? the niceties of the art.`,
+      `Thank you for reminding me. You mean that there must be an introduction first, at the beginning of the discourse ; these are the things you mean, are they not? the niceties of the art.`,
     ],
   },
   {
@@ -1415,13 +1422,13 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `You mean the worthy Theodorus ?`,
+      `You mean the worthy Theodorus?`,
     ],
   },
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Of course. And he tells how refutation and further refutation must be accomplished, both in accusation and in defence. Shall we not bring the illustrious Parian, Evenus, into our discussion, who invented covert allusion and indirect praises? And some say that he also wrote indirect censures, composing them in verse as an aid to memory ; for he is a clever man. And shall we leave Gorgias and Tisias undisturbed, who saw that probabilities are more to be esteemed than truths, who make small things seem great and great things small by the power of their words, and new things old and old things the reverse, and who invented conciseness of speech and measureless length on all subjects ? And once when Prodicus heard these inventions, he laughed, and said that he alone had discovered the art of proper speech, that discourses should be neither long nor short, but of reasonable length.`,
+      `Of course. And he tells how refutation and further refutation must be accomplished, both in accusation and in defence. Shall we not bring the illustrious Parian, Evenus, into our discussion, who invented covert allusion and indirect praises? And some say that he also wrote indirect censures, composing them in verse as an aid to memory ; for he is a clever man. And shall we leave Gorgias and Tisias undisturbed, who saw that probabilities are more to be esteemed than truths, who make small things seem great and great things small by the power of their words, and new things old and old things the reverse, and who invented conciseness of speech and measureless length on all subjects? And once when Prodicus heard these inventions, he laughed, and said that he alone had discovered the art of proper speech, that discourses should be neither long nor short, but of reasonable length.`,
     ],
   },
   {
@@ -1433,7 +1440,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `And shall we not mention Hippias, our friend from Elis ? I think he would agree with him.`,
+      `And shall we not mention Hippias, our friend from Elis? I think he would agree with him.`,
     ],
   },
   {
@@ -1445,13 +1452,13 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `And what shall we say of Polus and his shrines of learned speech, such as duplication and sententiousness and figurativeness, and what of the names with which Licymnius presented him to effect beautiful diction ?`,
+      `And what shall we say of Polus and his shrines of learned speech, such as duplication and sententiousness and figurativeness, and what of the names with which Licymnius presented him to effect beautiful diction?`,
     ],
   },
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `Were there not some similar inventions of Protagoras, Socrates ?`,
+      `Were there not some similar inventions of Protagoras, Socrates?`,
     ],
   },
   {
@@ -1463,7 +1470,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `You mean making a summary of the points of the speech at the end of it, so as to remind the hearers of what has been said ?`,
+      `You mean making a summary of the points of the speech at the end of it, so as to remind the hearers of what has been said?`,
     ],
   },
   {
@@ -1505,7 +1512,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Tell me ; if anyone should go to your friend Eryximachus or to his father Acumenus and should say " I know how to apply various drugs to people, so as to make them warm or, if I wish, cold, and I can make them vomit, if I like, or can make their bowels move, and all that sort of thing ; and because of this knowledge I claim that I am a physician and can make any other man a physician, to whom I impart the knowledge of these things " ; what do you think they would say ?`,
+      `Tell me ; if anyone should go to your friend Eryximachus or to his father Acumenus and should say " I know how to apply various drugs to people, so as to make them warm or, if I wish, cold, and I can make them vomit, if I like, or can make their bowels move, and all that sort of thing ; and because of this knowledge I claim that I am a physician and can make any other man a physician, to whom I impart the knowledge of these things " ; what do you think they would say?`,
     ],
   },
   {
@@ -1517,7 +1524,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `If then he should say : " No, not at all ; but I think that he who has learned these things from me will be able to do by himself the things you ask about ?"`,
+      `If then he should say : " No, not at all ; but I think that he who has learned these things from me will be able to do by himself the things you ask about?"`,
     ],
   },
   {
@@ -1529,7 +1536,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `And what if someone should go to Sophocles or Euripides and should say that he knew how to make very long speeches about a small matter, and very short ones about a great affair, and pitiful utterances, if he wished, and again terrible and threatening ones, and all that sort of thing, and that he thought by imparting those things he could teach the art of writing tragedies ?`,
+      `And what if someone should go to Sophocles or Euripides and should say that he knew how to make very long speeches about a small matter, and very short ones about a great affair, and pitiful utterances, if he wished, and again terrible and threatening ones, and all that sort of thing, and that he thought by imparting those things he could teach the art of writing tragedies?`,
     ],
   },
   {
@@ -1565,13 +1572,13 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Well then, if the mellifluous Adrastus l or Pericles heard of the excellent accomplish- ments which we just enumerated, brachylogies and figurative speech and all the other things we said we must bring to the light and examine, do we suppose they would, like you and me, be so illbred as to speak discourteously of those who have written and taught these things as the art of rhetoric ? Would they not, since they are wiser than we, censure us also and say, " Phaedrus and Socrates, we ought not to be angry, but lenient, if certain persons who are ignorant of dialectics have been unable to define the nature of rhetoric and on this account have thought, when they possessed the knowledge that is a necessary preliminary to rhetoric, that they had discovered rhetoric, and believe that by teaching these preliminaries to others they have taught them rhetoric completely, and that the persuasive use of these details and the composition of the whole discourse is a small matter which their pupils must supply of themselves in their writings or speeches."`,
+      `Well then, if the mellifluous Adrastus l or Pericles heard of the excellent accomplish- ments which we just enumerated, brachylogies and figurative speech and all the other things we said we must bring to the light and examine, do we suppose they would, like you and me, be so illbred as to speak discourteously of those who have written and taught these things as the art of rhetoric? Would they not, since they are wiser than we, censure us also and say, " Phaedrus and Socrates, we ought not to be angry, but lenient, if certain persons who are ignorant of dialectics have been unable to define the nature of rhetoric and on this account have thought, when they possessed the knowledge that is a necessary preliminary to rhetoric, that they had discovered rhetoric, and believe that by teaching these preliminaries to others they have taught them rhetoric completely, and that the persuasive use of these details and the composition of the whole discourse is a small matter which their pupils must supply of themselves in their writings or speeches."`,
     ],
   },
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `Well, Socrates, it does seem as if that which those men teach and write about as the art of rhetoric were such as you describe. I think you are right. But how and from whom is the truly rhetorical and persuasive art to be acquired ?`,
+      `Well, Socrates, it does seem as if that which those men teach and write about as the art of rhetoric were such as you describe. I think you are right. But how and from whom is the truly rhetorical and persuasive art to be acquired?`,
     ],
   },
   {
@@ -1583,7 +1590,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `Where then ?`,
+      `Where then?`,
     ],
   },
   {
@@ -1595,7 +1602,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `Well ?`,
+      `Well?`,
     ],
   },
   {
@@ -1607,7 +1614,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `What do you mean by that ?`,
+      `What do you mean by that?`,
     ],
   },
   {
@@ -1619,7 +1626,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `How so ?`,
+      `How so?`,
     ],
   },
   {
@@ -1637,7 +1644,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Now do you think one can acquire any appreciable knowledge of the nature of the soul without knowing the nature of the whole man ?`,
+      `Now do you think one can acquire any appreciable knowledge of the nature of the soul without knowing the nature of the whole man?`,
     ],
   },
   {
@@ -1661,7 +1668,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Then see what Hippocrates and true reason say about nature. In considering the nature of anything, must we not consider first, whether that in respect to which we wish to be learned ourselves and to make others learned is simple or multiform, and then, if it is simple, enquire what power of acting it possesses, or of being acted upon, and by what, and if it has many forms, number them, and then see in the case of each form, as we did in the case of the simple nature, what its action is and how it is acted upon and by what ?`,
+      `Then see what Hippocrates and true reason say about nature. In considering the nature of anything, must we not consider first, whether that in respect to which we wish to be learned ourselves and to make others learned is simple or multiform, and then, if it is simple, enquire what power of acting it possesses, or of being acted upon, and by what, and if it has many forms, number them, and then see in the case of each form, as we did in the case of the simple nature, what its action is and how it is acted upon and by what?`,
     ],
   },
   {
@@ -1673,7 +1680,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `At any rate, any other mode of procedure would be like the progress of a blind man. Yet surely he who pursues any study scientifically ought not to be comparable to a blind or a deaf man, but evidently the man whose rhetorical teaching is a real art will explain accurately the nature of that to which his words are to be addressed, and that is the soul, is it not ?`,
+      `At any rate, any other mode of procedure would be like the progress of a blind man. Yet surely he who pursues any study scientifically ought not to be comparable to a blind or a deaf man, but evidently the man whose rhetorical teaching is a real art will explain accurately the nature of that to which his words are to be addressed, and that is the soul, is it not?`,
     ],
   },
   {
@@ -1685,7 +1692,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Then this is the goal of all his effort ; he tries to produce conviction in the soul. Is not that so ?`,
+      `Then this is the goal of all his effort ; he tries to produce conviction in the soul. Is not that so?`,
     ],
   },
   {
@@ -1739,7 +1746,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `What is this method ?`,
+      `What is this method?`,
     ],
   },
   {
@@ -1757,7 +1764,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Since it is the function of speech to lead souls by persuasion, he who is to be a rhetorician must know the various forms of soul. Now they are so and so many and of such and such kinds, where- fore men also are of different kinds : these we must classify. Then there are also various classes of speeches, to one of which every speech belongs. So men of a certain sort are easily persuaded by speeches of a certain sort for a certain reason to actions or beliefs of a certain sort, and men of another sort cannot be so persuaded. The student of rhetoric must, accordingly, acquire a proper knowledge of these classes and then be able to follow them accurately with his senses when he sees them in the practical affairs of life ; otherwise he can never have any profit from the lectures he may have heard. But when he has learned to tell what sort of man is influenced by what sort of speech, and is able, if he comes upon such a man, to recognize him and to convince himself that this is the man and this now actually before him is the nature spoken of in a certain lecture, to which he must now make a practical application of a certain kind of speech in a certain way to persuade his hearer to a certain action or belief when he has acquired all this, and has added thereto a knowledge of the times for speaking and for keeping silence, and has also dis- tinguished the favourable occasions for brief speech or pitiful speech or intensity and all the classes of speech which he has learned, then, and not till then, will his art be fully and completely finished ; and if anyone who omits any of these points in his speaking or writing claims to speak by the rules of art, the one who disbelieves him is the better man. " Now then/' perhaps the writer of our treatise will say, " Phaedrus and Socrates, do you agree to all this ? Or must the art of speech be described in some other way ?"`,
+      `Since it is the function of speech to lead souls by persuasion, he who is to be a rhetorician must know the various forms of soul. Now they are so and so many and of such and such kinds, where- fore men also are of different kinds : these we must classify. Then there are also various classes of speeches, to one of which every speech belongs. So men of a certain sort are easily persuaded by speeches of a certain sort for a certain reason to actions or beliefs of a certain sort, and men of another sort cannot be so persuaded. The student of rhetoric must, accordingly, acquire a proper knowledge of these classes and then be able to follow them accurately with his senses when he sees them in the practical affairs of life ; otherwise he can never have any profit from the lectures he may have heard. But when he has learned to tell what sort of man is influenced by what sort of speech, and is able, if he comes upon such a man, to recognize him and to convince himself that this is the man and this now actually before him is the nature spoken of in a certain lecture, to which he must now make a practical application of a certain kind of speech in a certain way to persuade his hearer to a certain action or belief when he has acquired all this, and has added thereto a knowledge of the times for speaking and for keeping silence, and has also dis- tinguished the favourable occasions for brief speech or pitiful speech or intensity and all the classes of speech which he has learned, then, and not till then, will his art be fully and completely finished ; and if anyone who omits any of these points in his speaking or writing claims to speak by the rules of art, the one who disbelieves him is the better man. " Now then/' perhaps the writer of our treatise will say, " Phaedrus and Socrates, do you agree to all this? Or must the art of speech be described in some other way?"`,
     ],
   },
   {
@@ -1781,7 +1788,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Then shall I tell something that I have heard some of those say who make these matters their business ?`,
+      `Then shall I tell something that I have heard some of those say who make these matters their business?`,
     ],
   },
   {
@@ -1829,7 +1836,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Apparently after he had invented this clever scientific definition, he wrote that if a feeble and brave man assaulted a strong coward, robbed him of his cloak or something, and was brought to trial for it, neither party ought to speak the truth ; the coward should say that he had not been assaulted by the brave man alone, whereas the other should prove that only they two were present and should use the well-known argument, " How could a little man like me assault such a man as he is ? " The coward will not acknowledge his cowardice, but will perhaps try to invent some other lie, and thus give his oppo- nent a chance to confute him. And in other cases there are other similar rules of art. Is that not so, Phaedrus ?`,
+      `Apparently after he had invented this clever scientific definition, he wrote that if a feeble and brave man assaulted a strong coward, robbed him of his cloak or something, and was brought to trial for it, neither party ought to speak the truth ; the coward should say that he had not been assaulted by the brave man alone, whereas the other should prove that only they two were present and should use the well-known argument, " How could a little man like me assault such a man as he is? " The coward will not acknowledge his cowardice, but will perhaps try to invent some other lie, and thus give his oppo- nent a chance to confute him. And in other cases there are other similar rules of art. Is that not so, Phaedrus?`,
     ],
   },
   {
@@ -1847,7 +1854,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `What ?`,
+      `What?`,
     ],
   },
   {
@@ -1889,7 +1896,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `But we have still to speak of propriety and impropriety in writing, how it should be done and how it is improper, have we not ?`,
+      `But we have still to speak of propriety and impropriety in writing, how it should be done and how it is improper, have we not?`,
     ],
   },
   {
@@ -1901,19 +1908,19 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Do you know how you can act or speak about rhetoric so as to please God best ?`,
+      `Do you know how you can act or speak about rhetoric so as to please God best?`,
     ],
   },
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `Not at all; do you ?`,
+      `Not at all; do you?`,
     ],
   },
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `I can tell something I have heard of the ancients ; but whether it is true, they only know. But if we ourselves should find it out, should we care any longer for human opinions ?`,
+      `I can tell something I have heard of the ancients ; but whether it is true, they only know. But if we ourselves should find it out, should we care any longer for human opinions?`,
     ],
   },
   {
@@ -1973,13 +1980,13 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Now tell me ; is there not another kind of speech, or word, which shows itself to be the legitimate brother of this bastard one, both in the manner of its begetting and in its better and more powerful nature ?`,
+      `Now tell me ; is there not another kind of speech, or word, which shows itself to be the legitimate brother of this bastard one, both in the manner of its begetting and in its better and more powerful nature?`,
     ],
   },
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `What is this word and how is it begotten, as you say ?`,
+      `What is this word and how is it begotten, as you say?`,
     ],
   },
   {
@@ -1997,7 +2004,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Exactly. Now tell me this. Would a sensible husbandman, who has seeds which he cares for and which he wishes to bear fruit, plant them with serious purpose in the heat of summer in some garden of Adonis, and delight in seeing them appear in beauty in eight days, or would he do that sort of thing, when he did it at all, only in play and for amusement ? Would he not, when he was in earnest, follow the rules of husbandry, plant his seeds in fitting ground, and be pleased when those which he had sowed reached their perfection in the eighth month ?`,
+      `Exactly. Now tell me this. Would a sensible husbandman, who has seeds which he cares for and which he wishes to bear fruit, plant them with serious purpose in the heat of summer in some garden of Adonis, and delight in seeing them appear in beauty in eight days, or would he do that sort of thing, when he did it at all, only in play and for amusement? Would he not, when he was in earnest, follow the rules of husbandry, plant his seeds in fitting ground, and be pleased when those which he had sowed reached their perfection in the eighth month?`,
     ],
   },
   {
@@ -2009,7 +2016,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `And shall we suppose that he who has knowledge of the just and the good and beautiful has less sense about his seeds than the husbandman ?`,
+      `And shall we suppose that he who has knowledge of the just and the good and beautiful has less sense about his seeds than the husbandman?`,
     ],
   },
   {
@@ -2063,7 +2070,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `What others ?`,
+      `What others?`,
     ],
   },
   {
@@ -2135,7 +2142,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `What titles do you grant them then ?`,
+      `What titles do you grant them then?`,
     ],
   },
   {
@@ -2153,7 +2160,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `On the other hand, he who has nothing more valuable than the things he has composed or written, turning his words .up and down at his leisure, adding this phrase and taking that away, will you not properly address him as poet or writer of speeches or of laws ?`,
+      `On the other hand, he who has nothing more valuable than the things he has composed or written, turning his words .up and down at his leisure, adding this phrase and taking that away, will you not properly address him as poet or writer of speeches or of laws?`,
     ],
   },
   {
@@ -2183,7 +2190,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `The fair Isocrates. What message will you give him ? What shall we say that he is ?`,
+      `The fair Isocrates. What message will you give him? What shall we say that he is?`,
     ],
   },
   {
@@ -2195,7 +2202,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `What is it ?`,
+      `What is it?`,
     ],
   },
   {
@@ -2213,7 +2220,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Is it not well to pray to the deities here before we go ?`,
+      `Is it not well to pray to the deities here before we go?`,
     ],
   },
   {
@@ -2225,7 +2232,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `O beloved Pan and all ye other gods of this place, grant to me that I be made beautiful in my soul within, and that all external possessions be in harmony with my inner man. May I consider the wise man rich ; and may I have such wealth as only the self-restrained man can bear or endure. Do we need anything more, Phaedrus ? For me that prayer is enough.`,
+      `O beloved Pan and all ye other gods of this place, grant to me that I be made beautiful in my soul within, and that all external possessions be in harmony with my inner man. May I consider the wise man rich ; and may I have such wealth as only the self-restrained man can bear or endure. Do we need anything more, Phaedrus? For me that prayer is enough.`,
     ],
   },
   {
