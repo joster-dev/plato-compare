@@ -65,32 +65,45 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
     speech: [
       `Indeed, Socrates, you are just the man to hear it.`,
       `For the discourse about which we conversed, was in a way, a love-speech.`,
-      `For Lysias has represented one of the beauties being tempted, but not by a lover ; this is just the clever thing about it ;`,
+      `For Lysias has represented one of the beauties being tempted, but not by a lover; this is just the clever thing about it;`,
       `for he says that favours should be granted rather to the one who is not in love than to the lover.`,
     ],
   },
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `O noble Lysias! I wish he would write that they should be granted to the poor rather than to the rich, to the old rather than to the young, and so of all the other qualities that I and most of us have ; for truly his discourse would be witty and of general utility. I am so determined to hear you, that I will not leave you, even if you extend your walk to Megara, and, as Herodicus says, go to the wall and back again.`,
+      `O noble Lysias!`,
+      `I wish he would write that they should be granted to the poor rather than to the rich, to the old rather than to the young, and so of all the other qualities that I and most of us have ;`,
+      `for truly his discourse would be witty and of general utility.`,
+      `I am so determined to hear you, that I will not leave you, even if you extend your walk to Megara, and, as Herodicus says, go to the wall and back again.`,
     ],
   },
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `What are you saying, my dear Socrates? Do you suppose that I, who am a mere ordinary man, can tell from memory, in a way that is worthy of Lysias, what he, the cleverest writer of our day, composed at his leisure and took a long time for? Far from it ; and yet I would rather have that ability than a good sum of money.`,
+      `What are you saying, my dear Socrates?`,
+      `Do you suppose that I, who am a mere ordinary man, can tell from memory, in a way that is worthy of Lysias, what he, the cleverest writer of our day, composed at his leisure and took a long time for?`,
+      `Far from it; and yet I would rather have that ability than a good sum of money.`,
     ],
   },
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `O Phaedrus! If I don't know Phaedrus, I have forgotten myself. But since neither of these things is true, I know very well that when listening to Lysias he did not hear once only, but often urged him to repeat ; and he gladly obeyed. Yet even that was not enough for Phaedrus, but at last he borrowed the book and read what he especially wished, and doing this he sat from early morning. Then, when he grew tired, he went for a walk, with the speech, as I believe, by the Dog, learned by heart, unless it was very long. And he was going outside the wall to practise it. And meeting the man who is sick with the love of discourse, he was glad when he saw him, because he would have someone to share his revel, and told him to lead on. But when the lover of discourse asked him to speak, he feigned coyness, as if he did not yearn to speak ; at last, however, even if no one would listen willingly, he was bound to speak whether or no. So, Phaedrus, ask him to do now what he will presently do anyway.`,
+      `O Phaedrus! If I don't know Phaedrus, I have forgotten myself.`,
+      `But since neither of these things is true, I know very well that when listening to Lysias he did not hear once only, but often urged him to repeat; and he gladly obeyed.`,
+      `Yet even that was not enough for Phaedrus, but at last he borrowed the book and read what he especially wished, and doing this he sat from early morning.`,
+      `Then, when he grew tired, he went for a walk, with the speech, as I believe, by the Dog, learned by heart, unless it was very long.`,
+      `And he was going outside the wall to practice it.`,
+      `And meeting the man who is sick with the love of discourse, he was glad when he saw him, because he would have someone to share his revel, and told him to lead on.`,
+      `But when the lover of discourse asked him to speak, he feigned coyness, as if he did not yearn to speak; at last, however, even if no one would listen willingly, he was bound to speak whether or no.`,
+      `So, Phaedrus, ask him to do now what he will presently do anyway.`,
     ],
   },
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `Truly it is best for me to speak as I may ; since it is clear that you will not let me go until I speak somehow or other.`,
+      `Truly it is best for me to speak as I may;`,
+      `since it is clear that you will not let me go until I speak somehow or other.`,
     ],
   },
   {
@@ -102,25 +115,33 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `Then this is what I will do. Really, Socrates, I have not at all learned the words by heart; but I will repeat the general sense of the whole, the points in which he said the lover was superior to the non-lover, giving them in summary, one after the other, beginning with the first.`,
+      `Then this is what I will do.`,
+      `Really, Socrates, I have not at all learned the words by heart;`,
+      `but I will repeat the general sense of the whole, the points in which he said the lover was superior to the non-lover,`,
+      `giving them in summary, one after the other, beginning with the first.`,
     ],
   },
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Yes, my dear, when you have first shown me what you have in your left hand, under your cloak. For I suspect you have the actual discourse. And if that is the case, believe this of me, that I am very fond of you, but when Lysias is here I have not the slightest intention of lending you my ears to practise on. Come now, show it.`,
+      `Yes, my dear, when you have first shown me what you have in your left hand, under your cloak.`,
+      `For I suspect you have the actual discourse.`,
+      `And if that is the case, believe this of me, that I am very fond of you, but when Lysias is here I have not the slightest intention of lending you my ears to practice on.`,
+      `Come now, show it.`,
     ],
   },
   {
     character: PhaedrusCharacter.Phaedrus,
     speech: [
-      `Stop. You have robbed me of the hope I had of practising on you. But where shall we sit and read?`,
+      `Stop. You have robbed me of the hope I had of practicing on you.`,
+      `But where shall we sit and read?`,
     ],
   },
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `Let us turn aside here and go along the Ilissus ; then we can sit down quietly wherever we please.`,
+      `Let us turn aside here and go along the Ilissus;`,
+      `then we can sit down quietly wherever we please.`,
     ],
   },
   {
@@ -1860,7 +1881,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `" Tisias, some time ago, before you came along, we were saying that this probability of yours was accepted by the people because of its likeness to truth ; and we just stated that he who knows the truth is always best able to discover likenesses. And so, if you have anything else to say about the art of speech, we will listen to you ; but if not, we will put our trust in what we said just now, that unless a man take account of the characters of his hearers and is able to divide things by classes and to comprehend particulars under a general idea, he will never attain the highest human perfection in the art of speech. But this ability he will not gain without much diligent toil, which a wise man ought not to undergo for the sake of speaking and acting before men, but that he may be able to speak and to do everything, so far as possible, in a manner pleasing to the gods. For those who are wiser than we, ^isias, say that a man of sense should surely practise to please not his fellow slaves, except as a secondary consideration, but his good and noble masters. Therefore, if the path is long, be not astonished ; for it must be trodden for great ends, not for those you have in mind. Yet your ends also, as our argument says, will be best gained in this way, if one so desires."`,
+      `" Tisias, some time ago, before you came along, we were saying that this probability of yours was accepted by the people because of its likeness to truth ; and we just stated that he who knows the truth is always best able to discover likenesses. And so, if you have anything else to say about the art of speech, we will listen to you ; but if not, we will put our trust in what we said just now, that unless a man take account of the characters of his hearers and is able to divide things by classes and to comprehend particulars under a general idea, he will never attain the highest human perfection in the art of speech. But this ability he will not gain without much diligent toil, which a wise man ought not to undergo for the sake of speaking and acting before men, but that he may be able to speak and to do everything, so far as possible, in a manner pleasing to the gods. For those who are wiser than we, ^isias, say that a man of sense should surely practice to please not his fellow slaves, except as a secondary consideration, but his good and noble masters. Therefore, if the path is long, be not astonished ; for it must be trodden for great ends, not for those you have in mind. Yet your ends also, as our argument says, will be best gained in this way, if one so desires."`,
     ],
   },
   {
@@ -1932,7 +1953,7 @@ export const PhaedrusLamb: Turn<PhaedrusCharacter>[] = [
   {
     character: PhaedrusCharacter.Socrates,
     speech: [
-      `I heard, then, that at Naucratis, in Egypt, was one of the ancient gods of that country, the one whose sacred bird is called the ibis, and the name of the god himself was Theuth. He it was who invented numbers and arithmetic and geometry and astronomy, also draughts and dice, and, most important of all, letters. Now the king of all Egypt at that time was the god Thamus, who lived in the great city of the upper region, which the Greeks call the Egyptian Thebes, and they call the god himself Ammon. To him came Theuth to show his inventions, saying that they ought to be imparted to the other Egyptians. But Thamus asked what use there was in each, and as Theuth enumerated their uses, expressed praise or blame, according as he approved or disapproved. The story goes that Thamus said many things to Theuth in praise or blame of the various arts, which it would take too long to repeat ; but when they came to the letters, " This invention, O king," said Theuth, "will make the Egyptians wiser and will improve their memories ; for it is an elixir of memory and wisdom that I have discovered." But Thamus replied, " Most ingenious Theuth, one man has the ability to beget arts, but the ability to judge of their usefulness or harmfulness to their users belongs to another ; and now you, who are the father of letters, have been led by your affection to ascribe to them a power the opposite of that which they really possess. For this invention will produce forgetfulness in the minds of those who learn to use it, because they will not practise their memory. Their trust in writing, produced by external characters which are no part of themselves, will discourage the use of their own memory within them. You have invented an elixir not of memory, but of reminding ; and you offer your pupils the appearance of wisdom, not true wisdom, for they will read many things without instruction and will therefore seem to know many things, when they are for the most part ignorant and hard to get along with, since they are not wise, but only appear wise."`,
+      `I heard, then, that at Naucratis, in Egypt, was one of the ancient gods of that country, the one whose sacred bird is called the ibis, and the name of the god himself was Theuth. He it was who invented numbers and arithmetic and geometry and astronomy, also draughts and dice, and, most important of all, letters. Now the king of all Egypt at that time was the god Thamus, who lived in the great city of the upper region, which the Greeks call the Egyptian Thebes, and they call the god himself Ammon. To him came Theuth to show his inventions, saying that they ought to be imparted to the other Egyptians. But Thamus asked what use there was in each, and as Theuth enumerated their uses, expressed praise or blame, according as he approved or disapproved. The story goes that Thamus said many things to Theuth in praise or blame of the various arts, which it would take too long to repeat ; but when they came to the letters, " This invention, O king," said Theuth, "will make the Egyptians wiser and will improve their memories ; for it is an elixir of memory and wisdom that I have discovered." But Thamus replied, " Most ingenious Theuth, one man has the ability to beget arts, but the ability to judge of their usefulness or harmfulness to their users belongs to another ; and now you, who are the father of letters, have been led by your affection to ascribe to them a power the opposite of that which they really possess. For this invention will produce forgetfulness in the minds of those who learn to use it, because they will not practice their memory. Their trust in writing, produced by external characters which are no part of themselves, will discourage the use of their own memory within them. You have invented an elixir not of memory, but of reminding ; and you offer your pupils the appearance of wisdom, not true wisdom, for they will read many things without instruction and will therefore seem to know many things, when they are for the most part ignorant and hard to get along with, since they are not wise, but only appear wise."`,
     ],
   },
   {
