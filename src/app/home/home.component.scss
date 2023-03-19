@@ -5,14 +5,4 @@ ul {
   display: grid;
   grid-template-columns: 1fr 1fr;
   column-gap: 1em;
-
-  > li {
-    border: 1px solid currentColor;
-
-    > a {
-      display: block;
-      width: 100%;
-      text-align: center;
-    }
-  }
 }
