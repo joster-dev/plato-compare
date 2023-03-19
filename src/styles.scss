@@ -2,10 +2,9 @@
 body {
   font-family: Arial;
   font-size: large;
-  line-height: calc(1ex / 0.32);
-  line-height: 1.5;
   background-color: black;
   color: white;
+  margin: 0 1em;
 
   @supports (font-size-adjust: 1) {
     font-size-adjust: 0.5;

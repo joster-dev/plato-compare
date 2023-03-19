@@ -1,0 +1,11 @@
+header {
+  max-width: 850px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+
+  > h1 {
+    margin: 0.5em 0;
+  }
+}

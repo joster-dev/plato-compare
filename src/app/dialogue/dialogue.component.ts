@@ -21,13 +21,13 @@ export class DialogueComponent {
   @HostListener('window:keydown', ['$event'])
   handleKeydown(event: KeyboardEvent) {
     const translation = this.model.translations[this.selectedTranslation];
-    const turn = translation[this.selectedTurn];
+    const turn = translation.turns[this.selectedTurn];
     if (event.code === 'ArrowDown') {
       event.preventDefault();
       if (this.selectedPhrase < turn.speech.length - 1) {
         this.selectedPhrase = this.selectedPhrase + 1;
       }
-      else if (this.selectedPhrase === turn.speech.length - 1 && this.selectedTurn < translation.length - 1) {
+      else if (this.selectedPhrase === turn.speech.length - 1 && this.selectedTurn < translation.turns.length - 1) {
         this.selectedTurn = this.selectedTurn + 1;
         this.selectedPhrase = 0;
       }
@@ -40,7 +40,7 @@ export class DialogueComponent {
       }
       else if (this.selectedPhrase === 0 && this.selectedTurn > 0) {
         this.selectedTurn = this.selectedTurn - 1;
-        this.selectedPhrase = translation[this.selectedTurn].speech.length - 1;
+        this.selectedPhrase = translation.turns[this.selectedTurn].speech.length - 1;
       }
       this.scrollToPhrase();
     }

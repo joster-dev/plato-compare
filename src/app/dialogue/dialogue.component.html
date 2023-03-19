@@ -33,7 +33,7 @@
     *ngFor="let translation of model.translations; let translationIndex = index"
     [hidden]="selectedTranslation !== translationIndex"
   >
-    <section *ngFor="let turn of translation; let turnIndex = index">
+    <section *ngFor="let turn of translation.turns; let turnIndex = index">
       <span [class.highlight]="turnIndex === selectedTurn">
         <i><b>{{turn.character}}.</b></i>
       </span>

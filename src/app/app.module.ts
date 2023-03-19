@@ -8,6 +8,7 @@ import { LachesComponent } from './laches/laches.component';
 import { PhaedrusComponent } from './phaedrus/phaedrus.component';
 import { HomeComponent } from './home/home.component';
 import { DialogueComponent } from './dialogue/dialogue.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -21,6 +22,7 @@ import { DialogueComponent } from './dialogue/dialogue.component';
     BrowserModule,
     AppRoutingModule,
     ChaosControlModule,
+    FormsModule,
   ],
   providers: [],
   bootstrap: [AppComponent],

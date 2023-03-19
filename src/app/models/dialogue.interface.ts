@@ -1,7 +1,8 @@
-import { Turn } from './turn.interface';
+import { Translation } from './translation.interface';
 
-export interface Dialogue<T> {
+export interface Dialogue<T = unknown> {
   title: string;
   safeTitle: string;
-  translations: Turn<T>[][];
+  emoji: string;
+  translations: Translation<T>[];
 }
