@@ -149,7 +149,8 @@ export const PhaedrusLoeb: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Phaedrus,
       speech: [
-        `I am fortunate, it seems, in being barefoot ; you are so always. It is easiest then for us to go along the brook with our feet in the water, and it is not unpleasant, especially at this time of the year and the day.`,
+        `I am fortunate, it seems, in being barefoot ; you are so always.`,
+        `It is easiest then for us to go along the brook with our feet in the water, and it is not unpleasant, especially at this time of the year and the day.`,
       ],
     },
     {
@@ -197,25 +198,37 @@ export const PhaedrusLoeb: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Phaedrus,
       speech: [
-        `Well, is it from here? The streamlet looks very pretty and pure and clear and fit for girls to play by.`,
+        `Well, is it from here?`,
+        `The streamlet looks very pretty and pure and clear and fit for girls to play by.`,
       ],
     },
     {
       character: PhaedrusCharacter.Socrates,
       speech: [
-        `No, the place is about two or three furlongs farther down, where you cross over to the precinct of Agra ; and there is an altar of Boreas somewhere thereabouts.`,
+        `No, the place is about two or three furlongs farther down, where you cross over to the precinct of Agra;`,
+        `and there is an altar of Boreas somewhere thereabouts.`,
       ],
     },
     {
       character: PhaedrusCharacter.Phaedrus,
       speech: [
-        `I have never noticed it. But, for Heaven's sake, Socrates, tell me ; do you believe this tale is true?`,
+        `I have never noticed it. But, for Heaven's sake, Socrates, tell me; do you believe this tale is true?`,
       ],
     },
     {
       character: PhaedrusCharacter.Socrates,
       speech: [
-        `If I disbelieved, as the wise men do, I should not be extraordinary ; then I might give a rational explanation, that a blast of Boreas, the north wind, pushed her off the neighbouring rocks as she was playing with Pharmacea, and that when she had died in this manner she was said to have been carried off by Boreas. 1 But I, Phaedrus, think such explanations are very pretty in general, but are the inventions of a very clever and laborious and not altogether enviable man, for no other reason than because after this he must explain the forms of the Centaurs, and then that of the Chimaera, and there presses in upon him a whole crowd of such creatures, Gorgons and Pegas, and multitudes of strange, inconceivable, portentous natures. If anyone disbelieves in these, and with a rustic sort of wisdom, undertakes to explain each in accordance with probability, he will need a great deal of leisure. But I have no leisure for them at all ; and the reason, my friend, is this : I am not yet able, as the Delphic inscription has it, to know myself; so it seems to me ridiculous, when I do not yet know that, to investigate irrelevant things. And so I dismiss these matters and accepting the customary belief about them, as I was saying just now, I investigate not these things, but myself, to know whether I am a monster more complicated and more furious than Typhon or a gentler and simpler creature, to whom a divine and quiet lot is given by nature. But, my friend, while we were talking, is not this the tree to which you were leading us?`,
+        `If I disbelieved, as the wise men do, I should not be extraordinary;`,
+        `then I might give a rational explanation, that a blast of Boreas, the north wind, pushed her off the neighboring rocks as she was playing with Pharmacea,`,
+        `and that when she had died in this manner she was said to have been carried off by Boreas.`,
+        `But I, Phaedrus, think such explanations are very pretty in general, but are the inventions of a very clever and laborious and not altogether enviable man,`,
+        `for no other reason than because after this he must explain the forms of the Centaurs, and then that of the Chimaera, and there presses in upon him a whole crowd of such creatures, Gorgons and Pegas, and multitudes of strange, inconceivable, portentous natures.`,
+        `If anyone disbelieves in these, and with a rustic sort of wisdom, undertakes to explain each in accordance with probability, he will need a great deal of leisure.`,
+        `But I have no leisure for them at all; and the reason, my friend, is this:`,
+        `I am not yet able, as the Delphic inscription has it, to know myself; so it seems to me ridiculous, when I do not yet know that, to investigate irrelevant things.`,
+        `And so I dismiss these matters and accepting the customary belief about them,`,
+        `as I was saying just now, I investigate not these things, but myself, to know whether I am a monster more complicated and more furious than Typhon or a gentler and simpler creature, to whom a divine and quiet lot is given by nature.`,
+        `But, my friend, while we were talking, is not this the tree to which you were leading us?`,
       ],
     },
     {
@@ -227,13 +240,22 @@ export const PhaedrusLoeb: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Socrates,
       speech: [
-        `By Hera, it is a charming resting place. For this plane tree is very spreading and lofty, and the tall and shady willow is very beautiful, and it is in full bloom, so as to make the place most fragrant ; then, too, the spring is very pretty as it flows under the plane tree, and its water is very cool, to judge by my foot. And it seems to be a sacred place of some nymphs and of Achelous, judging by the figurines and statues. Then again, if you please, how lovely and perfectly charming the breeziness of the place is! and it resounds with the shrill summer music of the chorus of cicadas. But the most delightful thing of all is the grass, as it grows on the gentle slope, thick enough to be just right when you lay your head on it. So you have guided the stranger most excellently, dear Phaedrus.`,
+        `By Hera, it is a charming resting place. For this plane tree is very spreading and lofty, and the tall and shady willow is very beautiful,`,
+        `and it is in full bloom, so as to make the place most fragrant;`,
+        `then, too, the spring is very pretty as it flows under the plane tree, and its water is very cool, to judge by my foot.`,
+        `And it seems to be a sacred place of some nymphs and of Achelous, judging by the figurines and statues.`,
+        `Then again, if you please, how lovely and perfectly charming the breeziness of the place is!`,
+        `and it resounds with the shrill summer music of the chorus of cicadas.`,
+        `But the most delightful thing of all is the grass, as it grows on the gentle slope, thick enough to be just right when you lay your head on it.`,
+        `So you have guided the stranger most excellently, dear Phaedrus.`,
       ],
     },
     {
       character: PhaedrusCharacter.Phaedrus,
       speech: [
-        `You are an amazing and most remarkable person. For you really do seem exactly like a stranger who is being guided about, and not like a native. You don't go away from the city out over the border, and it seems to me you don't go outside the walls at all.`,
+        `You are an amazing and most remarkable person.`,
+        `For you really do seem exactly like a stranger who is being guided about, and not like a native.`,
+        `You don't go away from the city out over the border, and it seems to me you don't go outside the walls at all.`,
       ],
     },
     {

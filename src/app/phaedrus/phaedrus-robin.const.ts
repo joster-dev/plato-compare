@@ -149,7 +149,8 @@ export const PhaedrusRobin: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Phaedrus,
       speech: [
-        `It turns out to be a good thing that I have no shoes on. You never do, of course. It will be very easy for us to wet our feet as we walk by the stream, which will be nice, especially at this time of day in this season.`,
+        `It turns out to be a good thing that I have no shoes on. You never do, of course.`,
+        `It will be very easy for us to wet our feet as we walk by the stream, which will be nice, especially at this time of day in this season.`,
       ],
     },
     {
@@ -197,13 +198,15 @@ export const PhaedrusRobin: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Phaedrus,
       speech: [
-        `Well, wasn't it from here? At any rate, the water has a pleasant, clean, clear appearance—just right for girls to play beside.`,
+        `Well, wasn't it from here?`,
+        `At any rate, the water has a pleasant, clean, clear appearance—just right for girls to play beside.`,
       ],
     },
     {
       character: PhaedrusCharacter.Socrates,
       speech: [
-        `No, this isn't the place. It's about two or three stades downstream, where one crosses to go towards Agra. There's an altar of Boreas somewhere there.`,
+        `No, this isn't the place. It's about two or three stades downstream, where one crosses to go towards Agra.`,
+        `There's an altar of Boreas somewhere there.`,
       ],
     },
     {
@@ -215,7 +218,17 @@ export const PhaedrusRobin: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Socrates,
       speech: [
-        `It wouldn't be odd for me to doubt it as the experts do. I might give a clever explanation of it, and say that a gust of wind from the north pushed her from the nearby rocks while she was playing with Pharmaceia, and although this caused her death she was said to have been abducted by Boreas—either from here or from the Areopagus, since there's another version of the story, that she was abducted from there, not here. Basically, Phaedrus, although I find these kinds of interpretations fascinating, they are the work of someone who is too clever for his own good. He has to work hard and is rather unfortunate, if only because he next has to correct the way Centaurs look, and then the Chimaera, and then there pours down on him a horde of similar creatures, like the Gorgon and Pegasus and countless other extraordinary beasts with all kinds of monstrous natures. If anyone has doubts about these creatures and wants to use a rough-and-ready kind of ingenuity to force each of them to conform with probability, he'll need a lot of spare time. As for me, I never have time to spend on these things, and there's a good reason for this, my friend: I am still incapable of obeying the Delphic inscription and knowing myself. It strikes me as absurd to look into matters that have nothing to do with me as long as I'm still ignorant in this respect, so I ignore all these matters and go along with the traditional views about them. As I said just now, I investigate myself rather than these things, to see whether I am in fact a creature of more complexity and savagery than Typhon, or something tamer and more simple, with a naturally divine and non-Typhonic nature. But anyway, my friend, if I may interrupt our conversation, isn't this the tree you were taking us to?`,
+        `It wouldn't be odd for me to doubt it as the experts do.`,
+        `I might give a clever explanation of it, and say that a gust of wind from the north pushed her from the nearby rocks while she was playing with Pharmaceia,`,
+        `and although this caused her death she was said to have been abducted by Boreas—either from here or from the Areopagus, since there's another version of the story, that she was abducted from there, not here.`,
+        `Basically, Phaedrus, although I find these kinds of interpretations fascinating, they are the work of someone who is too clever for his own good. He has to work hard and is rather unfortunate,`,
+        `if only because he next has to correct the way Centaurs look, and then the Chimaera, and then there pours down on him a horde of similar creatures, like the Gorgon and Pegasus and countless other extraordinary beasts with all kinds of monstrous natures.`,
+        `If anyone has doubts about these creatures and wants to use a rough-and-ready kind of ingenuity to force each of them to conform with probability, he'll need a lot of spare time.`,
+        `As for me, I never have time to spend on these things, and there's a good reason for this, my friend:`,
+        `I am still incapable of obeying the Delphic inscription and knowing myself. It strikes me as absurd to look into matters that have nothing to do with me as long as I'm still ignorant in this respect,`,
+        `so I ignore all these matters and go along with the traditional views about them.`,
+        `As I said just now, I investigate myself rather than these things, to see whether I am in fact a creature of more complexity and savagery than Typhon, or something tamer and more simple, with a naturally divine and non-Typhonic nature.`,
+        `But anyway, my friend, if I may interrupt our conversation, isn't this the tree you were taking us to?`,
       ],
     },
     {
@@ -227,13 +240,22 @@ export const PhaedrusRobin: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Socrates,
       speech: [
-        `By Hera, what a lovely secluded spot! This plane tree is very tall and flourishing, the agnus is tall enough to provide excellent shade too, and since it is in full bloom it will probably make the place especially fragrant. Then again, the stream flowing under the plane tree is particularly charming, and its water is very cold, to judge by my foot. The place seems by the statuettes and figures to be sacred to certain of the Nymphs and to Achelous. Or again, if you like, how pleasant and utterly delightful is the freshness of the air here! The whisper of the breeze chimes in a summery, clear way with the chorus of the cicadas. But the nicest thing of all is the fact that the grass is on a gentle slope which is perfect for resting one's head on when lying down. You are indeed a very good guide, my dear Phaedrus.`,
+        `By Hera, what a lovely secluded spot! This plane tree is very tall and flourishing, the agnus is tall enough to provide excellent shade too,`,
+        `and since it is in full bloom it will probably make the place especially fragrant.`,
+        `Then again, the stream flowing under the plane tree is particularly charming, and its water is very cold, to judge by my foot.`,
+        `The place seems by the statuettes and figures to be sacred to certain of the Nymphs and to Achelous.`,
+        `Or again, if you like, how pleasant and utterly delightful is the freshness of the air here!`,
+        `The whisper of the breeze chimes in a summery, clear way with the chorus of the cicadas.`,
+        `But the nicest thing of all is the fact that the grass is on a gentle slope which is perfect for resting one's head on when lying down.`,
+        `You are indeed a very good guide, my dear Phaedrus.`,
       ],
     },
     {
       character: PhaedrusCharacter.Phaedrus,
       speech: [
-        `You're quite remarkable, Socrates! You're like a complete stranger—literally, as you say, as if you were a visitor being shown around, not a local resident. It's proof of how you never leave town either to travel abroad or even, I think, to step outside the city walls at all.`,
+        `You're quite remarkable, Socrates!`,
+        `You're like a complete stranger—literally, as you say, as if you were a visitor being shown around, not a local resident.`,
+        `It's proof of how you never leave town either to travel abroad or even, I think, to step outside the city walls at all.`,
       ],
     },
     {
