@@ -7,13 +7,8 @@ header {
   background: linear-gradient(black 80%, transparent);
   padding: 0.5em 0 1em 0;
 
-  > div:first-child {
-    display: flex;
-    align-items: center;
-
-    > small {
-      margin-left: 0.5em;
-    }
+  > div:last-child {
+    white-space: nowrap;
   }
 
   h2 {
@@ -23,6 +18,10 @@ header {
 
 .translation-container {
   line-height: 1.5em;
+
+  section {
+    margin-bottom: 1em;
+  }
 }
 
 jo-link {

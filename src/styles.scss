@@ -1,14 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
 body {
   font-family: Arial;
-  font-size: large;
   background-color: black;
   color: white;
-  margin: 0 1em;
-
-  @supports (font-size-adjust: 1) {
-    font-size-adjust: 0.5;
-  }
+  margin: 0 0.5em;
 }
 
 .highlight {
