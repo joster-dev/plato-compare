@@ -261,25 +261,80 @@ export const PhaedrusRobin: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Socrates,
       speech: [
-        `You'll have to forgive me, my friend. I'm an intellectual, you see, and country places with their trees tend to have nothing to teach me, whereas people in town do. But I think you've found a way to charm me outside. Just as people get hungry animals to follow them by waving some greenery or a vegetable in front of them, so it looks as though all you have to do is dangle a speech on a scroll in front of me and you can take me all over Attica, and anywhere else you fancy. At the moment, though, this is the place I've come to, and so I think I'll lie down, and you can find whatever position you think will be most comfortable for reading, and then read.`,
+        `You'll have to forgive me, my friend.`,
+        `I'm an intellectual, you see, and country places with their trees tend to have nothing to teach me, whereas people in town do.`,
+        `But I think you've found a way to charm me outside.`,
+        `Just as people get hungry animals to follow them by waving some greenery or a vegetable in front of them, so it looks as though all you have to do is dangle a speech on a scroll in front of me and you can take me all over Attica, and anywhere else you fancy.`,
+        `At the moment, though, this is the place I've come to, and so I think I'll lie down, and you can find whatever position you think will be most comfortable for reading, and then read.`,
       ],
     },
     {
       character: PhaedrusCharacter.Phaedrus,
       speech: [
-        `Here I go, then. 'You are aware of my situation and you have heard me explain how, in my opinion, it would be to our advantage if this were to happen. I think that the fact that I happen not to be in love with you should not prevent me getting what I want. You should know that a lover regrets the favours he does once his desire comes to an end, whereas it stands to reason that there is never a time when a non-lover will change his mind. For if he exerts himself to do a favour, he does so willingly, not because he is driven by an irresistible force, and as the best way he can think of to further his own interests. 'Moreover, a lover thinks about how he has harmed his own affairs as a result of being in love and about the favours he has done his beloved, takes into consideration all the effort he has put in as well, and concludes that he has long ago paid his beloved the equivalent of any favours he might receive. A non-lover, however, cannot make being in love an excuse for the neglect of his own business, or take past effort into account, or complain of having fallen out with his relatives. The upshot is that, lacking any of these difficulties, he is left with nothing except to commit himself to doing whatever he thinks will please the other party. 'Moreover, if a lover deserves to be valued because he claims to be so very fond of his beloved that he is ready to incur the hatred of everyone else both by what he says and by what he does in order to please his beloved, it is easy to see that, if this claim of his is true, he will value anyone with whom he subsequently falls in love more than his present beloved, and it goes without saying that he will treat him badly if that is what his new beloved wants him to do. 'Also, how does it make sense to give away such a precious thing to someone suffering from the kind of affliction which stops those who experience it even trying to get rid of it? After all, a lover admits that he is sick rather than in his right mind; he knows he is deranged, but is incapable of self-control. And so, when he returns to his senses, how could he think that the decisions he made when he was in this deranged state are sound? 'Then again, if you were to pick the best man from among your lovers, you would have a small field from which to make your choice. But if you were to pick a partner who was most suited to you from among everyone else, you would have a large field to choose from. And so the large field offers you a much better chance of finding someone worthy of your affection. 'Now, if you are worried about the moral code—about the stigma that might attach to you if people found out—it stands to reason that a lover, because he thinks that everyone else considers him just as happy as he does himself, will be stimulated by talking about it, and will proudly point out to everyone that his efforts were not in vain, while a non-lover, who is in control of himself, will choose the best course of action, rather than a worldly reputation. 'Moreover, a lover is bound to be found out. He will be seen by many people trailing along after his beloved and making this his chief business, and so when he and his beloved are spotted talking to each other, people think they are together at that time because they have just satisfied their desires or are just about to. But it never even crosses their minds to criticize non-lovers for spending time together, because they realize that conversation is inevitable between friends or people enjoying themselves in some other way. 'Also, if you are worried by the thought that it is hard for a relationship to last, but that although breaking up normally troubles both friends equally, it would be you who would suffer badly since you have given away what you value most, it is reasonable for you to be more concerned about a lover than a non-lover, because a lover is easily upset and thinks that everything is designed to do him harm. That is also why he tries to stop his beloved spending time with others, because he is afraid that those who are well off will prove to have more money than him and that those who have been educated will be more knowledgeable than him—and he is concerned about what anyone with any other advantage might be able to do. A lover will therefore persuade you to put these people off, until you reach a state of complete isolation from friends, and if you are more clever than him and look to your own advantage, you will cause a rift between yourself and him. Someone who is not in love, however, but got what he wanted as a result of his excellent qualities, will not mind others spending time with you, and in fact will be deeply suspicious of an unwillingness to do so, which he will take as a sign of their wanting to have nothing to do with him, while he will think of the benefit he could gain from those who do spend time with you. The upshot is that a non-lover can be far more hopeful of gaining friendship rather than antagonism as a result of the affair. 'Also, it is commonly the case that a lover desires his beloved's body before he has come to appreciate his character or got to know his other attributes. This should make the beloved wonder whether a lover will still want to be his friend when his desire has come to an end. A couple who are not in love, however, were friendly with each other even before they consummated their affair, and the favours they do each other are unlikely to lessen their friendship, but are more likely to remain as indicators of more to come in the future. 'Also, you can expect to become a better person if you listen to what I say than if you listen to a lover. A lover praises the things his beloved says and does even when they do not conform with morality, partly because he is afraid of being disliked, partly because his judgement is impaired by his desire. After all, here are some typical manifestations of love. Love makes a lover count as disastrous setbacks which cause no one else any distress at all, and when things are going well love compels him to praise even things which ought not to give him pleasure. Pity, then, rather than admiration, would be a far more appropriate response for a beloved to show a lover. But if you listen to me, first, when I am with you, I will not be a slave to immediate pleasure, but will look to the beneficial future results of our relationship; I will not be overcome by love, but will be in control of myself; I will not let trivia arouse me to violent hostility, though important issues will gradually make me a little angry; I will forgive unintentional errors and try to stop you making intentional mistakes before they happen. This all goes to show that our relationship would last a long time. 'If it happens to have occurred to you that there can be no real warmth in a relationship unless your partner is in love, you should bear in mind that, if this were so, we would not value our sons or parents, nor would we have good friends, whose friendship does not depend on the kind of desire a lover has, but on other aspirations. 'Moreover, it follows from the principle that we should make a particular point of gratifying those who particularly need our favours, that in other respects too it is the most needy people, rather than the best people, whom we should be helping, since they will be especially grateful for their release from especially grim circumstances. And the same goes for our private dinner-parties too: we should not invite our friends, but those who beg for food and need filling up, because it is they who will be appreciative, who will follow us around, call at our house, feel the greatest pleasure, be extremely grateful, and pray for us to be showered with blessings. No, perhaps you should gratify those who are best able to repay the favour, rather than those who are especially needy; those who deserve what you have to give, rather than those who merely beg for it; those who will share their own goods with you when you are older, rather than those who merely appreciate your youthful charms; those who will always maintain a discreet silence, rather than those who will boast to others of their success; those who will be lifelong friends, rather than those who pursue you for a short while; those who will take the passing of your youthful charms as an opportunity to display their own good qualities, rather than those who will make the end of their desire an excuse for breaking up with you. You should remember what I have been saying and bear this in mind: while in the case of lovers their friends tell them off for the depravity of what they are up to, no friend or relation has ever criticized a non-lover for letting an affair impair his judgement about what is best for himself. 'Now, you might be wondering, perhaps, whether I am suggesting that you gratify every man who is not in love with you. In the first place, I am sure that a lover would not tell you to have this attitude towards every lover either, because then the favours you grant would not deserve the same degree of gratitude from their recipients, nor, if you wanted to, would you be able to keep an affair secret from everyone else as well as you might otherwise. In the second place, then, no harm should accrue from this business, but only good, for both parties. 'I think that I have said enough to make my point. If you think I have left anything out and you want to hear further arguments, you have only to ask.' So how does the speech strike you, Socrates? Isn't it extraordinary, especially in its use of language?`,
+        `Here I go, then. You are aware of my situation and you have heard me explain how, in my opinion, it would be to our advantage if this were to happen.`,
+        `I think that the fact that I happen not to be in love with you should not prevent me getting what I want.`,
+        `You should know that a lover regrets the favours he does once his desire comes to an end, whereas it stands to reason that there is never a time when a non-lover will change his mind.`,
+        `For if he exerts himself to do a favour, he does so willingly, not because he is driven by an irresistible force, and as the best way he can think of to further his own interests.`,
+        `Moreover, a lover thinks about how he has harmed his own affairs as a result of being in love and about the favours he has done his beloved, takes into consideration all the effort he has put in as well, and concludes that he has long ago paid his beloved the equivalent of any favours he might receive.`,
+        `A non-lover, however, cannot make being in love an excuse for the neglect of his own business, or take past effort into account, or complain of having fallen out with his relatives.`,
+        `The upshot is that, lacking any of these difficulties, he is left with nothing except to commit himself to doing whatever he thinks will please the other party.`,
+        `Moreover, if a lover deserves to be valued because he claims to be so very fond of his beloved that he is ready to incur the hatred of everyone else both by what he says and by what he does in order to please his beloved, it is easy to see that,`,
+        `if this claim of his is true, he will value anyone with whom he subsequently falls in love more than his present beloved, and it goes without saying that he will treat him badly if that is what his new beloved wants him to do.`,
+        `Also, how does it make sense to give away such a precious thing to someone suffering from the kind of affliction which stops those who experience it even trying to get rid of it?`,
+        `After all, a lover admits that he is sick rather than in his right mind; he knows he is deranged, but is incapable of self-control.`,
+        `And so, when he returns to his senses, how could he think that the decisions he made when he was in this deranged state are sound?`,
+        `Then again, if you were to pick the best man from among your lovers, you would have a small field from which to make your choice.`,
+        `But if you were to pick a partner who was most suited to you from among everyone else, you would have a large field to choose from. And so the large field offers you a much better chance of finding someone worthy of your affection.`,
+        `Now, if you are worried about the moral code—about the stigma that might attach to you if people found out—it stands to reason that a lover, because he thinks that everyone else considers him just as happy as he does himself, will be stimulated by talking about it, and will proudly point out to everyone that his efforts were not in vain,`,
+        `while a non-lover, who is in control of himself, will choose the best course of action, rather than a worldly reputation.`,
+        `Moreover, a lover is bound to be found out. He will be seen by many people trailing along after his beloved and making this his chief business,`,
+        `and so when he and his beloved are spotted talking to each other, people think they are together at that time because they have just satisfied their desires or are just about to.`,
+        `But it never even crosses their minds to criticize non-lovers for spending time together, because they realize that conversation is inevitable between friends or people enjoying themselves in some other way.`,
+        `Also, if you are worried by the thought that it is hard for a relationship to last, but that although breaking up normally troubles both friends equally, it would be you who would suffer badly since you have given away what you value most,`,
+        `it is reasonable for you to be more concerned about a lover than a non-lover, because a lover is easily upset and thinks that everything is designed to do him harm.`,
+        `That is also why he tries to stop his beloved spending time with others, because he is afraid that those who are well off will prove to have more money than him and that those who have been educated will be more knowledgeable than him—`,
+        `and he is concerned about what anyone with any other advantage might be able to do.`,
+        `A lover will therefore persuade you to put these people off, until you reach a state of complete isolation from friends, and if you are more clever than him and look to your own advantage, you will cause a rift between yourself and him.`,
+        `Someone who is not in love, however, but got what he wanted as a result of his excellent qualities, will not mind others spending time with you,`,
+        `and in fact will be deeply suspicious of an unwillingness to do so, which he will take as a sign of their wanting to have nothing to do with him, while he will think of the benefit he could gain from those who do spend time with you. The upshot is that a non-lover can be far more hopeful of gaining friendship rather than antagonism as a result of the affair.`,
+        `Also, it is commonly the case that a lover desires his beloved's body before he has come to appreciate his character or got to know his other attributes.`,
+        `This should make the beloved wonder whether a lover will still want to be his friend when his desire has come to an end.`,
+        `A couple who are not in love, however, were friendly with each other even before they consummated their affair, and the favours they do each other are unlikely to lessen their friendship, but are more likely to remain as indicators of more to come in the future.`,
+        `Also, you can expect to become a better person if you listen to what I say than if you listen to a lover.`,
+        `A lover praises the things his beloved says and does even when they do not conform with morality, partly because he is afraid of being disliked, partly because his judgement is impaired by his desire.`,
+        `After all, here are some typical manifestations of love.`,
+        `Love makes a lover count as disastrous setbacks which cause no one else any distress at all, and when things are going well love compels him to praise even things which ought not to give him pleasure.`,
+        `Pity, then, rather than admiration, would be a far more appropriate response for a beloved to show a lover.`,
+        `But if you listen to me, first, when I am with you, I will not be a slave to immediate pleasure, but will look to the beneficial future results of our relationship; I will not be overcome by love, but will be in control of myself;`,
+        `I will not let trivia arouse me to violent hostility, though important issues will gradually make me a little angry; I will forgive unintentional errors and try to stop you making intentional mistakes before they happen.`,
+        `This all goes to show that our relationship would last a long time.`,
+        `If it happens to have occurred to you that there can be no real warmth in a relationship unless your partner is in love, you should bear in mind that, if this were so, we would not value our sons or parents,`,
+        `nor would we have good friends, whose friendship does not depend on the kind of desire a lover has, but on other aspirations.`,
+        `Moreover, it follows from the principle that we should make a particular point of gratifying those who particularly need our favours, that in other respects too it is the most needy people, rather than the best people, whom we should be helping, since they will be especially grateful for their release from especially grim circumstances.`,
+        `And the same goes for our private dinner-parties too: we should not invite our friends, but those who beg for food and need filling up, because it is they who will be appreciative, who will follow us around, call at our house, feel the greatest pleasure, be extremely grateful, and pray for us to be showered with blessings.`,
+        `No, perhaps you should gratify those who are best able to repay the favour, rather than those who are especially needy; those who deserve what you have to give, rather than those who merely beg for it;`,
+        `those who will share their own goods with you when you are older, rather than those who merely appreciate your youthful charms; those who will always maintain a discreet silence, rather than those who will boast to others of their success;`,
+        `those who will be lifelong friends, rather than those who pursue you for a short while; those who will take the passing of your youthful charms as an opportunity to display their own good qualities, rather than those who will make the end of their desire an excuse for breaking up with you.`,
+        `You should remember what I have been saying and bear this in mind: while in the case of lovers their friends tell them off for the depravity of what they are up to, no friend or relation has ever criticized a non-lover for letting an affair impair his judgement about what is best for himself.`,
+        `Now, you might be wondering, perhaps, whether I am suggesting that you gratify every man who is not in love with you.`,
+        `In the first place, I am sure that a lover would not tell you to have this attitude towards every lover either, because then the favours you grant would not deserve the same degree of gratitude from their recipients, nor, if you wanted to, would you be able to keep an affair secret from everyone else as well as you might otherwise.`,
+        `In the second place, then, no harm should accrue from this business, but only good, for both parties.`,
+        `I think that I have said enough to make my point. If you think I have left anything out and you want to hear further arguments, you have only to ask.`,
+        `So how does the speech strike you, Socrates? Isn't it extraordinary, especially in its use of language?`,
       ],
     },
     {
       character: PhaedrusCharacter.Socrates,
       speech: [
-        `Yes, it's out of this world, my friend. I was amazed. And you were the reason I felt this way, Phaedrus, because I was looking at you while you were reading, and it seemed to me that the speech made you glow with pleasure. Assuming that your understanding of these matters is better than mine, I followed your lead, and so I came to share the ecstasy of your enthusiasm.`,
+        `Yes, it's out of this world, my friend. I was amazed.`,
+        `And you were the reason I felt this way, Phaedrus, because I was looking at you while you were reading, and it seemed to me that the speech made you glow with pleasure.`,
+        `Assuming that your understanding of these matters is better than mine, I followed your lead, and so I came to share the ecstasy of your enthusiasm.`,
       ],
     },
     {
       character: PhaedrusCharacter.Phaedrus,
       speech: [
-        `Hmm . . . does it strike you as something to joke about like this?`,
+        `Hmm... does it strike you as something to joke about like this?`,
       ],
     },
     {
@@ -291,19 +346,25 @@ export const PhaedrusRobin: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Phaedrus,
       speech: [
-        `Not at all, Socrates. But please—I beg you in the name of Zeus the guardian of friendship—give me your honest opinion: do you think anyone else in Greece could compose a more important speech on this topic, or could find anything to add to it?`,
+        `Not at all, Socrates. But please—I beg you in the name of Zeus the guardian of friendship—give me your honest opinion:`,
+        `do you think anyone else in Greece could compose a more important speech on this topic, or could find anything to add to it?`,
       ],
     },
     {
       character: PhaedrusCharacter.Socrates,
       speech: [
-        `What? Are we also required to praise a speech because its writer has included the necessary content, and not just because he has written a clear and compact speech, and has finely honed his vocabulary? If we are, I'll have to take your word for it, because it went over my useless head. I was paying attention only to the form of the speech, and I a got the impression that even Lysias himself was dissatisfied with the content. In fact, Phaedrus, unless you correct me, I thought he repeated himself two or three times, as if he had some difficulty finding a lot to say on the subject, or perhaps because he wasn't interested in such matters. And so I thought that in an immature fashion he was showing off his ability to say the same thing in two different ways and to find both times an excellent way of expressing himself.`,
+        `What? Are we also required to praise a speech because its writer has included the necessary content, and not just because he has written a clear and compact speech, and has finely honed his vocabulary?`,
+        `If we are, I'll have to take your word for it, because it went over my useless head.`,
+        `I was paying attention only to the form of the speech, and I got the impression that even Lysias himself was dissatisfied with the content.`,
+        `In fact, Phaedrus, unless you correct me, I thought he repeated himself two or three times, as if he had some difficulty finding a lot to say on the subject, or perhaps because he wasn't interested in such matters.`,
+        `And so I thought that in an immature fashion he was showing off his ability to say the same thing in two different ways and to find both times an excellent way of expressing himself.`,
       ],
     },
     {
       character: PhaedrusCharacter.Phaedrus,
       speech: [
-        `You're talking nonsense, Socrates. The best aspect of the speech is exactly what passed you by. He has omitted none of the topics implicit within the subject-matter which are worth mentioning, and so no one could possibly address the matter more fully and more valuably than he has in what he has said.`,
+        `You're talking nonsense, Socrates. The best aspect of the speech is exactly what passed you by.`,
+        `He has omitted none of the topics implicit within the subject-matter which are worth mentioning, and so no one could possibly address the matter more fully and more valuably than he has in what he has said.`,
       ],
     },
     {
@@ -321,13 +382,18 @@ export const PhaedrusRobin: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Socrates,
       speech: [
-        `I can't tell you right now, just like that. But I must have heard someone—perhaps the fair Sappho, or Anacreon the wise, or even some prose-writer or other. What's my evidence for this? My breast is full, you might say, my friend, and I feel that I could add to what Lysias said on the subject, and do no worse than he did too. But awareness of my own ignorance makes me certain that I didn't gain any of these ideas from my own resources, and so the only alternative, it seems to me, is that I have been filled, like a jug, by streams flowing from elsewhere through my ears. But I've actually forgotten—under the influence of my stupidity again—how and from whom I heard them.`,
+        `I can't tell you right now, just like that. But I must have heard someone—perhaps the fair Sappho, or Anacreon the wise, or even some prose-writer or other.`,
+        `What's my evidence for this? My breast is full, you might say, my friend, and I feel that I could add to what Lysias said on the subject, and do no worse than he did too.`,
+        `But awareness of my own ignorance makes me certain that I didn't gain any of these ideas from my own resources, and so the only alternative, it seems to me, is that I have been filled, like a jug, by streams flowing from elsewhere through my ears.`,
+        `But I've actually forgotten—under the influence of my stupidity again—how and from whom I heard them.`,
       ],
     },
     {
       character: PhaedrusCharacter.Phaedrus,
       speech: [
-        `An excellent speech, Socrates—and extremely generous! I mean, don't let me insist that you tell me from whom and how you heard them, but do exactly what you've said. You undertook to make a new and better speech than the one on the scroll, no shorter than his, and without touching on his points. And I in my turn, in imitation of the nine archons, undertake to dedicate a life-size golden statue in Delphi not only of myself, but also of you.`,
+        `An excellent speech, Socrates—and extremely generous!`,
+        `I mean, don't let me insist that you tell me from whom and how you heard them, but do exactly what you've said. You undertook to make a new and better speech than the one on the scroll, no shorter than his, and without touching on his points.`,
+        `And I in my turn, in imitation of the nine archons, undertake to dedicate a life-size golden statue in Delphi not only of myself, but also of you.`,
       ],
     },
     {
@@ -645,7 +711,7 @@ export const PhaedrusRobin: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Socrates,
       speech: [
-        `Well, as you know, he says 'It was decreed by the Council' or 'by the people' or by both, and 'So-and-so proposed . . . ', which is a very pompous way for the writer to refer to himself and sing his own praises. And then, as a way of displaying his own cleverness to his admirers, he proceeds with what he has to say and sometimes ends up with quite a long composition. How else would you describe such a piece? It's a written speech, isn't it?`,
+        `Well, as you know, he says 'It was decreed by the Council' or 'by the people' or by both, and 'So-and-so proposed... ', which is a very pompous way for the writer to refer to himself and sing his own praises. And then, as a way of displaying his own cleverness to his admirers, he proceeds with what he has to say and sometimes ends up with quite a long composition. How else would you describe such a piece? It's a written speech, isn't it?`,
       ],
     },
     {
@@ -813,7 +879,7 @@ export const PhaedrusRobin: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Socrates,
       speech: [
-        `Suppose I were to persuade you to defend yourself against the enemy by getting a horse, but neither of us knew what a horse was, and all I happened to have heard about you was that Phaedrus thinks a horse is the domesticated animal with the longest ears . . .`,
+        `Suppose I were to persuade you to defend yourself against the enemy by getting a horse, but neither of us knew what a horse was, and all I happened to have heard about you was that Phaedrus thinks a horse is the domesticated animal with the longest ears...`,
       ],
     },
     {
@@ -1107,7 +1173,7 @@ export const PhaedrusRobin: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Phaedrus,
       speech: [
-        `'You are aware of my situation and you have heard me explain how, in my opinion, it would be to our advantage if this were to happen. I think that the fact that I happen not to be in love with you should not prevent me getting what I want. You should know that a lover regrets . . . '`,
+        `'You are aware of my situation and you have heard me explain how, in my opinion, it would be to our advantage if this were to happen. I think that the fact that I happen not to be in love with you should not prevent me getting what I want. You should know that a lover regrets... '`,
       ],
     },
     {
@@ -1251,7 +1317,7 @@ export const PhaedrusRobin: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Phaedrus,
       speech: [
-        `'You are aware of my situation and you have heard me explain how, in my opinion, it would be to our advantage if this were to happen. I think that the fact that I happen not to be in love with you should not prevent me getting what I want. You should know that a lover regrets the favours he does once his desire comes to an end . . .'`,
+        `'You are aware of my situation and you have heard me explain how, in my opinion, it would be to our advantage if this were to happen. I think that the fact that I happen not to be in love with you should not prevent me getting what I want. You should know that a lover regrets the favours he does once his desire comes to an end...'`,
       ],
     },
     {
@@ -1893,7 +1959,7 @@ export const PhaedrusRobin: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Socrates,
       speech: [
-        `Well, it certainly looks as though it was a wonderfully recondite profession that Tisias discovered—or whoever else it might have been, whatever he likes to be called after. Still, my friend, are we or are we not to tell him . . .`,
+        `Well, it certainly looks as though it was a wonderfully recondite profession that Tisias discovered—or whoever else it might have been, whatever he likes to be called after. Still, my friend, are we or are we not to tell him...`,
       ],
     },
     {
@@ -2145,7 +2211,7 @@ export const PhaedrusRobin: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Socrates,
       speech: [
-        `So what about the question whether or not it is acceptable to deliver or write speeches, and under what circumstances it would or would not be fair to describe it as a shameful activity? Haven't our recent conclusions shown . . .`,
+        `So what about the question whether or not it is acceptable to deliver or write speeches, and under what circumstances it would or would not be fair to describe it as a shameful activity? Haven't our recent conclusions shown...`,
       ],
     },
     {
@@ -2157,7 +2223,7 @@ export const PhaedrusRobin: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Socrates,
       speech: [
-        `. . . that if Lysias or anyone else who has in the past written a speech, or will write one in the future, for private or public consumption—that is, in the latter case, when proposing legislation and so composing a political speech—thinks there is any great degree of reliability and clarity in it, this is a source of shame for the author, whether or not anyone has ever said as much to him. For, awake or asleep, ignorance about what activities are right and wrong and good and bad cannot, when seen aright, fail to be a matter for reproach, even if the general mass of people approve of it.`,
+        `...that if Lysias or anyone else who has in the past written a speech, or will write one in the future, for private or public consumption—that is, in the latter case, when proposing legislation and so composing a political speech—thinks there is any great degree of reliability and clarity in it, this is a source of shame for the author, whether or not anyone has ever said as much to him. For, awake or asleep, ignorance about what activities are right and wrong and good and bad cannot, when seen aright, fail to be a matter for reproach, even if the general mass of people approve of it.`,
       ],
     },
     {
