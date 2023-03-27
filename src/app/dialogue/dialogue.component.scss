@@ -2,6 +2,19 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: sticky;
+  top: 0;
+  background: linear-gradient(black 80%, transparent);
+  padding: 0.5em 0 1em 0;
+
+  > div:first-child {
+    display: flex;
+    align-items: center;
+
+    > small {
+      margin-left: 0.5em;
+    }
+  }
 
   h2 {
     margin: 0;

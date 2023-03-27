@@ -1,7 +1,12 @@
 <header>
-  <h2>
-    {{model.title}}
-  </h2>
+  <div>
+    <h2>
+      {{model.title}}
+    </h2>
+    <small>
+      {{model.translations[selectedTranslation].translator}}
+    </small>
+  </div>
   <div>
     <jo-link
       title="Back to Dialogues"

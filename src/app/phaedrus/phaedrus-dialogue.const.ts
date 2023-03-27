@@ -6,7 +6,6 @@ import { PhaedrusRobin } from './phaedrus-robin.const';
 export const PhaedrusDialogue: Dialogue<PhaedrusCharacter> = {
   title: 'Phaedrus',
   safeTitle: 'phaedrus',
-  emoji: '🪷',
   translations: [
     PhaedrusLoeb,
     PhaedrusRobin,
