@@ -1,11 +1,16 @@
 <header>
-  <h2>
-    {{model.title}}
-  </h2>
+  <div>
+    <h2>
+      {{model.title}}
+    </h2>
+    <small>
+      {{model.translations[selectedTranslation].translator}}
+    </small>
+  </div>
   <div>
     <jo-link
       title="Back to Dialogues"
-      routerLink="/home"
+      link="/home"
     >
       Back
     </jo-link>
@@ -33,7 +38,7 @@
     *ngFor="let translation of model.translations; let translationIndex = index"
     [hidden]="selectedTranslation !== translationIndex"
   >
-    <section *ngFor="let turn of translation; let turnIndex = index">
+    <section *ngFor="let turn of translation.turns; let turnIndex = index">
       <span [class.highlight]="turnIndex === selectedTurn">
         <i><b>{{turn.character}}.</b></i>
       </span>

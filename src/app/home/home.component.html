@@ -1,9 +1,33 @@
-<h2>
-  Dialogues
-</h2>
-<nav>
-  <ul>
-    <li><a routerLink="/laches">Laches</a></li>
-    <li><a routerLink="/phaedrus">Phaedrus</a></li>
-  </ul>
-</nav>
+<section>
+  <h2>
+    Dialogues
+  </h2>
+  <nav>
+    <ul>
+      <li *ngFor="let dialogue of dialogues">
+        <jo-link link="/{{dialogue.safeTitle}}">
+          <div class="container">
+            <div>
+              <h3>
+                {{dialogue.title}}
+              </h3>
+            </div>
+            <ul>
+              <li *ngFor="let translation of dialogue.translations">
+                <small>{{translation.translator}}</small>
+              </li>
+            </ul>
+          </div>
+        </jo-link>
+      </li>
+    </ul>
+  </nav>
+</section>
+<!-- <section>
+  <jo-text
+    [(ngModel)]="searchText"
+    placeholder="Enter 3 or more characters..."
+  >
+    Search Dialogues
+  </jo-text>
+</section> -->
