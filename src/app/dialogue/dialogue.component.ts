@@ -1,17 +1,36 @@
-import { Component, Input, HostListener } from '@angular/core';
-import { Dialogue } from '../models/dialogue.interface';
+import { Component, Input, HostListener, OnInit, OnDestroy } from '@angular/core';
+import { Dialogue, Storage } from '../models';
 
 @Component({
   selector: 'pc-dialogue[model]',
   templateUrl: './dialogue.component.html',
   styleUrls: ['./dialogue.component.scss'],
 })
-export class DialogueComponent {
+export class DialogueComponent implements OnInit, OnDestroy {
   @Input() model!: Dialogue<unknown>;
 
   @Input() selectedTranslation = 0;
   @Input() selectedTurn = 0;
   @Input() selectedPhrase = 0;
+
+  ngOnInit(): void {
+    const storageString = window.localStorage.getItem(`${this.model.safeTitle}`);
+    if (storageString !== null) {
+      const storage: Storage = JSON.parse(storageString);
+      this.selectedTranslation = storage.translation;
+      this.selectedTurn = storage.turn;
+      this.selectedPhrase = storage.phrase;
+      setTimeout(() => this.scrollToPhrase());
+    }
+  }
+
+  ngOnDestroy(): void {
+    window.localStorage.setItem(this.model.safeTitle, JSON.stringify({
+      translation: this.selectedTranslation,
+      turn: this.selectedTurn,
+      phrase: this.selectedPhrase,
+    }));
+  }
 
   onClickPhrase(phraseIndex: number, turnIndex: number): void {
     this.selectedPhrase = phraseIndex;
