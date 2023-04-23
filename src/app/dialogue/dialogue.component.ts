@@ -1,5 +1,6 @@
 import { Component, Input, HostListener, OnInit, OnDestroy } from '@angular/core';
 import { Dialogue, Storage } from '../models';
+import { Commentary } from '../models/commentary.interface';
 
 @Component({
   selector: 'pc-dialogue[model]',
@@ -13,6 +14,8 @@ export class DialogueComponent implements OnInit, OnDestroy {
   @Input() selectedTurn = 0;
   @Input() selectedPhrase = 0;
 
+  hasCommentary?: Commentary;
+
   ngOnInit(): void {
     const storageString = window.localStorage.getItem(`${this.model.safeTitle}`);
     if (storageString !== null) {
@@ -21,6 +24,7 @@ export class DialogueComponent implements OnInit, OnDestroy {
       this.selectedTurn = storage.turn;
       this.selectedPhrase = storage.phrase;
       setTimeout(() => this.scrollToPhrase());
+      this.onChangeTurnOrPhrase();
     }
   }
 
@@ -35,6 +39,7 @@ export class DialogueComponent implements OnInit, OnDestroy {
   onClickPhrase(phraseIndex: number, turnIndex: number): void {
     this.selectedPhrase = phraseIndex;
     this.selectedTurn = turnIndex;
+    this.onChangeTurnOrPhrase();
   }
 
   @HostListener('window:keydown', ['$event'])
@@ -50,6 +55,7 @@ export class DialogueComponent implements OnInit, OnDestroy {
         this.selectedTurn = this.selectedTurn + 1;
         this.selectedPhrase = 0;
       }
+      this.onChangeTurnOrPhrase();
       this.scrollToPhrase();
     }
     if (event.code === 'ArrowUp') {
@@ -61,6 +67,7 @@ export class DialogueComponent implements OnInit, OnDestroy {
         this.selectedTurn = this.selectedTurn - 1;
         this.selectedPhrase = translation.turns[this.selectedTurn].speech.length - 1;
       }
+      this.onChangeTurnOrPhrase();
       this.scrollToPhrase();
     }
     if (event.code === 'ArrowRight') {
@@ -84,5 +91,13 @@ export class DialogueComponent implements OnInit, OnDestroy {
     if (element) {
       element.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
+  }
+
+  private onChangeTurnOrPhrase(): void {
+    if (!this.model.commentaries) {
+      this.hasCommentary = undefined;
+      return;
+    }
+    this.hasCommentary = this.model.commentaries.find(item => item.comments.some(comment => comment.turn === this.selectedTurn && comment.phrase === this.selectedPhrase));
   }
 }

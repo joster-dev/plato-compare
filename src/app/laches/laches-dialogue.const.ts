@@ -10,4 +10,5 @@ export const LachesDialogue: Dialogue<LachesCharacter> = {
     LachesLoeb,
     LachesAllen,
   ],
+  commentaries: [],
 };

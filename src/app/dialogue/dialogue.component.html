@@ -9,10 +9,16 @@
   </div>
   <div>
     <jo-link
-      title="Back to Dialogues"
+      title="Back to all Dialogues"
       link="/home"
     >
-      Back
+      Home
+    </jo-link>
+    <jo-link
+      *ngIf="hasCommentary"
+      [link]="['/{{model.safeTitle}}-commentary', selectedTurn, selectedPhrase]"
+    >
+      Commentary
     </jo-link>
     <jo-button
       title="Previous Translation"
