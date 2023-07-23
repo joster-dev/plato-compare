@@ -15,8 +15,7 @@ export const PhaedrusLoeb: Translation<PhaedrusCharacter> = {
       speech: [
         `From Lysias, Socrates, the son of Cephalus; and I am going for a walk outside the wall.`,
         `For I spent a long time there with Lysias, sitting since early morning;`,
-        `and on the advice of your friend and mine, Acumenus, I am taking my walk on the roads;`,
-        `for he says they are less fatiguing than the streets.`,
+        `and on the advice of your friend and mine, Acumenus, I am taking my walk on the roads; for he says they are less fatiguing than the streets.`,
       ],
     },
     {

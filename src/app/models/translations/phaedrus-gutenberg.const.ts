@@ -13,10 +13,9 @@ export const PhaedrusGutenberg: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Phaedrus,
       speech: [
-        `I come from Lysias the son of Cephalus, and I am going to take a walk outside the wall, for I have been sitting with him the whole morning; and our common friend Acumenus tells me that it is much more refreshing to walk in the open air than to be shut up in a cloister.`,
-
-
-
+        `I come from Lysias the son of Cephalus, and I am going to take a walk outside the wall,`,
+        `for I have been sitting with him the whole morning;`,
+        `and our common friend Acumenus tells me that it is much more refreshing to walk in the open air than to be shut up in a cloister.`,
       ],
     },
     {
@@ -34,8 +33,8 @@ export const PhaedrusGutenberg: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Socrates,
       speech: [
-        `And how did he entertain you? Can I be wrong in supposing that Lysias gave you a feast of discourse?`,
-
+        `And how did he entertain you?`,
+        `Can I be wrong in supposing that Lysias gave you a feast of discourse?`,
       ],
     },
     {
@@ -65,16 +64,41 @@ export const PhaedrusGutenberg: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Phaedrus,
       speech: [
-        `My tale, Socrates, is one of your sort, for love was the theme which occupied us—love after a fashion: Lysias has been writing about a fair youth who was being tempted, but not by a lover; and this was the point: he ingeniously proved that the non-lover should be accepted rather than the lover.`,
-
-
-
+        `My tale, Socrates, is one of your sort,`,
+        `for love was the theme which occupied us—love after a fashion:`,
+        `Lysias has been writing about a fair youth who was being tempted, but not by a lover; and this was the point:`,
+        `he ingeniously proved that the non-lover should be accepted rather than the lover.`,
       ],
     },
     {
       character: PhaedrusCharacter.Socrates,
       speech: [
-        `O that is noble of him! I wish that he would say the poor man rather than the rich, and the old man rather than the young one;—then he would meet the case of me and of many a man; his words would be quite refreshing, and he would be a public benefactor. For my part, I do so long to hear his speech, that if you walk all the way to Megara, and when you have reached the wall come back, as Herodicus recommends, without going in, I will keep you company.`,
+        `O that is noble of him!`,
+        `I wish that he would say the poor man rather than the rich, and the old man rather than the young one;—then he would meet the case of me and of many a man;`,
+        `his words would be quite refreshing, and he would be a public benefactor.`,
+        `For my part, I do so long to hear his speech, that if you walk all the way to Megara, and when you have reached the wall come back, as Herodicus recommends, without going in, I will keep you company.`,
+      ],
+    },
+    {
+      character: PhaedrusCharacter.Phaedrus,
+      speech: [
+        `What do you mean, my good Socrates?`,
+        `How can you imagine that my unpracticed memory can do justice to an elaborate work, which the greatest rhetorician of the age spent a long time in composing.`,
+        `Indeed, I cannot; I would give a great deal if I could.`,
+      ],
+    },
+    {
+      character: PhaedrusCharacter.Socrates,
+      speech: [
+        `I believe that I know Phaedrus about as well as I know myself,`,
+        `and I am very sure that the speech of Lysias was repeated to him, not once only, but again and again;—he insisted on hearing it many times over and Lysias was very willing to gratify him;`,
+        `at last, when nothing else would do, he got hold of the book, and looked at what he most wanted to see,—this occupied him during the whole morning;`,
+        `—and then when he was tired with sitting, he went out to take a walk, not until, by the dog, as I believe, he had simply learned by heart the entire discourse, unless it was unusually long, and he went to a place outside the wall that he might practice his lesson. There he saw a certain lover of discourse who had a similar weakness;—he saw and rejoiced; now thought he, 'I shall have a partner in my revels.' And he invited him to come and walk with him.`,
+        `But when the lover of discourse begged that he would repeat the tale, he gave himself airs and said, 'No I cannot,' as if he were indisposed; although, if the hearer had refused, he would sooner or later have been compelled by him to listen whether he would or no.`,
+        `Therefore, Phaedrus, bid him do at once what he will soon do whether bidden or not.`,
+
+
+
 
 
 
@@ -83,29 +107,8 @@ export const PhaedrusGutenberg: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Phaedrus,
       speech: [
-        `What do you mean, my good Socrates? How can you imagine that my unpracticed memory can do justice to an elaborate work, which the greatest rhetorician of the age spent a long time in composing. Indeed, I cannot; I would give a great deal if I could.`,
-
-
-      ],
-    },
-    {
-      character: PhaedrusCharacter.Socrates,
-      speech: [
-        `I believe that I know Phaedrus about as well as I know myself, and I am very sure that the speech of Lysias was repeated to him, not once only, but again and again;—he insisted on hearing it many times over and Lysias was very willing to gratify him; at last, when nothing else would do, he got hold of the book, and looked at what he most wanted to see,—this occupied him during the whole morning;—and then when he was tired with sitting, he went out to take a walk, not until, by the dog, as I believe, he had simply learned by heart the entire discourse, unless it was unusually long, and he went to a place outside the wall that he might practice his lesson. There he saw a certain lover of discourse who had a similar weakness;—he saw and rejoiced; now thought he, 'I shall have a partner in my revels.' And he invited him to come and walk with him. But when the lover of discourse begged that he would repeat the tale, he gave himself airs and said, 'No I cannot,' as if he were indisposed; although, if the hearer had refused, he would sooner or later have been compelled by him to listen whether he would or no. Therefore, Phaedrus, bid him do at once what he will soon do whether bidden or not.`,
-
-
-
-
-
-
-
-      ],
-    },
-    {
-      character: PhaedrusCharacter.Phaedrus,
-      speech: [
-        `I see that you will not let me off until I speak in some fashion or other; verily therefore my best plan is to speak as I best can.`,
-
+        `I see that you will not let me off until I speak in some fashion or other;`,
+        `verily therefore my best plan is to speak as I best can.`,
       ],
     },
     {
@@ -117,10 +120,10 @@ export const PhaedrusGutenberg: Translation<PhaedrusCharacter> = {
     {
       character: PhaedrusCharacter.Phaedrus,
       speech: [
-        `I will do as I say; but believe me, Socrates, I did not learn the very words—O no; nevertheless I have a general notion of what he said, and will give you a summary of the points in which the lover differed from the non-lover. Let me begin at the beginning.`,
-
-
-
+        `I will do as I say;`,
+        `but believe me, Socrates, I did not learn the very words—O no;`,
+        `nevertheless I have a general notion of what he said, and will give you a summary of the points in which the lover differed from the non-lover.`,
+        `Let me begin at the beginning.`,
       ],
     },
     {

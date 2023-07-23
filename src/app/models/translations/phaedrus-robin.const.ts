@@ -15,8 +15,7 @@ export const PhaedrusRobin: Translation<PhaedrusCharacter> = {
       speech: [
         `I've been with Lysias the son of Cephalus, Socrates, and now I'm going for a walk outside the city walls,`,
         `because I was sitting down there for a long time, ever since daybreak.`,
-        `I follow the advice of your friend and mine, Acumenus, and walk along the roads.`,
-        `He says that walking there is more refreshing than in the porticoes.`,
+        `I follow the advice of your friend and mine, Acumenus, and walk along the roads. He says that walking there is more refreshing than in the porticoes.`,
       ],
     },
     {
