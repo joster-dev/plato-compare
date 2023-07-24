@@ -3,6 +3,7 @@ import { debounceTime, filter, Subject } from 'rxjs';
 import { LachesDialogue } from '../laches/laches-dialogue.const';
 import { Dialogue } from '../models/dialogue.interface';
 import { PhaedrusDialogue } from '../phaedrus/phaedrus-dialogue.const';
+import { IonDialogue } from '../ion/ion-dialogue.const';
 
 @Component({
   selector: 'pc-home',
@@ -13,6 +14,7 @@ export class HomeComponent implements OnInit {
   dialogues: Dialogue[] = [
     LachesDialogue,
     PhaedrusDialogue,
+    IonDialogue,
   ];
 
   searchText = '';
