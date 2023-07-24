@@ -11,6 +11,7 @@ import { DialogueComponent } from './dialogue/dialogue.component';
 import { FormsModule } from '@angular/forms';
 import { CommentaryComponent } from './commentary/commentary.component';
 import { PhaedrusCommentaryComponent } from './phaedrus-commentary/phaedrus-commentary.component';
+import { IonComponent } from './ion/ion.component';
 
 @NgModule({
   declarations: [
@@ -21,6 +22,7 @@ import { PhaedrusCommentaryComponent } from './phaedrus-commentary/phaedrus-comm
     DialogueComponent,
     CommentaryComponent,
     PhaedrusCommentaryComponent,
+    IonComponent,
   ],
   imports: [
     BrowserModule,
