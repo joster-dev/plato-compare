@@ -2,7 +2,7 @@ import { IonCharacter } from "src/app/ion/ion-character.enum";
 import { Translation } from "../translation.interface";
 
 export const IonLoeb: Translation<IonCharacter> = {
-  translator: 'TODO',
+  translator: 'W. R. M. Lamb',
   turns: [
     {
       character: IonCharacter.Socrates,
@@ -13,7 +13,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Ion,
       speech: [
-        `No, no, Socrates ; from Epidaurus and the festival there of Asclepius.`,
+        `No, no, Socrates; from Epidaurus and the festival there of Asclepius.`,
       ],
     },
     {
@@ -61,7 +61,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Ion,
       speech: [
-        `What you say is true, Socrates: I at any rate have found this the most laborious part of my art; and I consider I speak about Homer better than anybody, for neither Metrodorus' of Lampsacus, nor Stesimbrotus? of Thasos, nor Glaucon,’ nor any one that the world has ever seen, had so many and such fine comments to offer on Homer as I have.`,
+        `What you say is true, Socrates: I at any rate have found this the most laborious part of my art; and I consider I speak about Homer better than anybody, for neither Metrodorus of Lampsacus, nor Stesimbrotus of Thasos, nor Glaucon, nor any one that the world has ever seen, had so many and such fine comments to offer on Homer as I have.`,
       ],
     },
     {
@@ -73,7 +73,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Ion,
       speech: [
-        `And indeed it is worth hearing, Socrates, how well I have embellished Homer ; so that I think I deserve to be crowned with a golden crown by the Homeridae.`,
+        `And indeed it is worth hearing, Socrates, how well I have embellished Homer; so that I think I deserve to be crowned with a golden crown by the Homeridae.`,
       ],
     },
     {
@@ -103,7 +103,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Then in those cases would you expound better what Homer says than what Hesiod says ?`,
+        `Then in those cases would you expound better what Homer says than what Hesiod says?`,
       ],
     },
     {
@@ -115,7 +115,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `But what of those where they do not say the same? For example, about the seer’s art, on which both Homer and Hesiod say something.`,
+        `But what of those where they do not say the same? For example, about the seer's art, on which both Homer and Hesiod say something.`,
       ],
     },
     {
@@ -127,7 +127,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Well then, would you, or one of the good seers, expound better what these two poets say, not only alike but differently, about the seer’s art ?`,
+        `Well then, would you, or one of the good seers, expound better what these two poets say, not only alike but differently, about the seer's art ?`,
       ],
     },
     {
@@ -151,7 +151,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Then how is it that you are skilled in Homer, and not in Hesiod or the other poets? Does Homer speak of any other than the very things that all the other poets speak of ? Has he not described war for the most part, and the mutual intercourse of men, good and bad, lay and professional, and the ways of the gods in their intercourse with each other and with men, and happenings in the heavens and in the underworld, and origins of gods and heroes? Are not these the subjects of Homer’s poetry ?`,
+        `Then how is it that you are skilled in Homer, and not in Hesiod or the other poets? Does Homer speak of any other than the very things that all the other poets speak of ? Has he not described war for the most part, and the mutual intercourse of men, good and bad, lay and professional, and the ways of the gods in their intercourse with each other and with men, and happenings in the heavens and in the underworld, and origins of gods and heroes? Are not these the subjects of Homer's poetry ?`,
       ],
     },
     {
@@ -169,7 +169,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Ion,
       speech: [
-        `Yes; but, Socrates, not on Homer’s level.`,
+        `Yes; but, Socrates, not on Homer's level.`,
       ],
     },
     {
@@ -391,7 +391,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `But further, I expect you have also failed to find one in fluting or harping or minstrelsy or rhapsodizing who is skilled in expounding the art of Olympus* or Thamyras,’? or Orpheus,°® or Phemius,® the rhapsode of Ithaca, but is at a loss and has no remark to offer on the successes or failures in rhapsody of Ion of Ephesus.`,
+        `But further, I expect you have also failed to find one in fluting or harping or minstrelsy or rhapsodizing who is skilled in expounding the art of Olympus or Thamyras, or Orpheus, or Phemius, the rhapsode of Ithaca, but is at a loss and has no remark to offer on the successes or failures in rhapsody of Ion of Ephesus.`,
       ],
     },
     {
