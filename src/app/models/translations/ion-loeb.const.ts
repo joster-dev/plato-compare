@@ -127,7 +127,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Well then, would you, or one of the good seers, expound better what these two poets say, not only alike but differently, about the seer's art ?`,
+        `Well then, would you, or one of the good seers, expound better what these two poets say, not only alike but differently, about the seer's art?`,
       ],
     },
     {
@@ -139,7 +139,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `And if you were a seer, would you not, with an ability to expound what they say in agreement, know also how to expound the points on which they differ ?`,
+        `And if you were a seer, would you not, with an ability to expound what they say in agreement, know also how to expound the points on which they differ?`,
       ],
     },
     {
@@ -151,7 +151,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Then how is it that you are skilled in Homer, and not in Hesiod or the other poets? Does Homer speak of any other than the very things that all the other poets speak of ? Has he not described war for the most part, and the mutual intercourse of men, good and bad, lay and professional, and the ways of the gods in their intercourse with each other and with men, and happenings in the heavens and in the underworld, and origins of gods and heroes? Are not these the subjects of Homer's poetry ?`,
+        `Then how is it that you are skilled in Homer, and not in Hesiod or the other poets? Does Homer speak of any other than the very things that all the other poets speak of? Has he not described war for the most part, and the mutual intercourse of men, good and bad, lay and professional, and the ways of the gods in their intercourse with each other and with men, and happenings in the heavens and in the underworld, and origins of gods and heroes? Are not these the subjects of Homer's poetry?`,
       ],
     },
     {
@@ -163,7 +163,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `And what of the other poets? Do they not treat of the same things ?`,
+        `And what of the other poets? Do they not treat of the same things?`,
       ],
     },
     {
@@ -175,7 +175,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `What, in a worse way ?`,
+        `What, in a worse way?`,
       ],
     },
     {
@@ -187,7 +187,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `And Homer in a better ?`,
+        `And Homer in a better?`,
       ],
     },
     {
@@ -199,7 +199,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Well now, Ion, dear soul; when several people are talking about number, and one of them speaks better than the rest, I suppose there is some one who will distinguish the good speaker ?`,
+        `Well now, Ion, dear soul; when several people are talking about number, and one of them speaks better than the rest, I suppose there is some one who will distinguish the good speaker?`,
       ],
     },
     {
@@ -211,7 +211,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `And will this some one be the same as he who can distinguish the bad speakers, or different ?`,
+        `And will this some one be the same as he who can distinguish the bad speakers, or different?`,
       ],
     },
     {
@@ -223,7 +223,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `And he will be the man who has the art of numeration ?`,
+        `And he will be the man who has the art of numeration?`,
       ],
     },
     {
@@ -247,7 +247,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Who is he? What is his name ?`,
+        `Who is he? What is his name?`,
       ],
     },
     {
@@ -271,7 +271,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `And the same man is found to be skilled in both ?`,
+        `And the same man is found to be skilled in both?`,
       ],
     },
     {
@@ -283,7 +283,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `And you say that Homer and the other poets, among whom are Hesiod and Archilochus, all speak about the same things, only not similarly ; but the one does it well, and the rest worse ?`,
+        `And you say that Homer and the other poets, among whom are Hesiod and Archilochus, all speak about the same things, only not similarly ; but the one does it well, and the rest worse?`,
       ],
     },
     {
@@ -331,7 +331,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `And when one has acquired any other art whatever as a whole, the same principle of inquiry holds through all the arts? Do you require some explanation from me, Ion, of what I mean by this ?`,
+        `And when one has acquired any other art whatever as a whole, the same principle of inquiry holds through all the arts? Do you require some explanation from me, Ion, of what I mean by this?`,
       ],
     },
     {
@@ -367,7 +367,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Now have you ever found anybody who is skilled in pointing out the successes and failures among the works of Polygnotus! son of Aglaophon, but unable to do so with the works of the other painters; and who, when the works of the other painters are exhibited, drops into a doze, and is at a loss, and has no remark to offer ; but when he has to pronounce upon Polygnotus or any other painter you please, and on that one only, wakes up and attends and has plenty to say ?`,
+        `Now have you ever found anybody who is skilled in pointing out the successes and failures among the works of Polygnotus! son of Aglaophon, but unable to do so with the works of the other painters; and who, when the works of the other painters are exhibited, drops into a doze, and is at a loss, and has no remark to offer ; but when he has to pronounce upon Polygnotus or any other painter you please, and on that one only, wakes up and attends and has plenty to say?`,
       ],
     },
     {
@@ -379,7 +379,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Or again, in sculpture, have you ever found anyone who is skilled in expounding the successes of Daedalus! son of Metion, or Epeius? son of Panopeus, or Theodorus? of Samos, or any other single sculptor, but in face of the works of the other sculptors is at a loss and dozes, having nothing to say ?`,
+        `Or again, in sculpture, have you ever found anyone who is skilled in expounding the successes of Daedalus! son of Metion, or Epeius? son of Panopeus, or Theodorus? of Samos, or any other single sculptor, but in face of the works of the other sculptors is at a loss and dozes, having nothing to say?`,
       ],
     },
     {
@@ -403,7 +403,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `I do observe it, Ion, and I am going to point out to you what I take it to mean. For, as I was saying just now, this is not an art in you, whereby you speak well on Homer, but a divine power, which moves you like that in the stone which Euripides named a magnet,! but most people call ‘“ Heraclea stone.” For this stone not only attracts iron rings, but also imparts to them a power whereby they in turn are able to do the very same thing as the stone, and attract other rings ; so that sometimes there is formed quite a long chain of bits of iron and rings, suspended one from another; and they all depend for this power on that one stone. In the same manner also the Muse inspires men herself, and then by means of these inspired persons the inspiration spreads to others, and holds them in a connected chain. For all the good epic poets utter all those fine poems not from art, but as inspired and possessed, and the good lyric poets likewise; just as the Corybantian? worshippers do not dance when in their senses, so the lyric poets do not indite those fine songs in their senses, but when they have started on the melody and rhythm they begin to be frantic, and it is under possession—as the bacchants are possessed, and not in their senses, when they draw honey and milk from the rivers—that the soul of the lyric poets does the same thing, by their own report. For the poets tell us, I believe, that the songs they bring us are the sweets they cull from honey-dropping founts in certain gardens and glades of the Muses— like the bees, and winging the air as these dot. And what they tell is true. For a poet is a light and winged and sacred thing, and is unable ever to indite until he has been inspired and put out of his senses, and his mind is no longer in him: every man, whilst he retains possession of that, is powerless to indite a verse or chant an oracle. Seeing then that it is not by art that they compose and utter so many fine things about the deeds of men—as you do about Homer—but by a divine dispensation, each is able only to compose that to which the Muse has stirred him, this man dithyrambs, another laudatory odes, another dance-songs, another epic or else iambic verse ; but each is at fault in any other kind. For not by art do they utter these things, but by divine influence ; since, if they had fully learnt by art to speak on one kind of theme, they would know how to speak on all. And for this reason God takes away the mind of these men and uses them as his ministers, just as he does soothsayers and godly seers, in order that we who hear them may know that it is not they who utter these words of great price, when they are out of their wits, but that it is God himself who speaks and addresses us through them. A convincing proof of what I say is the case of Tynnichus,? the Chalcidian, who had never composed a single poem in his life that could deserve any mention, and then produced the paean*® which is in everyone’s mouth, almost the finest song we have, simply—as he says himself—* an invention of the Muses.” For the god, as it seems to me, intended him to be a sign to us that we should not waver or doubt that these fine poems are not human or the work of men, but divine and the work of gods ; and that the poets are merely the interpreters of the gods, according as each is possessed by one of the heavenly powers. To show this forth, the god of set purpose sang the finest of songs through the meanest of poets: or do you not think my statement true, Ion?`,
+        `I do observe it, Ion, and I am going to point out to you what I take it to mean. For, as I was saying just now, this is not an art in you, whereby you speak well on Homer, but a divine power, which moves you like that in the stone which Euripides named a magnet,! but most people call ‘“ Heraclea stone.” For this stone not only attracts iron rings, but also imparts to them a power whereby they in turn are able to do the very same thing as the stone, and attract other rings ; so that sometimes there is formed quite a long chain of bits of iron and rings, suspended one from another; and they all depend for this power on that one stone. In the same manner also the Muse inspires men herself, and then by means of these inspired persons the inspiration spreads to others, and holds them in a connected chain. For all the good epic poets utter all those fine poems not from art, but as inspired and possessed, and the good lyric poets likewise; just as the Corybantian? worshippers do not dance when in their senses, so the lyric poets do not indite those fine songs in their senses, but when they have started on the melody and rhythm they begin to be frantic, and it is under possession—as the bacchants are possessed, and not in their senses, when they draw honey and milk from the rivers—that the soul of the lyric poets does the same thing, by their own report. For the poets tell us, I believe, that the songs they bring us are the sweets they cull from honey-dropping founts in certain gardens and glades of the Muses— like the bees, and winging the air as these dot. And what they tell is true. For a poet is a light and winged and sacred thing, and is unable ever to indite until he has been inspired and put out of his senses, and his mind is no longer in him: every man, whilst he retains possession of that, is powerless to indite a verse or chant an oracle. Seeing then that it is not by art that they compose and utter so many fine things about the deeds of men—as you do about Homer—but by a divine dispensation, each is able only to compose that to which the Muse has stirred him, this man dithyrambs, another laudatory odes, another dance-songs, another epic or else iambic verse ; but each is at fault in any other kind. For not by art do they utter these things, but by divine influence ; since, if they had fully learnt by art to speak on one kind of theme, they would know how to speak on all. And for this reason God takes away the mind of these men and uses them as his ministers, just as he does soothsayers and godly seers, in order that we who hear them may know that it is not they who utter these words of great price, when they are out of their wits, but that it is God himself who speaks and addresses us through them. A convincing proof of what I say is the case of Tynnichus,? the Chalcidian, who had never composed a single poem in his life that could deserve any mention, and then produced the paean*® which is in everyone's mouth, almost the finest song we have, simply—as he says himself—* an invention of the Muses.” For the god, as it seems to me, intended him to be a sign to us that we should not waver or doubt that these fine poems are not human or the work of men, but divine and the work of gods ; and that the poets are merely the interpreters of the gods, according as each is possessed by one of the heavenly powers. To show this forth, the god of set purpose sang the finest of songs through the meanest of poets: or do you not think my statement true, Ion?`,
       ],
     },
     {
@@ -427,7 +427,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `And so you act as interpreters of interpreters ?`,
+        `And so you act as interpreters of interpreters?`,
       ],
     },
     {
@@ -451,7 +451,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Well now, are we to say, Ion, that such a person is in his senses at that moment,—when in all the adornment of elegant attire and golden crowns he weeps at sacrifice or festival, having been despoiled of none of his finery; or shows fear as he stands before more than twenty thousand friendly people, none of whom is stripping or injuring him ?`,
+        `Well now, are we to say, Ion, that such a person is in his senses at that moment,—when in all the adornment of elegant attire and golden crowns he weeps at sacrifice or festival, having been despoiled of none of his finery; or shows fear as he stands before more than twenty thousand friendly people, none of whom is stripping or injuring him?`,
       ],
     },
     {
@@ -475,7 +475,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `And are you aware that your spectator is the last of the rings which I spoke of as receiving from each other the power transmitted from the Heraclean lodestone ? You, the rhapsode and actor, are the middle ring ; the poet himself is the first ; but it is the god who through the whole series draws the souls of men whithersoever he pleases, making the power of one depend on the other. And, just as from the magnet, there is a mighty chain of choric performers and masters and under-masters suspended by side-connexions from the rings that hang down from the Muse. One poet is suspended from one Muse, another from another: the word we use for it is “ possessed,” but it is much the same thing, for he is held. And from these first rings—the poets— are suspended various others, which are thus inspired, some by Orpheus and others by Musaeus !; but the majority are possessed and held by Homer. Of whom you, Ion, are one, and are possessed by Homer ; and so, when anyone recites the work of another poet, you go to sleep and are at a loss what to say ; but when some one utters a strain of your poet, you wake up at once, and your soul dances, and you have plenty to say: for it is not by art or knowledge about Homer that you say what you say, but by divine dispensation and possession ; just as the Corybantian worshippers are keenly sensible of that strain alone which belongs to the god whose possession is on them, and have plenty of gestures and phrases for that tune, but do not heed any other. And so you, Ion, when the subject of Homer is mentioned, have plenty to say, but nothing on any of the others. And when you ask me the reason why you can speak at large on Homer but not on the rest, I tell you it is because your skill in praising Homer comes not by art, but by divine dispensation.`,
+        `And are you aware that your spectator is the last of the rings which I spoke of as receiving from each other the power transmitted from the Heraclean lodestone? You, the rhapsode and actor, are the middle ring ; the poet himself is the first ; but it is the god who through the whole series draws the souls of men whithersoever he pleases, making the power of one depend on the other. And, just as from the magnet, there is a mighty chain of choric performers and masters and under-masters suspended by side-connexions from the rings that hang down from the Muse. One poet is suspended from one Muse, another from another: the word we use for it is “ possessed,” but it is much the same thing, for he is held. And from these first rings—the poets— are suspended various others, which are thus inspired, some by Orpheus and others by Musaeus !; but the majority are possessed and held by Homer. Of whom you, Ion, are one, and are possessed by Homer ; and so, when anyone recites the work of another poet, you go to sleep and are at a loss what to say ; but when some one utters a strain of your poet, you wake up at once, and your soul dances, and you have plenty to say: for it is not by art or knowledge about Homer that you say what you say, but by divine dispensation and possession ; just as the Corybantian worshippers are keenly sensible of that strain alone which belongs to the god whose possession is on them, and have plenty of gestures and phrases for that tune, but do not heed any other. And so you, Ion, when the subject of Homer is mentioned, have plenty to say, but nothing on any of the others. And when you ask me the reason why you can speak at large on Homer but not on the rest, I tell you it is because your skill in praising Homer comes not by art, but by divine dispensation.`,
       ],
     },
     {
@@ -487,7 +487,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `I declare I am quite willing to hear you, but not until you have first answered me this : on what thing in Homer’s story do you speak well? Not on all of them, I presume.`,
+        `I declare I am quite willing to hear you, but not until you have first answered me this : on what thing in Homer's story do you speak well? Not on all of them, I presume.`,
       ],
     },
     {
@@ -505,7 +505,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Ion,
       speech: [
-        `And what sort of things are they, which Homer tells, but of which I have no knowledge ?`,
+        `And what sort of things are they, which Homer tells, but of which I have no knowledge?`,
       ],
     },
     {
@@ -583,7 +583,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `And this rule holds for all the arts, that what we know by one of them we cannot know by another ? But before you answer that, just tell me this: do you agree that one art is of one sort, and another of another ?`,
+        `And this rule holds for all the arts, that what we know by one of them we cannot know by another? But before you answer that, just tell me this: do you agree that one art is of one sort, and another of another?`,
       ],
     },
     {
@@ -595,7 +595,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Do you argue this as I do, and call one art different from another when one is a knowledge of one kind of thing, and another a knowledge of another kind ?`,
+        `Do you argue this as I do, and call one art different from another when one is a knowledge of one kind of thing, and another a knowledge of another kind?`,
       ],
     },
     {
@@ -607,7 +607,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Since, I suppose, if it were a knowledge of the same things—how could we say that one was different from another, when both could give us the same knowledge’? Just as I know that there are five of these fingers, and you equally know the same fact about them; and if I should ask you whether both you and I know this same fact by the same art of numeration, or by different arts, you would reply, I presume, that it was by the same?`,
+        `Since, I suppose, if it were a knowledge of the same things—how could we say that one was different from another, when both could give us the same knowledge? Just as I know that there are five of these fingers, and you equally know the same fact about them; and if I should ask you whether both you and I know this same fact by the same art of numeration, or by different arts, you would reply, I presume, that it was by the same?`,
       ],
     },
     {
@@ -643,7 +643,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Then will you or a charioteer be the better judge of whether Homer speaks well or not in the lines that you quoted ?`,
+        `Then will you or a charioteer be the better judge of whether Homer speaks well or not in the lines that you quoted?`,
       ],
     },
     {
@@ -667,7 +667,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `And the rhapsode’s art is different from the charioteer’s?`,
+        `And the rhapsode's art is different from the charioteer's?`,
       ],
     },
     {
@@ -691,31 +691,31 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Now, what of the passage where Homer tells how Hecamede, Nestor’s concubine, gives the wounded Machaon a posset? His words are something like this : "Of Pramneian wine it was, and therein she grated cheese of goat’s milk with a grater of bronze; and thereby an onion as a relish for drink." Is it for the doctor’s or the rhapsode’s art to discern aright whether Homer speaks correctly here or not ?`,
+        `Now, what of the passage where Homer tells how Hecamede, Nestor's concubine, gives the wounded Machaon a posset? His words are something like this : "Of Pramneian wine it was, and therein she grated cheese of goat's milk with a grater of bronze; and thereby an onion as a relish for drink." Is it for the doctor's or the rhapsode's art to discern aright whether Homer speaks correctly here or not?`,
       ],
     },
     {
       character: IonCharacter.Ion,
       speech: [
-        `For the doctor’s.`,
+        `For the doctor's.`,
       ],
     },
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Well now, when Homer says : "And she passed to the bottom like a plummet?! which, set on a horn from an ox of the field, goes in haste to bring mischief among the ravenous fishes." are we to say it is for the fisherman’s or for the rhapsode’s art to decide what he means by this, and whether it is rightly or wrongly spoken ?`,
+        `Well now, when Homer says : "And she passed to the bottom like a plummet?! which, set on a horn from an ox of the field, goes in haste to bring mischief among the ravenous fishes." are we to say it is for the fisherman's or for the rhapsode's art to decide what he means by this, and whether it is rightly or wrongly spoken?`,
       ],
     },
     {
       character: IonCharacter.Ion,
       speech: [
-        `Clearly, Socrates, for the fisherman’s art.`,
+        `Clearly, Socrates, for the fisherman's art.`,
       ],
     },
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Then please observe: suppose you were questioning me and should ask: “ Since therefore, Socrates, you find it is for these several arts to appraise the passages of Homer that belong to each, be so good as to make out those also that are for the seer and the seer’s art, and show me the sort of passages that come under his ability to distinguish whether they are well or ill done”; observe how easily and truly I shall answer you. For he has many passages, both in the Odyssey, as for instance the words of Theoclymenus, the seer of the line of Melampus, to the suitors : "Hapless men, what bane is this afflicts you? Your heads and faces and limbs below are shrouded in night, and wailing is enkindled, and cheeks are wet with tears: of ghosts the porch is full, and the court full of them also, hastening hellwards ’neath the gloom; and the sun is perished out of heaven, and an evil mist is spread abroad ;" and there are many passages in the Jliad also, as in the fight at the rampart,’ where he says: "For as they were eager to pass over, a bird had crossed them, an eagle of lofty flight, pressing the host at the left hand, and bearing a blood-red monster of a snake, alive and still struggling; nor had it yet unlearnt the lust of battle. For bending back it smote its captor on the breast by the neck, and the bird in the bitterness of pain cast it away to the ground, and dropped it down in the midst of the throng; and then with a cry flew off on the wafting winds." This passage, and others of the sort, are those that I should say the seer has to examine and judge.`,
+        `Then please observe: suppose you were questioning me and should ask: “ Since therefore, Socrates, you find it is for these several arts to appraise the passages of Homer that belong to each, be so good as to make out those also that are for the seer and the seer's art, and show me the sort of passages that come under his ability to distinguish whether they are well or ill done”; observe how easily and truly I shall answer you. For he has many passages, both in the Odyssey, as for instance the words of Theoclymenus, the seer of the line of Melampus, to the suitors : "Hapless men, what bane is this afflicts you? Your heads and faces and limbs below are shrouded in night, and wailing is enkindled, and cheeks are wet with tears: of ghosts the porch is full, and the court full of them also, hastening hellwards 'neath the gloom; and the sun is perished out of heaven, and an evil mist is spread abroad ;" and there are many passages in the Jliad also, as in the fight at the rampart, where he says: "For as they were eager to pass over, a bird had crossed them, an eagle of lofty flight, pressing the host at the left hand, and bearing a blood-red monster of a snake, alive and still struggling; nor had it yet unlearnt the lust of battle. For bending back it smote its captor on the breast by the neck, and the bird in the bitterness of pain cast it away to the ground, and dropped it down in the midst of the throng; and then with a cry flew off on the wafting winds." This passage, and others of the sort, are those that I should say the seer has to examine and judge.`,
       ],
     },
     {
@@ -727,31 +727,31 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `And so do you, Ion, in saying that. Now you must do as I did, and in return for my picking out from the Odyssey and the Ihad the kinds of passage that belong severally to the seer, the doctor, and the fisherman, you have now to pick out for me —since you are so much more versed in Homer than I—the kinds which belong to the rhapsode, Ion, and the rhapsode’s art, and which he should be able to consider and distinguish beyond the rest of mankind.`,
+        `And so do you, Ion, in saying that. Now you must do as I did, and in return for my picking out from the Odyssey and the Ihad the kinds of passage that belong severally to the seer, the doctor, and the fisherman, you have now to pick out for me —since you are so much more versed in Homer than I—the kinds which belong to the rhapsode, Ion, and the rhapsode's art, and which he should be able to consider and distinguish beyond the rest of mankind.`,
       ],
     },
     {
       character: IonCharacter.Ion,
       speech: [
-        `What I say, Socrates, is—‘ all passages.”`,
+        `What I say, Socrates, is "all passages.”`,
       ],
     },
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Surely you do not say “all,” Ion! Can you be so forgetful? And yet forgetfulness would ill become a rhapsode.`,
+        `Surely you do not say “all” Ion! Can you be so forgetful? And yet forgetfulness would ill become a rhapsode.`,
       ],
     },
     {
       character: IonCharacter.Ion,
       speech: [
-        `Why, how am I forgetting ?`,
+        `Why, how am I forgetting?`,
       ],
     },
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Do you not remember that you said that the art of the rhapsode was different from that of the charioteer ?`,
+        `Do you not remember that you said that the art of the rhapsode was different from that of the charioteer?`,
       ],
     },
     {
@@ -763,7 +763,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `And you also admitted that, being different, it would know different things ?`,
+        `And you also admitted that, being different, it would know different things?`,
       ],
     },
     {
@@ -775,7 +775,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Then by your own account the rhapsode’s art cannot know everything, nor the rhapsode either.`,
+        `Then by your own account the rhapsode's art cannot know everything, nor the rhapsode either.`,
       ],
     },
     {
@@ -787,7 +787,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `By “those instances" you imply the subjects of practically all the other arts. Well, as he does not know all of them, which kinds will he know ?`,
+        `By “those instances" you imply the subjects of practically all the other arts. Well, as he does not know all of them, which kinds will he know?`,
       ],
     },
     {
@@ -799,7 +799,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Do you mean that the rhapsode will know better than the pilot what sort of thing a ruler of a storm-tossed vessel at sea should say ?`,
+        `Do you mean that the rhapsode will know better than the pilot what sort of thing a ruler of a storm-tossed vessel at sea should say?`,
       ],
     },
     {
@@ -848,7 +848,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Well, the sort of thing that a woman ought to say—a spinning-woman—about the working of wool ?`,
+        `Well, the sort of thing that a woman ought to say—a spinning-woman—about the working of wool?`,
       ],
     },
     {
@@ -860,7 +860,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `But he will know what a man should say, when he is a general exhorting his men ?`,
+        `But he will know what a man should say, when he is a general exhorting his men?`,
       ],
     },
     {
@@ -872,7 +872,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Well, but is the art of the rhapsode the art of the general ?`,
+        `Well, but is the art of the rhapsode the art of the general?`,
       ],
     },
     {
@@ -884,7 +884,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Yes, since I daresay you are good at generalship also, Ion. For in fact, if you happened to have skill in horsemanship as well as in the lyre, you would know when horses were well or ill managed: but if I asked you, “ By which art is it, Ion, that you know that horses are being well managed, by your skill as a horseman, or as a player of the lyre?” what would your answer be ?`,
+        `Yes, since I daresay you are good at generalship also, Ion. For in fact, if you happened to have skill in horsemanship as well as in the lyre, you would know when horses were well or ill managed: but if I asked you, “ By which art is it, Ion, that you know that horses are being well managed, by your skill as a horseman, or as a player of the lyre?” what would your answer be?`,
       ],
     },
     {
@@ -908,7 +908,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `And when you judge of military matters, do you judge as having skill in generalship, or as a good rhapsode ?`,
+        `And when you judge of military matters, do you judge as having skill in generalship, or as a good rhapsode?`,
       ],
     },
     {
@@ -932,7 +932,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `So that anyone who is a good rhapsode is also, in fact, a good general ?`,
+        `So that anyone who is a good rhapsode is also, in fact, a good general?`,
       ],
     },
     {
@@ -956,7 +956,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `But still you agree that anyone who is a good rhapsode is also a good general ?`,
+        `But still you agree that anyone who is a good rhapsode is also a good general?`,
       ],
     },
     {
@@ -968,7 +968,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `And you are the best rhapsode in Greece ?`,
+        `And you are the best rhapsode in Greece?`,
       ],
     },
     {
@@ -980,7 +980,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Are you also, Ion, the best general in Greece ?`,
+        `Are you also, Ion, the best general in Greece?`,
       ],
     },
     {
@@ -992,7 +992,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Socrates,
       speech: [
-        `Then how, in Heaven’s name, can it be, Ion, that you, who are both the best general and the best rhapsode in Greece, go about performing as a rhapsode to the Greeks, but not as a general? Or do you suppose that the Greeks feel a great need of a rhapsode in the glory of his golden crown, but of a general none at all ?`,
+        `Then how, in Heaven's name, can it be, Ion, that you, who are both the best general and the best rhapsode in Greece, go about performing as a rhapsode to the Greeks, but not as a general? Or do you suppose that the Greeks feel a great need of a rhapsode in the glory of his golden crown, but of a general none at all?`,
       ],
     },
     {
@@ -1010,7 +1010,7 @@ export const IonLoeb: Translation<IonCharacter> = {
     {
       character: IonCharacter.Ion,
       speech: [
-        `What might he be ?`,
+        `What might he be?`,
       ],
     },
     {
