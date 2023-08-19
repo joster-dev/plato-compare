@@ -1,17 +1,16 @@
-import { Translation } from '..';
-import { PhaedrusCharacter } from '../characters';
+import { Character, Translation } from '..';
 
 export const PhaedrusGutenberg: Translation = {
   translator: 'TODO',
   turns: [
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `My dear Phaedrus, whence come you, and whither are you going?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `I come from Lysias the son of Cephalus, and I am going to take a walk outside the wall,`,
         `for I have been sitting with him the whole morning;`,
@@ -19,50 +18,50 @@ export const PhaedrusGutenberg: Translation = {
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `There he is right. Lysias then, I suppose, was in the town?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Yes, he was staying with Epicrates, here at the house of Morychus; that house which is near the temple of Olympian Zeus.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And how did he entertain you?`,
         `Can I be wrong in supposing that Lysias gave you a feast of discourse?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `You shall hear, if you can spare time to accompany me.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And should I not deem the conversation of you and Lysias 'a thing of higher import,' as I may say in the words of Pindar, 'than any business'?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Will you go on?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And will you go on with the narration?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `My tale, Socrates, is one of your sort,`,
         `for love was the theme which occupied us—love after a fashion:`,
@@ -71,7 +70,7 @@ export const PhaedrusGutenberg: Translation = {
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `O that is noble of him!`,
         `I wish that he would say the poor man rather than the rich, and the old man rather than the young one;—then he would meet the case of me and of many a man;`,
@@ -80,7 +79,7 @@ export const PhaedrusGutenberg: Translation = {
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `What do you mean, my good Socrates?`,
         `How can you imagine that my unpracticed memory can do justice to an elaborate work, which the greatest rhetorician of the age spent a long time in composing.`,
@@ -88,7 +87,7 @@ export const PhaedrusGutenberg: Translation = {
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `I believe that I know Phaedrus about as well as I know myself,`,
         `and I am very sure that the speech of Lysias was repeated to him, not once only, but again and again;—he insisted on hearing it many times over and Lysias was very willing to gratify him;`,
@@ -105,20 +104,20 @@ export const PhaedrusGutenberg: Translation = {
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `I see that you will not let me off until I speak in some fashion or other;`,
         `verily therefore my best plan is to speak as I best can.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `A very true remark, that of yours.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `I will do as I say;`,
         `but believe me, Socrates, I did not learn the very words—O no;`,
@@ -127,7 +126,7 @@ export const PhaedrusGutenberg: Translation = {
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Yes, my sweet one; but you must first of all show what you have in your left hand under your cloak, for that roll, as I suspect, is the actual discourse. Now, much as I love you, I would not have you suppose that I am going to have your memory exercised at my expense, if you have Lysias himself here.`,
 
@@ -136,90 +135,90 @@ export const PhaedrusGutenberg: Translation = {
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Enough; I see that I have no hope of practising my art upon you. But if I am to read, where would you please to sit? `,
 
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Let us turn aside and go by the Ilissus; we will sit down at some quiet spot.`,
 
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `I am fortunate in not having my sandals, and as you never have any, I think that we may go along the brook and cool our feet in the water; this will be the easiest way, and at midday and in the summer is far from being unpleasant.`,
 
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Lead on, and look out for a place in which we can sit down.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Do you see the tallest plane-tree in the distance?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Yes.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `There are shade and gentle breezes, and grass on which we may either sit or lie down.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Move forward.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `I should like to know, Socrates, whether the place is not somewhere here at which Boreas is said to have carried off Orithyia from the banks of the Ilissus?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Such is the tradition.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `And is this the exact spot? The little stream is delightfully clear and bright; I can fancy that there might be maidens playing near.`,
 
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `I believe that the spot is not exactly here, but about a quarter of a mile lower down, where you cross to the temple of Artemis, and there is, I think, some sort of an altar of Boreas at the place.`,
 
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `I have never noticed it; but I beseech you to tell me, Socrates, do you believe this tale? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `The wise are doubtful, and I should not be singular if, like them, I too doubted. I might have a rational explanation that Orithyia was playing with Pharmacia, when a northern gust carried her over the neighbouring rocks; and this being the manner of her death, she was said to have been carried away by Boreas. There is a discrepancy, however, about the locality; according to another version of the story she was taken from Areopagus, and not from this place. Now I quite acknowledge that these allegories are very nice, but he is not to be envied who has to invent them; much labour and ingenuity will be required of him; and when he has once begun, he must go on and rehabilitate Hippocentaurs and chimeras dire. Gorgons and winged steeds flow in apace, and numberless other inconceivable and portentous natures. And if he is sceptical about them, and would fain reduce them one after another to the rules of probability, this sort of crude philosophy will take up a great deal of time. Now I have no leisure for such enquiries; shall I tell you why? I must first know myself, as the Delphian inscription says; to be curious about that which is not my concern, while I am still in ignorance of my own self, would be ridiculous. And therefore I bid farewell to all this; the common opinion is enough for me. For, as I was saying, I want to know not about this, but about myself: am I a monster more complicated and swollen with passion than the serpent Typho, or a creature of a gentler and simpler sort, to whom Nature has given a diviner and lowlier destiny? But let me ask you, friend: have we not reached the plane-tree to which you were conducting us? `,
 
@@ -235,13 +234,13 @@ export const PhaedrusGutenberg: Translation = {
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Yes, this is the tree.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `By Here, a fair resting-place, full of summer sounds and scents. Here is this lofty and spreading plane-tree, and the agnus castus high and clustering, in the fullest blossom and the greatest fragrance; and the stream which flows beneath the plane-tree is deliciously cold to the feet. Judging from the ornaments and images, this must be a spot sacred to Achelous and the Nymphs. How delightful is the breeze:—so very sweet; and there is a sound in the air shrill and summerlike which makes answer to the chorus of the cicadae. But the greatest charm of all is the grass, like a pillow gently sloping to the head. My dear Phaedrus, you have been an admirable guide.`,
 
@@ -254,7 +253,7 @@ export const PhaedrusGutenberg: Translation = {
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `What an incomprehensible being you are, Socrates: when you are in the country, as you say, you really are like some stranger who is led about by a guide. Do you ever cross the border? I rather think that you never venture even outside the gates.`,
 
@@ -262,7 +261,7 @@ export const PhaedrusGutenberg: Translation = {
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Very true, my good friend; and I hope that you will excuse me when you hear the reason, which is, that I am a lover of knowledge, and the men who dwell in the city are my teachers, and not the trees or the country. Though I do indeed believe that you have found a spell with which to draw me out of the city into the country, like a hungry cow before whom a bough or a bunch of fruit is waved. For only hold up before me in like manner a book, and you may lead me all round Attica, and over the wide world. And now having arrived, I intend to lie down, and do you choose any posture in which you can read best. Begin.`,
 
@@ -272,7 +271,7 @@ export const PhaedrusGutenberg: Translation = {
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Listen. You know how matters stand with me; and how, as I conceive, this affair may be arranged for the advantage of both of us. And I maintain that I ought not to fail in my suit, because I am not your lover: for lovers repent of the kindnesses which they have shown when their passion ceases, but to the non-lovers who are free and not under any compulsion, no time of repentance ever comes; for they confer their benefits according to the measure of their ability, in the way which is most conducive to their own interest. Then again, lovers consider how by reason of their love they have neglected their own concerns and rendered service to others: and when to these benefits conferred they add on the troubles which they have endured, they think that they have long ago made to the beloved a very ample return. But the non-lover has no such tormenting recollections; he has never neglected his affairs or quarrelled with his relations; he has no troubles to add up or excuses to invent; and being well rid of all these evils, why should he not freely do what will gratify the beloved? If you say that the lover is more to be esteemed, because his love is thought to be greater; for he is willing to say and do what is hateful to other men, in order to please his beloved;—that, if true, is only a proof that he will prefer any future love to his present, and will injure his old love at the pleasure of the new. And how, in a matter of such infinite importance, can a man be right in trusting himself to one who is afflicted with a malady which no experienced person would attempt to cure, for the patient himself admits that he is not in his right mind, and acknowledges that he is wrong in his mind, but says that he is unable to control himself? And if he came to his right mind, would he ever imagine that the desires were good which he conceived when in his wrong mind? Once more, there are many more non-lovers than lovers; and if you choose the best of the lovers, you will not have many to choose from; but if from the non-lovers, the choice will be larger, and you will be far more likely to find among them a person who is worthy of your friendship. If public opinion be your dread, and you would avoid reproach, in all probability the lover, who is always thinking that other men are as emulous of him as he is of them, will boast to some one of his successes, and make a show of them openly in the pride of his heart;—he wants others to know that his labour has not been lost; but the non-lover is more his own master, and is desirous of solid good, and not of the opinion of mankind. Again, the lover may be generally noted or seen following the beloved (this is his regular occupation), and whenever they are observed to exchange two words they are supposed to meet about some affair of love either past or in contemplation; but when non-lovers meet, no one asks the reason why, because people know that talking to another is natural, whether friendship or mere pleasure be the motive. Once more, if you fear the fickleness of friendship, consider that in any other case a quarrel might be a mutual calamity; but now, when you have given up what is most precious to you, you will be the greater loser, and therefore, you will have more reason in being afraid of the lover, for his vexations are many, and he is always fancying that every one is leagued against him. Wherefore also he debars his beloved from society; he will not have you intimate with the wealthy, lest they should exceed him in wealth, or with men of education, lest they should be his superiors in understanding; and he is equally afraid of anybody's influence who has any other advantage over himself. If he can persuade you to break with them, you are left without a friend in the world; or if, out of a regard to your own interest, you have more sense than to comply with his desire, you will have to quarrel with him. But those who are non-lovers, and whose success in love is the reward of their merit, will not be jealous of the companions of their beloved, and will rather hate those who refuse to be his associates, thinking that their favourite is slighted by the latter and benefited by the former; for more love than hatred may be expected to come to him out of his friendship with others. Many lovers too have loved the person of a youth before they knew his character or his belongings; so that when their passion has passed away, there is no knowing whether they will continue to be his friends; whereas, in the case of non-lovers who were always friends, the friendship is not lessened by the favours granted; but the recollection of these remains with them, and is an earnest of good things to come.
 
@@ -337,7 +336,7 @@ Now, Socrates, what do you think? Is not the discourse excellent, more especiall
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Yes, quite admirable; the effect on me was ravishing. And this I owe to you, Phaedrus, for I observed you while reading to be in an ecstasy, and thinking that you are more experienced in these matters than I am, I followed your example, and, like you, my divine darling, I became inspired with a phrenzy.`,
 
@@ -345,26 +344,26 @@ Now, Socrates, what do you think? Is not the discourse excellent, more especiall
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Indeed, you are pleased to be merry.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Do you mean that I am not in earnest? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Now don't talk in that way, Socrates, but let me have your real opinion; I adjure you, by Zeus, the god of friendship, to tell me whether you think that any Hellene could have said more or spoken better on the same subject.`,
 
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Well, but are you and I expected to praise the sentiments of the author, or only the clearness, and roundness, and finish, and tournure of the language? As to the first I willingly submit to your better judgment, for I am not worthy to form an opinion, having only attended to the rhetorical manner; and I was doubting whether this could have been defended even by Lysias himself; I thought, though I speak under correction, that he repeated himself two or three times, either from want of words or from want of pains; and also, he appeared to me ostentatiously to exult in showing how well he could say the same thing in two or three ways.`,
 
@@ -374,26 +373,26 @@ Now, Socrates, what do you think? Is not the discourse excellent, more especiall
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Nonsense, Socrates; what you call repetition was the especial merit of the speech; for he omitted no topic of which the subject rightly allowed, and I do not think that any one could have spoken better or more exhaustively.`,
 
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `There I cannot go along with you. Ancient sages, men and women, who have spoken and written of these things, would rise up in judgment against me, if out of complaisance I assented to you.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Who are they, and where did you hear anything better than this? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `I am sure that I must have heard; but at this moment I do not remember from whom; perhaps from Sappho the fair, or Anacreon the wise; or, possibly, from a prose writer. Why do I say so? Why, because I perceive that my bosom is full, and that I could make another speech as good as that of Lysias, and different. Now I am certain that this is not an invention of my own, who am well aware that I know nothing, and therefore I can only infer that I have been filled through the ears, like a pitcher, from the waters of another, though I have actually forgotten in my stupidity who was my informant.`,
 
@@ -402,7 +401,7 @@ Now, Socrates, what do you think? Is not the discourse excellent, more especiall
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `That is grand:—but never mind where you heard the discourse or from whom; let that be a mystery not to be divulged even at my earnest desire. Only, as you say, promise to make another and better oration, equal in length and entirely new, on the same subject; and I, like the nine Archons, will promise to set up a golden image at Delphi, not only of myself, but of you, and as large as life.`,
 
@@ -410,103 +409,103 @@ Now, Socrates, what do you think? Is not the discourse excellent, more especiall
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `You are a dear golden ass if you suppose me to mean that Lysias has altogether missed the mark, and that I can make a speech from which all his arguments are to be excluded. The worst of authors will say something which is to the point. Who, for example, could speak on this thesis of yours without praising the discretion of the non-lover and blaming the indiscretion of the lover? These are the commonplaces of the subject which must come in (for what else is there to be said?) and must be allowed and excused; the only merit is in the arrangement of them, for there can be none in the invention; but when you leave the commonplaces, then there may be some originality.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `I admit that there is reason in what you say, and I too will be reasonable, and will allow you to start with the premiss that the lover is more disordered in his wits than the non-lover; if in what remains you make a longer and better speech than Lysias, and use other arguments, then I say again, that a statue you shall have of beaten gold, and take your place by the colossal offerings of the Cypselids at Olympia.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `How profoundly in earnest is the lover, because to tease him I lay a finger upon his love! And so, Phaedrus, you really imagine that I am going to improve upon the ingenuity of Lysias?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `There I have you as you had me, and you must just speak 'as you best can.' Do not let us exchange 'tu quoque' as in a farce, or compel me to say to you as you said to me, 'I know Socrates as well as I know myself, and he was wanting to speak, but he gave himself airs.' Rather I would have you consider that from this place we stir not until you have unbosomed yourself of the speech; for here are we all alone, and I am stronger, remember, and younger than you:—Wherefore perpend, and do not compel me to use violence.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `But, my sweet Phaedrus, how ridiculous it would be of me to compete with Lysias in an extempore speech! He is a master in his art and I am an untaught man.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `You see how matters stand; and therefore let there be no more pretences; for, indeed, I know the word that is irresistible.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Then don't say it.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Yes, but I will; and my word shall be an oath. 'I say, or rather swear'—but what god will be witness of my oath?—'By this plane-tree I swear, that unless you repeat the discourse here in the face of this very plane-tree, I will never tell you another; never let you have word of another!' `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Villain! I am conquered; the poor lover of discourse has no more to say.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Then why are you still at your tricks?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `I am not going to play tricks now that you have taken the oath, for I cannot allow myself to be starved.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Proceed.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Shall I tell you what I will do? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `What? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `I will veil my face and gallop through the discourse as fast as I can, for if I see you I shall feel ashamed and not know what to say.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Only go on and you may do anything else which you please.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Come, O ye Muses, melodious, as ye are called, whether you have received this name from the character of your strains, or because the Melians are a musical race, help, O help me in the tale which my good friend here desires me to rehearse, in order that his friend whom he always deemed wise may seem to him to be wiser than ever.
 
@@ -520,25 +519,25 @@ And now, dear Phaedrus, I shall pause for an instant to ask whether you do not t
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Yes, Socrates, you seem to have a very unusual flow of words.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Listen to me, then, in silence; for surely the place is holy; so that you must not wonder, if, as I proceed, I appear to be in a divine fury, for already I am getting into dithyrambics.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Nothing can be truer.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `The responsibility rests with you. But hear what follows, and perhaps the fit may be averted; all is in their hands above. I will go on talking to my youth. Listen:—
 
@@ -560,85 +559,85 @@ But I told you so, I am speaking in verse, and therefore I had better make an en
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `I thought that you were only half-way and were going to make a similar speech about all the advantages of accepting the non-lover. Why do you not proceed?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Does not your simplicity observe that I have got out of dithyrambics into heroics, when only uttering a censure on the lover? And if I am to add the praises of the non-lover what will become of me? Do you not perceive that I am already overtaken by the Nymphs to whom you have mischievously exposed me? And therefore I will only add that the non-lover has all the advantages in which the lover is accused of being deficient. And now I will say no more; there has been enough of both of them. Leaving the tale to its fate, I will cross the river and make the best of my way home, lest a worse thing be inflicted upon me by you.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Not yet, Socrates; not until the heat of the day has passed; do you not see that the hour is almost noon? there is the midday sun standing still, as people say, in the meridian. Let us rather stay and talk over what has been said, and then return in the cool.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Your love of discourse, Phaedrus, is superhuman, simply marvellous, and I do not believe that there is any one of your contemporaries who has either made or in one way or another has compelled others to make an equal number of speeches. I would except Simmias the Theban, but all the rest are far behind you. And now I do verily believe that you have been the cause of another.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `That is good news. But what do you mean? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `I mean to say that as I was about to cross the stream the usual sign was given to me,—that sign which always forbids, but never bids, me to do anything which I am going to do; and I thought that I heard a voice saying in my ear that I had been guilty of impiety, and that I must not go away until I had made an atonement. Now I am a diviner, though not a very good one, but I have enough religion for my own use, as you might say of a bad writer—his writing is good enough for him; and I am beginning to see that I was in error. O my friend, how prophetic is the human soul! At the time I had a sort of misgiving, and, like Ibycus, 'I was troubled; I feared that I might be buying honour from men at the price of sinning against the gods.' Now I recognize my error.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `What error? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `That was a dreadful speech which you brought with you, and you made me utter one as bad.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `How so? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `It was foolish, I say,—to a certain extent, impious; can anything be more dreadful? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Nothing, if the speech was really such as you describe.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Well, and is not Eros the son of Aphrodite, and a god?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `So men say.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `But that was not acknowledged by Lysias in his speech, nor by you in that other speech which you by a charm drew from my lips. For if love be, as he surely is, a divinity, he cannot be evil. Yet this was the error of both the speeches. There was also a simplicity about them which was refreshing; having no truth or honesty in them, nevertheless they pretended to be something, hoping to succeed in deceiving the manikins of earth and gain celebrity among them. Wherefore I must have a purgation. And I bethink me of an ancient purgation of mythological error which was devised, not by Homer, for he never had the wit to discover why he was blind, but by Stesichorus, who was a philosopher and knew the reason why; and therefore, when he lost his eyes, for that was the penalty which was inflicted upon him for reviling the lovely Helen, he at once purged himself. And the purgation was a recantation, which began thus,—
 
@@ -649,61 +648,61 @@ and when he had completed his poem, which is called 'the recantation,' immediate
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Nothing could be more agreeable to me than to hear you say so.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Only think, my good Phaedrus, what an utter want of delicacy was shown in the two discourses; I mean, in my own and in that which you recited out of the book. Would not any one who was himself of a noble and gentle nature, and who loved or ever had loved a nature like his own, when we tell of the petty causes of lovers' jealousies, and of their exceeding animosities, and of the injuries which they do to their beloved, have imagined that our ideas of love were taken from some haunt of sailors to which good manners were unknown—he would certainly never have admitted the justice of our censure?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `I dare say not, Socrates.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Therefore, because I blush at the thought of this person, and also because I am afraid of Love himself, I desire to wash the brine out of my ears with water from the spring; and I would counsel Lysias not to delay, but to write another discourse, which shall prove that 'ceteris paribus' the lover ought to be accepted rather than the non-lover.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Be assured that he shall. You shall speak the praises of the lover, and Lysias shall be compelled by me to write another discourse on the same theme.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `You will be true to your nature in that, and therefore I believe you.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Speak, and fear not.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `But where is the fair youth whom I was addressing before, and who ought to listen now; lest, if he hear me not, he should accept a non-lover before he knows what he is doing? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `He is close at hand, and always at your service.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Know then, fair youth, that the former discourse was the word of Phaedrus, the son of Vain Man, who dwells in the city of Myrrhina (Myrrhinusius). And this which I am about to utter is the recantation of Stesichorus the son of Godly Man (Euphemus), who comes from the town of Desire (Himera), and is to the following effect: 'I told a lie when I said' that the beloved ought to accept the non-lover when he might have the lover, because the one is sane, and the other mad. It might be so if madness were simply an evil; but there is also a madness which is a divine gift, and the source of the chiefest blessings granted to men. For prophecy is a madness, and the prophetess at Delphi and the priestesses at Dodona when out of their senses have conferred great benefits on Hellas, both in public and private life, but when in their senses few or none. And I might also tell you how the Sibyl and other inspired persons have given to many an one many an intimation of the future which has saved them from falling. But it would be tedious to speak of what every one knows.
 
@@ -741,697 +740,697 @@ And thus, dear Eros, I have made and paid my recantation, as well and as fairly 
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `I join in the prayer, Socrates, and say with you, if this be for my good, may your words come to pass. But why did you make your second oration so much finer than the first? I wonder why. And I begin to be afraid that I shall lose conceit of Lysias, and that he will appear tame in comparison, even if he be willing to put another as fine and as long as yours into the field, which I doubt. For quite lately one of your politicians was abusing him on this very account; and called him a 'speech writer' again and again. So that a feeling of pride may probably induce him to give up writing speeches.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `What a very amusing notion! But I think, my young man, that you are much mistaken in your friend if you imagine that he is frightened at a little noise; and, possibly, you think that his assailant was in earnest?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `I thought, Socrates, that he was. And you are aware that the greatest and most influential statesmen are ashamed of writing speeches and leaving them in a written form, lest they should be called Sophists by posterity.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `You seem to be unconscious, Phaedrus, that the 'sweet elbow' (A proverb, like 'the grapes are sour,' applied to pleasures which cannot be had, meaning sweet things which, like the elbow, are out of the reach of the mouth. The promised pleasure turns out to be a long and tedious affair.) of the proverb is really the long arm of the Nile. And you appear to be equally unaware of the fact that this sweet elbow of theirs is also a long arm. For there is nothing of which our great politicians are so fond as of writing speeches and bequeathing them to posterity. And they add their admirers' names at the top of the writing, out of gratitude to them.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `What do you mean? I do not understand.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Why, do you not know that when a politician writes, he begins with the names of his approvers?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `How so? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Why, he begins in this manner: 'Be it enacted by the senate, the people, or both, on the motion of a certain person,' who is our author; and so putting on a serious face, he proceeds to display his own wisdom to his admirers in what is often a long and tedious composition. Now what is that sort of thing but a regular piece of authorship? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `True.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And if the law is finally approved, then the author leaves the theatre in high delight; but if the law is rejected and he is done out of his speech-making, and not thought good enough to write, then he and his party are in mourning.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Very true.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `So far are they from despising, or rather so highly do they value the practice of writing.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `No doubt.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And when the king or orator has the power, as Lycurgus or Solon or Darius had, of attaining an immortality or authorship in a state, is he not thought by posterity, when they see his compositions, and does he not think himself, while he is yet alive, to be a god? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Very true.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Then do you think that any one of this class, however ill-disposed, would reproach Lysias with being an author? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Not upon your view; for according to you he would be casting a slur upon his own favourite pursuit.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Any one may see that there is no disgrace in the mere fact of writing.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Certainly not.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `The disgrace begins when a man writes not well, but badly.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Clearly.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And what is well and what is badly—need we ask Lysias, or any other poet or orator, who ever wrote or will write either a political or any other work, in metre or out of metre, poet or prose writer, to teach us this?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Need we? For what should a man live if not for the pleasures of discourse? Surely not for the sake of bodily pleasures, which almost always have previous pain as a condition of them, and therefore are rightly called slavish.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `There is time enough. And I believe that the grasshoppers chirruping after their manner in the heat of the sun over our heads are talking to one another and looking down at us. What would they say if they saw that we, like the many, are not conversing, but slumbering at mid-day, lulled by their voices, too indolent to think? Would they not have a right to laugh at us? They might imagine that we were slaves, who, coming to rest at a place of resort of theirs, like sheep lie asleep at noon around the well. But if they see us discoursing, and like Odysseus sailing past them, deaf to their siren voices, they may perhaps, out of respect, give us of the gifts which they receive from the gods that they may impart them to men.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `What gifts do you mean? I never heard of any.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `A lover of music like yourself ought surely to have heard the story of the grasshoppers, who are said to have been human beings in an age before the Muses. And when the Muses came and song appeared they were ravished with delight; and singing always, never thought of eating and drinking, until at last in their forgetfulness they died. And now they live again in the grasshoppers; and this is the return which the Muses make to them—they neither hunger, nor thirst, but from the hour of their birth are always singing, and never eating or drinking; and when they die they go and inform the Muses in heaven who honours them on earth. They win the love of Terpsichore for the dancers by their report of them; of Erato for the lovers, and of the other Muses for those who do them honour, according to the several ways of honouring them;—of Calliope the eldest Muse and of Urania who is next to her, for the philosophers, of whose music the grasshoppers make report to them; for these are the Muses who are chiefly concerned with heaven and thought, divine as well as human, and they have the sweetest utterance. For many reasons, then, we ought always to talk and not to sleep at mid-day.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Let us talk.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Shall we discuss the rules of writing and speech as we were proposing? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Very good.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `In good speaking should not the mind of the speaker know the truth of the matter about which he is going to speak?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `And yet, Socrates, I have heard that he who would be an orator has nothing to do with true justice, but only with that which is likely to be approved by the many who sit in judgment; nor with the truly good or honourable, but only with opinion about them, and that from opinion comes persuasion, and not from the truth.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `The words of the wise are not to be set aside; for there is probably something in them; and therefore the meaning of this saying is not hastily to be dismissed.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Very true.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Let us put the matter thus:—Suppose that I persuaded you to buy a horse and go to the wars. Neither of us knew what a horse was like, but I knew that you believed a horse to be of tame animals the one which has the longest ears.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `That would be ridiculous.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `There is something more ridiculous coming:—Suppose, further, that in sober earnest I, having persuaded you of this, went and composed a speech in honour of an ass, whom I entitled a horse beginning: 'A noble animal and a most useful possession, especially in war, and you may get on his back and fight, and he will carry baggage or anything.' `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `How ridiculous! `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Ridiculous! Yes; but is not even a ridiculous friend better than a cunning enemy? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Certainly.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And when the orator instead of putting an ass in the place of a horse, puts good for evil, being himself as ignorant of their true nature as the city on which he imposes is ignorant; and having studied the notions of the multitude, falsely persuades them not about 'the shadow of an ass,' which he confounds with a horse, but about good which he confounds with evil,—what will be the harvest which rhetoric will be likely to gather after the sowing of that seed?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `The reverse of good.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `But perhaps rhetoric has been getting too roughly handled by us, and she might answer: What amazing nonsense you are talking! As if I forced any man to learn to speak in ignorance of the truth! Whatever my advice may be worth, I should have told him to arrive at the truth first, and then come to me. At the same time I boldly assert that mere knowledge of the truth will not give you the art of persuasion.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `There is reason in the lady's defence of herself.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Quite true; if only the other arguments which remain to be brought up bear her witness that she is an art at all. But I seem to hear them arraying themselves on the opposite side, declaring that she speaks falsely, and that rhetoric is a mere routine and trick, not an art. Lo! a Spartan appears, and says that there never is nor ever will be a real art of speaking which is divorced from the truth.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `And what are these arguments, Socrates? Bring them out that we may examine them.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Come out, fair children, and convince Phaedrus, who is the father of similar beauties, that he will never be able to speak about anything as he ought to speak unless he have a knowledge of philosophy. And let Phaedrus answer you.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Put the question.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Is not rhetoric, taken generally, a universal art of enchanting the mind by arguments; which is practiced not only in courts and public assemblies, but in private houses also, having to do with all matters, great as well as small, good and bad alike, and is in all equally right, and equally to be esteemed—that is what you have heard? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Nay, not exactly that; I should say rather that I have heard the art confined to speaking and writing in lawsuits, and to speaking in public assemblies—not extended farther.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Then I suppose that you have only heard of the rhetoric of Nestor and Odysseus, which they composed in their leisure hours when at Troy, and never of the rhetoric of Palamedes?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `No more than of Nestor and Odysseus, unless Gorgias is your Nestor, and Thrasymachus or Theodorus your Odysseus.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Perhaps that is my meaning. But let us leave them. And do you tell me, instead, what are plaintiff and defendant doing in a law court—are they not contending? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Exactly so.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `About the just and unjust—that is the matter in dispute? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Yes.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And a professor of the art will make the same thing appear to the same persons to be at one time just, at another time, if he is so inclined, to be unjust? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Exactly.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And when he speaks in the assembly, he will make the same things seem good to the city at one time, and at another time the reverse of good? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `That is true.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Have we not heard of the Eleatic Palamedes (Zeno), who has an art of speaking by which he makes the same things appear to his hearers like and unlike, one and many, at rest and in motion? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Very true.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `The art of disputation, then, is not confined to the courts and the assembly, but is one and the same in every use of language; this is the art, if there be such an art, which is able to find a likeness of everything to which a likeness can be found, and draws into the light of day the likenesses and disguises which are used by others? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `How do you mean? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Let me put the matter thus: When will there be more chance of deception—when the difference is large or small?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `When the difference is small.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And you will be less likely to be discovered in passing by degrees into the other extreme than when you go all at once?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Of course.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `He, then, who would deceive others, and not be deceived, must exactly know the real likenesses and differences of things? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `He must.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And if he is ignorant of the true nature of any subject, how can he detect the greater or less degree of likeness in other things to that of which by the hypothesis he is ignorant?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `He cannot.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And when men are deceived and their notions are at variance with realities, it is clear that the error slips in through resemblances? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Yes, that is the way.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Then he who would be a master of the art must understand the real nature of everything; or he will never know either how to make the gradual departure from truth into the opposite of truth which is effected by the help of resemblances, or how to avoid it? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `He will not.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `He then, who being ignorant of the truth aims at appearances, will only attain an art of rhetoric which is ridiculous and is not an art at all? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `That may be expected.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Shall I propose that we look for examples of art and want of art, according to our notion of them, in the speech of Lysias which you have in your hand, and in my own speech?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Nothing could be better; and indeed I think that our previous argument has been too abstract and wanting in illustrations.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Yes; and the two speeches happen to afford a very good example of the way in which the speaker who knows the truth may, without any serious purpose, steal away the hearts of his hearers. This piece of good-fortune I attribute to the local deities; and, perhaps, the prophets of the Muses who are singing over our heads may have imparted their inspiration to me. For I do not imagine that I have any rhetorical art of my own.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Granted; if you will only please to get on.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Suppose that you read me the first words of Lysias' speech.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `'You know how matters stand with me, and how, as I conceive, they might be arranged for our common interest; and I maintain that I ought not to fail in my suit, because I am not your lover. For lovers repent—' `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Enough:—Now, shall I point out the rhetorical error of those words? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Yes.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Every one is aware that about some things we are agreed, whereas about other things we differ.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `I think that I understand you; but will you explain yourself?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `When any one speaks of iron and silver, is not the same thing present in the minds of all?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Certainly.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `But when any one speaks of justice and goodness we part company and are at odds with one another and with ourselves? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Precisely.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Then in some things we agree, but not in others?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `That is true.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `In which are we more likely to be deceived, and in which has rhetoric the greater power? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Clearly, in the uncertain class.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Then the rhetorician ought to make a regular division, and acquire a distinct notion of both classes, as well of that in which the many err, as of that in which they do not err?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `He who made such a distinction would have an excellent principle.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Yes; and in the next place he must have a keen eye for the observation of particulars in speaking, and not make a mistake about the class to which they are to be referred.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Certainly.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Now to which class does love belong—to the debatable or to the undisputed class? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `To the debatable, clearly; for if not, do you think that love would have allowed you to say as you did, that he is an evil both to the lover and the beloved, and also the greatest possible good?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Capital. But will you tell me whether I defined love at the beginning of my speech? for, having been in an ecstasy, I cannot well remember.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Yes, indeed; that you did, and no mistake.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Then I perceive that the Nymphs of Achelous and Pan the son of Hermes, who inspired me, were far better rhetoricians than Lysias the son of Cephalus. Alas! how inferior to them he is! But perhaps I am mistaken; and Lysias at the commencement of his lover's speech did insist on our supposing love to be something or other which he fancied him to be, and according to this model he fashioned and framed the remainder of his discourse. Suppose we read his beginning over again:`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `If you please; but you will not find what you want.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Read, that I may have his exact words.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `'You know how matters stand with me, and how, as I conceive, they might be arranged for our common interest; and I maintain I ought not to fail in my suit because I am not your lover, for lovers repent of the kindnesses which they have shown, when their love is over.' `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Here he appears to have done just the reverse of what he ought; for he has begun at the end, and is swimming on his back through the flood to the place of starting. His address to the fair youth begins where the lover would have ended. Am I not right, sweet Phaedrus? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Yes, indeed, Socrates; he does begin at the end.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Then as to the other topics—are they not thrown down anyhow? Is there any principle in them? Why should the next topic follow next in order, or any other topic? I cannot help fancying in my ignorance that he wrote off boldly just what came into his head, but I dare say that you would recognize a rhetorical necessity in the succession of the several parts of the composition? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `You have too good an opinion of me if you think that I have any such insight into his principles of composition.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `At any rate, you will allow that every discourse ought to be a living creature, having a body of its own and a head and feet; there should be a middle, beginning, and end, adapted to one another and to the whole? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Certainly.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Can this be said of the discourse of Lysias? See whether you can find any more connexion in his words than in the epitaph which is said by some to have been inscribed on the grave of Midas the Phrygian.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `What is there remarkable in the epitaph?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `It is as follows:—
 
@@ -1441,997 +1440,997 @@ Now in this rhyme whether a line comes first or comes last, as you will perceive
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `You are making fun of that oration of ours.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Well, I will say no more about your friend's speech lest I should give offence to you; although I think that it might furnish many other examples of what a man ought rather to avoid. But I will proceed to the other speech, which, as I think, is also suggestive to students of rhetoric.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `In what way?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `The two speeches, as you may remember, were unlike; the one argued that the lover and the other that the non-lover ought to be accepted.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `And right manfully.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `You should rather say 'madly;' and madness was the argument of them, for, as I said, 'love is a madness.' `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Yes.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And of madness there were two kinds; one produced by human infirmity, the other was a divine release of the soul from the yoke of custom and convention.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `True.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `The divine madness was subdivided into four kinds, prophetic, initiatory, poetic, erotic, having four gods presiding over them; the first was the inspiration of Apollo, the second that of Dionysus, the third that of the Muses, the fourth that of Aphrodite and Eros. In the description of the last kind of madness, which was also said to be the best, we spoke of the affection of love in a figure, into which we introduced a tolerably credible and possibly true though partly erring myth, which was also a hymn in honour of Love, who is your lord and also mine, Phaedrus, and the guardian of fair children, and to him we sung the hymn in measured and solemn strain.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `I know that I had great pleasure in listening to you.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Let us take this instance and note how the transition was made from blame to praise.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `What do you mean?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `I mean to say that the composition was mostly playful. Yet in these chance fancies of the hour were involved two principles of which we should be too glad to have a clearer description if art could give us one.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `What are they? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `First, the comprehension of scattered particulars in one idea; as in our definition of love, which whether true or false certainly gave clearness and consistency to the discourse, the speaker should define his several notions and so make his meaning clear.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `What is the other principle, Socrates?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `The second principle is that of division into species according to the natural formation, where the joint is, not breaking any part as a bad carver might. Just as our two discourses, alike assumed, first of all, a single form of unreason; and then, as the body which from being one becomes double and may be divided into a left side and right side, each having parts right and left of the same name—after this manner the speaker proceeded to divide the parts of the left side and did not desist until he found in them an evil or left-handed love which he justly reviled; and the other discourse leading us to the madness which lay on the right side, found another love, also having the same name, but divine, which the speaker held up before us and applauded and affirmed to be the author of the greatest benefits.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Most true.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `I am myself a great lover of these processes of division and generalization; they help me to speak and to think. And if I find any man who is able to see 'a One and Many' in nature, him I follow, and 'walk in his footsteps as if he were a god.' And those who have this art, I have hitherto been in the habit of calling dialecticians; but God knows whether the name is right or not. And I should like to know what name you would give to your or to Lysias' disciples, and whether this may not be that famous art of rhetoric which Thrasymachus and others teach and practice? Skilful speakers they are, and impart their skill to any who is willing to make kings of them and to bring gifts to them.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Yes, they are royal men; but their art is not the same with the art of those whom you call, and rightly, in my opinion, dialecticians:—Still we are in the dark about rhetoric.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `What do you mean? The remains of it, if there be anything remaining which can be brought under rules of art, must be a fine thing; and, at any rate, is not to be despised by you and me. But how much is left?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `There is a great deal surely to be found in books of rhetoric?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Yes; thank you for reminding me:—There is the exordium, showing how the speech should begin, if I remember rightly; that is what you mean—the niceties of the art?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Yes.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Then follows the statement of facts, and upon that witnesses; thirdly, proofs; fourthly, probabilities are to come; the great Byzantian word-maker also speaks, if I am not mistaken, of confirmation and further confirmation.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `You mean the excellent Theodorus.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Yes; and he tells how refutation or further refutation is to be managed, whether in accusation or defence. I ought also to mention the illustrious Parian, Evenus, who first invented insinuations and indirect praises; and also indirect censures, which according to some he put into verse to help the memory. But shall I 'to dumb forgetfulness consign' Tisias and Gorgias, who are not ignorant that probability is superior to truth, and who by force of argument make the little appear great and the great little, disguise the new in old fashions and the old in new fashions, and have discovered forms for everything, either short or going on to infinity. I remember Prodicus laughing when I told him of this; he said that he had himself discovered the true rule of art, which was to be neither long nor short, but of a convenient length.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Well done, Prodicus!`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Then there is Hippias the Elean stranger, who probably agrees with him.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Yes.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And there is also Polus, who has treasuries of diplasiology, and gnomology, and eikonology, and who teaches in them the names of which Licymnius made him a present; they were to give a polish.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Had not Protagoras something of the same sort?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Yes, rules of correct diction and many other fine precepts; for the 'sorrows of a poor old man,' or any other pathetic case, no one is better than the Chalcedonian giant; he can put a whole company of people into a passion and out of one again by his mighty magic, and is first-rate at inventing or disposing of any sort of calumny on any grounds or none. All of them agree in asserting that a speech should end in a recapitulation, though they do not all agree to use the same word.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `You mean that there should be a summing up of the arguments in order to remind the hearers of them.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `I have now said all that I have to say of the art of rhetoric: have you anything to add? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Not much; nothing very important.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Leave the unimportant and let us bring the really important question into the light of day, which is: What power has this art of rhetoric, and when?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `A very great power in public meetings.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `It has. But I should like to know whether you have the same feeling as I have about the rhetoricians? To me there seem to be a great many holes in their web.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Give an example.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `I will. Suppose a person to come to your friend Eryximachus, or to his father Acumenus, and to say to him: 'I know how to apply drugs which shall have either a heating or a cooling effect, and I can give a vomit and also a purge, and all that sort of thing; and knowing all this, as I do, I claim to be a physician and to make physicians by imparting this knowledge to others,'—what do you suppose that they would say?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `They would be sure to ask him whether he knew 'to whom' he would give his medicines, and 'when,' and 'how much.' `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And suppose that he were to reply: 'No; I know nothing of all that; I expect the patient who consults me to be able to do these things for himself'?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `They would say in reply that he is a madman or a pedant who fancies that he is a physician because he has read something in a book, or has stumbled on a prescription or two, although he has no real understanding of the art of medicine.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And suppose a person were to come to Sophocles or Euripides and say that he knows how to make a very long speech about a small matter, and a short speech about a great matter, and also a sorrowful speech, or a terrible, or threatening speech, or any other kind of speech, and in teaching this fancies that he is teaching the art of tragedy—? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `They too would surely laugh at him if he fancies that tragedy is anything but the arranging of these elements in a manner which will be suitable to one another and to the whole.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `But I do not suppose that they would be rude or abusive to him: Would they not treat him as a musician a man who thinks that he is a harmonist because he knows how to pitch the highest and lowest note; happening to meet such an one he would not say to him savagely, 'Fool, you are mad!' But like a musician, in a gentle and harmonious tone of voice, he would answer: 'My good friend, he who would be a harmonist must certainly know this, and yet he may understand nothing of harmony if he has not got beyond your stage of knowledge, for you only know the preliminaries of harmony and not harmony itself.' `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Very true.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And will not Sophocles say to the display of the would-be tragedian, that this is not tragedy but the preliminaries of tragedy? and will not Acumenus say the same of medicine to the would-be physician?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Quite true.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And if Adrastus the mellifluous or Pericles heard of these wonderful arts, brachylogies and eikonologies and all the hard names which we have been endeavouring to draw into the light of day, what would they say? Instead of losing temper and applying uncomplimentary epithets, as you and I have been doing, to the authors of such an imaginary art, their superior wisdom would rather censure us, as well as them. 'Have a little patience, Phaedrus and Socrates, they would say; you should not be in such a passion with those who from some want of dialectical skill are unable to define the nature of rhetoric, and consequently suppose that they have found the art in the preliminary conditions of it, and when these have been taught by them to others, fancy that the whole art of rhetoric has been taught by them; but as to using the several instruments of the art effectively, or making the composition a whole,—an application of it such as this is they regard as an easy thing which their disciples may make for themselves.' `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `I quite admit, Socrates, that the art of rhetoric which these men teach and of which they write is such as you describe—there I agree with you. But I still want to know where and how the true art of rhetoric and persuasion is to be acquired.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `The perfection which is required of the finished orator is, or rather must be, like the perfection of anything else; partly given by nature, but may also be assisted by art. If you have the natural power and add to it knowledge and practice, you will be a distinguished speaker; if you fall short in either of these, you will be to that extent defective. But the art, as far as there is an art, of rhetoric does not lie in the direction of Lysias or Thrasymachus.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `In what direction then? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `I conceive Pericles to have been the most accomplished of rhetoricians.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `What of that?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `All the great arts require discussion and high speculation about the truths of nature; hence come loftiness of thought and completeness of execution. And this, as I conceive, was the quality which, in addition to his natural gifts, Pericles acquired from his intercourse with Anaxagoras whom he happened to know. He was thus imbued with the higher philosophy, and attained the knowledge of Mind and the negative of Mind, which were favourite themes of Anaxagoras, and applied what suited his purpose to the art of speaking.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Explain.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Rhetoric is like medicine.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `How so? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Why, because medicine has to define the nature of the body and rhetoric of the soul—if we would proceed, not empirically but scientifically, in the one case to impart health and strength by giving medicine and food, in the other to implant the conviction or virtue which you desire, by the right application of words and training.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `There, Socrates, I suspect that you are right.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And do you think that you can know the nature of the soul intelligently without knowing the nature of the whole? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Hippocrates the Asclepiad says that the nature even of the body can only be understood as a whole. (Compare Charmides.) `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Yes, friend, and he was right:—still, we ought not to be content with the name of Hippocrates, but to examine and see whether his argument agrees with his conception of nature.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `I agree.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Then consider what truth as well as Hippocrates says about this or about any other nature. Ought we not to consider first whether that which we wish to learn and to teach is a simple or multiform thing, and if simple, then to enquire what power it has of acting or being acted upon in relation to other things, and if multiform, then to number the forms; and see first in the case of one of them, and then in the case of all of them, what is that power of acting or being acted upon which makes each and all of them to be what they are? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `You may very likely be right, Socrates.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `The method which proceeds without analysis is like the groping of a blind man. Yet, surely, he who is an artist ought not to admit of a comparison with the blind, or deaf. The rhetorician, who teaches his pupil to speak scientifically, will particularly set forth the nature of that being to which he addresses his speeches; and this, I conceive, to be the soul.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Certainly.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `His whole effort is directed to the soul; for in that he seeks to produce conviction.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Yes.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Then clearly, Thrasymachus or any one else who teaches rhetoric in earnest will give an exact description of the nature of the soul; which will enable us to see whether she be single and same, or, like the body, multiform. That is what we should call showing the nature of the soul.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Exactly.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `He will explain, secondly, the mode in which she acts or is acted upon.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `True.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Thirdly, having classified men and speeches, and their kinds and affections, and adapted them to one another, he will tell the reasons of his arrangement, and show why one soul is persuaded by a particular form of argument, and another not.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `You have hit upon a very good way.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Yes, that is the true and only way in which any subject can be set forth or treated by rules of art, whether in speaking or writing. But the writers of the present day, at whose feet you have sat, craftily conceal the nature of the soul which they know quite well. Nor, until they adopt our method of reading and writing, can we admit that they write by rules of art?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `What is our method? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `I cannot give you the exact details; but I should like to tell you generally, as far as is in my power, how a man ought to proceed according to rules of art.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Let me hear.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Oratory is the art of enchanting the soul, and therefore he who would be an orator has to learn the differences of human souls—they are so many and of such a nature, and from them come the differences between man and man. Having proceeded thus far in his analysis, he will next divide speeches into their different classes:—'Such and such persons,' he will say, are affected by this or that kind of speech in this or that way,' and he will tell you why. The pupil must have a good theoretical notion of them first, and then he must have experience of them in actual life, and be able to follow them with all his senses about him, or he will never get beyond the precepts of his masters. But when he understands what persons are persuaded by what arguments, and sees the person about whom he was speaking in the abstract actually before him, and knows that it is he, and can say to himself, 'This is the man or this is the character who ought to have a certain argument applied to him in order to convince him of a certain opinion;'—he who knows all this, and knows also when he should speak and when he should refrain, and when he should use pithy sayings, pathetic appeals, sensational effects, and all the other modes of speech which he has learned;—when, I say, he knows the times and seasons of all these things, then, and not till then, he is a perfect master of his art; but if he fail in any of these points, whether in speaking or teaching or writing them, and yet declares that he speaks by rules of art, he who says 'I don't believe you' has the better of him. Well, the teacher will say, is this, Phaedrus and Socrates, your account of the so-called art of rhetoric, or am I to look for another? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `He must take this, Socrates, for there is no possibility of another, and yet the creation of such an art is not easy.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Very true; and therefore let us consider this matter in every light, and see whether we cannot find a shorter and easier road; there is no use in taking a long rough roundabout way if there be a shorter and easier one. And I wish that you would try and remember whether you have heard from Lysias or any one else anything which might be of service to us.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `If trying would avail, then I might; but at the moment I can think of nothing.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Suppose I tell you something which somebody who knows told me.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Certainly.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `May not 'the wolf,' as the proverb says, 'claim a hearing'?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Do you say what can be said for him.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `He will argue that there is no use in putting a solemn face on these matters, or in going round and round, until you arrive at first principles; for, as I said at first, when the question is of justice and good, or is a question in which men are concerned who are just and good, either by nature or habit, he who would be a skilful rhetorician has no need of truth—for that in courts of law men literally care nothing about truth, but only about conviction: and this is based on probability, to which he who would be a skilful orator should therefore give his whole attention. And they say also that there are cases in which the actual facts, if they are improbable, ought to be withheld, and only the probabilities should be told either in accusation or defence, and that always in speaking, the orator should keep probability in view, and say good-bye to the truth. And the observance of this principle throughout a speech furnishes the whole art.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `That is what the professors of rhetoric do actually say, Socrates. I have not forgotten that we have quite briefly touched upon this matter already; with them the point is all-important.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `I dare say that you are familiar with Tisias. Does he not define probability to be that which the many think?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Certainly, he does.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `I believe that he has a clever and ingenious case of this sort:—He supposes a feeble and valiant man to have assaulted a strong and cowardly one, and to have robbed him of his coat or of something or other; he is brought into court, and then Tisias says that both parties should tell lies: the coward should say that he was assaulted by more men than one; the other should prove that they were alone, and should argue thus: 'How could a weak man like me have assaulted a strong man like him?' The complainant will not like to confess his own cowardice, and will therefore invent some other lie which his adversary will thus gain an opportunity of refuting. And there are other devices of the same kind which have a place in the system. Am I not right, Phaedrus? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Certainly.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Bless me, what a wonderfully mysterious art is this which Tisias or some other gentleman, in whatever name or country he rejoices, has discovered. Shall we say a word to him or not?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `What shall we say to him?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Let us tell him that, before he appeared, you and I were saying that the probability of which he speaks was engendered in the minds of the many by the likeness of the truth, and we had just been affirming that he who knew the truth would always know best how to discover the resemblances of the truth. If he has anything else to say about the art of speaking we should like to hear him; but if not, we are satisfied with our own view, that unless a man estimates the various characters of his hearers and is able to divide all things into classes and to comprehend them under single ideas, he will never be a skilful rhetorician even within the limits of human power. And this skill he will not attain without a great deal of trouble, which a good man ought to undergo, not for the sake of speaking and acting before men, but in order that he may be able to say what is acceptable to God and always to act acceptably to Him as far as in him lies; for there is a saying of wiser men than ourselves, that a man of sense should not try to please his fellow-servants (at least this should not be his first object) but his good and noble masters; and therefore if the way is long and circuitous, marvel not at this, for, where the end is great, there we may take the longer road, but not for lesser ends such as yours. Truly, the argument may say, Tisias, that if you do not mind going so far, rhetoric has a fair beginning here.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `I think, Socrates, that this is admirable, if only practicable.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `But even to fail in an honourable object is honourable.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `True.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Enough appears to have been said by us of a true and false art of speaking.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Certainly.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `But there is something yet to be said of propriety and impropriety of writing.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Yes.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Do you know how you can speak or act about rhetoric in a manner which will be acceptable to God?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `No, indeed. Do you?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `I have heard a tradition of the ancients, whether true or not they only know; although if we had found the truth ourselves, do you think that we should care much about the opinions of men? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Your question needs no answer; but I wish that you would tell me what you say that you have heard.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `At the Egyptian city of Naucratis, there was a famous old god, whose name was Theuth; the bird which is called the Ibis is sacred to him, and he was the inventor of many arts, such as arithmetic and calculation and geometry and astronomy and draughts and dice, but his great discovery was the use of letters. Now in those days the god Thamus was the king of the whole country of Egypt; and he dwelt in that great city of Upper Egypt which the Hellenes call Egyptian Thebes, and the god himself is called by them Ammon. To him came Theuth and showed his inventions, desiring that the other Egyptians might be allowed to have the benefit of them; he enumerated them, and Thamus enquired about their several uses, and praised some of them and censured others, as he approved or disapproved of them. It would take a long time to repeat all that Thamus said to Theuth in praise or blame of the various arts. But when they came to letters, This, said Theuth, will make the Egyptians wiser and give them better memories; it is a specific both for the memory and for the wit. Thamus replied: O most ingenious Theuth, the parent or inventor of an art is not always the best judge of the utility or inutility of his own inventions to the users of them. And in this instance, you who are the father of letters, from a paternal love of your own children have been led to attribute to them a quality which they cannot have; for this discovery of yours will create forgetfulness in the learners' souls, because they will not use their memories; they will trust to the external written characters and not remember of themselves. The specific which you have discovered is an aid not to memory, but to reminiscence, and you give your disciples not truth, but only the semblance of truth; they will be hearers of many things and will have learned nothing; they will appear to be omniscient and will generally know nothing; they will be tiresome company, having the show of wisdom without the reality.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Yes, Socrates, you can easily invent tales of Egypt, or of any other country.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `There was a tradition in the temple of Dodona that oaks first gave prophetic utterances. The men of old, unlike in their simplicity to young philosophy, deemed that if they heard the truth even from 'oak or rock,' it was enough for them; whereas you seem to consider not whether a thing is or is not true, but who the speaker is and from what country the tale comes.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `I acknowledge the justice of your rebuke; and I think that the Theban is right in his view about letters.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `He would be a very simple person, and quite a stranger to the oracles of Thamus or Ammon, who should leave in writing or receive in writing any art under the idea that the written word would be intelligible or certain; or who deemed that writing was at all better than knowledge and recollection of the same matters? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `That is most true.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `I cannot help feeling, Phaedrus, that writing is unfortunately like painting; for the creations of the painter have the attitude of life, and yet if you ask them a question they preserve a solemn silence. And the same may be said of speeches. You would imagine that they had intelligence, but if you want to know anything and put a question to one of them, the speaker always gives one unvarying answer. And when they have been once written down they are tumbled about anywhere among those who may or may not understand them, and know not to whom they should reply, to whom not: and, if they are maltreated or abused, they have no parent to protect them; and they cannot protect or defend themselves.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `That again is most true.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Is there not another kind of word or speech far better than this, and having far greater power—a son of the same family, but lawfully begotten?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Whom do you mean, and what is his origin? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `I mean an intelligent word graven in the soul of the learner, which can defend itself, and knows when to speak and when to be silent.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `You mean the living word of knowledge which has a soul, and of which the written word is properly no more than an image? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Yes, of course that is what I mean. And now may I be allowed to ask you a question: Would a husbandman, who is a man of sense, take the seeds, which he values and which he wishes to bear fruit, and in sober seriousness plant them during the heat of summer, in some garden of Adonis, that he may rejoice when he sees them in eight days appearing in beauty? at least he would do so, if at all, only for the sake of amusement and pastime. But when he is in earnest he sows in fitting soil, and practices husbandry, and is satisfied if in eight months the seeds which he has sown arrive at perfection? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Yes, Socrates, that will be his way when he is in earnest; he will do the other, as you say, only in play.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And can we suppose that he who knows the just and good and honourable has less understanding, than the husbandman, about his own seeds? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Certainly not.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Then he will not seriously incline to 'write' his thoughts 'in water' with pen and ink, sowing words which can neither speak for themselves nor teach the truth adequately to others?`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `No, that is not likely.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `No, that is not likely—in the garden of letters he will sow and plant, but only for the sake of recreation and amusement; he will write them down as memorials to be treasured against the forgetfulness of old age, by himself, or by any other old man who is treading the same path. He will rejoice in beholding their tender growth; and while others are refreshing their souls with banqueting and the like, this will be the pastime in which his days are spent.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `A pastime, Socrates, as noble as the other is ignoble, the pastime of a man who can be amused by serious talk, and can discourse merrily about justice and the like.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `True, Phaedrus. But nobler far is the serious pursuit of the dialectician, who, finding a congenial soul, by the help of science sows and plants therein words which are able to help themselves and him who planted them, and are not unfruitful, but have in them a seed which others brought up in different soils render immortal, making the possessors of it happy to the utmost extent of human happiness.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Far nobler, certainly.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And now, Phaedrus, having agreed upon the premises we may decide about the conclusion.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `About what conclusion? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `About Lysias, whom we censured, and his art of writing, and his discourses, and the rhetorical skill or want of skill which was shown in them—these are the questions which we sought to determine, and they brought us to this point. And I think that we are now pretty well informed about the nature of art and its opposite.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Yes, I think with you; but I wish that you would repeat what was said.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Until a man knows the truth of the several particulars of which he is writing or speaking, and is able to define them as they are, and having defined them again to divide them until they can be no longer divided, and until in like manner he is able to discern the nature of the soul, and discover the different modes of discourse which are adapted to different natures, and to arrange and dispose them in such a way that the simple form of speech may be addressed to the simpler nature, and the complex and composite to the more complex nature—until he has accomplished all this, he will be unable to handle arguments according to rules of art, as far as their nature allows them to be subjected to art, either for the purpose of teaching or persuading;—such is the view which is implied in the whole preceding argument.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Yes, that was our view, certainly.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Secondly, as to the censure which was passed on the speaking or writing of discourses, and how they might be rightly or wrongly censured—did not our previous argument show—? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Show what? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `That whether Lysias or any other writer that ever was or will be, whether private man or statesman, proposes laws and so becomes the author of a political treatise, fancying that there is any great certainty and clearness in his performance, the fact of his so writing is only a disgrace to him, whatever men may say. For not to know the nature of justice and injustice, and good and evil, and not to be able to distinguish the dream from the reality, cannot in truth be otherwise than disgraceful to him, even though he have the applause of the whole world.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Certainly.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `But he who thinks that in the written word there is necessarily much which is not serious, and that neither poetry nor prose, spoken or written, is of any great value, if, like the compositions of the rhapsodes, they are only recited in order to be believed, and not with any view to criticism or instruction; and who thinks that even the best of writings are but a reminiscence of what we know, and that only in principles of justice and goodness and nobility taught and communicated orally for the sake of instruction and graven in the soul, which is the true way of writing, is there clearness and perfection and seriousness, and that such principles are a man's own and his legitimate offspring;—being, in the first place, the word which he finds in his own bosom; secondly, the brethren and descendants and relations of his idea which have been duly implanted by him in the souls of others;—and who cares for them and no others—this is the right sort of man; and you and I, Phaedrus, would pray that we may become like him.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `That is most assuredly my desire and prayer.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And now the play is played out; and of rhetoric enough. Go and tell Lysias that to the fountain and school of the Nymphs we went down, and were bidden by them to convey a message to him and to other composers of speeches—to Homer and other writers of poems, whether set to music or not; and to Solon and others who have composed writings in the form of political discourses which they would term laws—to all of them we are to say that if their compositions are based on knowledge of the truth, and they can defend or prove them, when they are put to the test, by spoken arguments, which leave their writings poor in comparison of them, then they are to be called, not only poets, orators, legislators, but are worthy of a higher name, befitting the serious pursuit of their life.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `What name would you assign to them? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Wise, I may not call them; for that is a great name which belongs to God alone,—lovers of wisdom or philosophers is their modest and befitting title.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Very suitable.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `And he who cannot rise above his own compilations and compositions, which he has been long patching and piecing, adding some and taking away some, may be justly called poet or speech-maker or law-maker.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Certainly.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Now go and tell this to your companion.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `But there is also a friend of yours who ought not to be forgotten.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Who is he? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Isocrates the fair:—What message will you send to him, and how shall we describe him? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Isocrates is still young, Phaedrus; but I am willing to hazard a prophecy concerning him.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `What would you prophesy? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `I think that he has a genius which soars above the orations of Lysias, and that his character is cast in a finer mould. My impression of him is that he will marvellously improve as he grows older, and that all former rhetoricians will be as children in comparison of him. And I believe that he will not be satisfied with rhetoric, but that there is in him a divine inspiration which will lead him to things higher still. For he has an element of philosophy in his nature. This is the message of the gods dwelling in this place, and which I will myself deliver to Isocrates, who is my delight; and do you give the other to Lysias, who is yours.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `I will; and now as the heat is abated let us depart.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Should we not offer up a prayer first of all to the local deities? `,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `By all means.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Beloved Pan, and all ye other gods who haunt this place, give me beauty in the inward soul; and may the outward and inward man be at one. May I reckon the wise to be the wealthy, and may I have such a quantity of gold as a temperate man and he only can bear and carry.—Anything more? The prayer, I think, is enough for me.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
         `Ask the same for me, for friends should have all things in common.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Let us go.`,
       ],
     },
     {
-      character: PhaedrusCharacter.Phaedrus,
+      character: Character.Phaedrus,
       speech: [
 
       ],
     },
     {
-      character: PhaedrusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
 
       ],

@@ -1,156 +1,154 @@
-import { MenexenusCharacter } from '../characters';
-import { Translation } from '../translation.interface';
-
+import { Character, Translation } from '..';
 
 export const MenexenusHackett: Translation = {
   translator: 'Paul Ryan',
   turns: [
     {
-      character: MenexenusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Where is Menexenus coming from? The market place?`,
       ],
     },
     {
-      character: MenexenusCharacter.Menexenus,
+      character: Character.Menexenus,
       speech: [
         `Yes, Socrates—the Council Chamber, to be exact.`,
       ],
     },
     {
-      character: MenexenusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `You at the Council Chamber? Why? I know—you fancy that you're finished with your schooling and with philosophy, and intend to turn to higher pursuits. You think you're ready for them now. At your age, my prodigy, you're undertaking to govern us older men, so that your family may carry on with its tradition of providing someone to look after us.`,
       ],
     },
     {
-      character: MenexenusCharacter.Menexenus,
+      character: Character.Menexenus,
       speech: [
         `Socrates, with your permission and approval I'll gladly hold public office; otherwise I won't. Today, however, I went to the Chamber because I heard that the Council was going to select someone to speak over our war-dead. They are about to see to the public funeral, you know.`,
       ],
     },
     {
-      character: MenexenusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Certainly I do. Whom did they choose?`,
       ],
     },
     {
-      character: MenexenusCharacter.Menexenus,
+      character: Character.Menexenus,
       speech: [
         `Nobody. They put if off until tomorrow. But I think Archinus or Dion will be chosen.`,
       ],
     },
     {
-      character: MenexenusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Indeed, dying in war looks like a splendid fate in many ways, Menexenus. Even if he dies a pauper, a man gets a really magnificent funeral, and even if he was of little account, he gets a eulogy too from the lips of experts, who speak not extempore but in speeches worked up long beforehand. They do their praising so splendidly that they cast a spell over our souls, attributing to each individual man, with the most varied and beautiful verbal embellishments, both praise he merits and praise he does not, extolling the city in every way, and praising the war-dead, all our ancestors before us, and us ourselves, the living. The result is, Menexenus, that I am put into an exalted frame of mind when I am praised by them. Each time, as I listen and fall under their spell, I become a different man—I'm convinced that I have become taller and nobler and better looking all of a sudden. It often happens, too, that all of a sudden I inspire greater awe in the friends from other cities who tag along and listen with me every year. For they are affected in their view of me and the rest of the city just as I am: won over by the speaker, they think the city more wonderful than they thought it before. And this high-and-mighty feeling remains with me more than three days. The speaker's words and the sound of his voice sink into my ears with so much resonance that it is only with difficulty that on the third or fourth day I recover myself and realize where I am. Until then I could imagine that I dwell in the Islands of the Blessed. That's how clever our orators are.`,
       ],
     },
     {
-      character: MenexenusCharacter.Menexenus,
+      character: Character.Menexenus,
       speech: [
         `You're forever making fun of the orators, Socrates. This time, though, I don't think that the one who's chosen is going to have an easy time of it; the selection is being made at the last minute, so perhaps the speaker will be forced practically to make his speech up as he goes.`,
       ],
     },
     {
-      character: MenexenusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Nonsense, my good man. Every one of those fellows has speeches ready-made, and, besides, even making up this kind of speech as you go isn't hard. Now if he were obliged to speak well of the Athenians among the Peloponnesians or the Peloponnesians among the Athenians, only a good orator could be persuasive and do himself credit; but when you're performing before the very people you're praising, being thought to speak well is no great feat.`,
       ],
     },
     {
-      character: MenexenusCharacter.Menexenus,
+      character: Character.Menexenus,
       speech: [
         `You think not, Socrates?`,
       ],
     },
     {
-      character: MenexenusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `No, by Zeus, it isn't.`,
       ],
     },
     {
-      character: MenexenusCharacter.Menexenus,
+      character: Character.Menexenus,
       speech: [
         `Do you think that you could deliver the speech, if that were called for, and the Council were to choose you?`,
       ],
     },
     {
-      character: MenexenusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `In fact, Menexenus, there would be nothing surprising in my being able to deliver it. I happen to have no mean teacher of oratory. She is the very woman who has produced—along with a multitude of other good ones—the one outstanding orator among the Greeks, Pericles, son of Xanthippus.`,
       ],
     },
     {
-      character: MenexenusCharacter.Menexenus,
+      character: Character.Menexenus,
       speech: [
         `What woman is that? But obviously you mean Aspasia?`,
       ],
     },
     {
-      character: MenexenusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Yes, I do—her and Connus, son of Metrobius. These are my two teachers, he of music, she of oratory. Surely it's no surprise if a man with an upbringing like that is skilled in speaking! But even someone less well educated than I—a man who learned music from Lamprus and oratory from Antiphon the Rhamnusian—even he, despite these disadvantages, could do himself credit praising Athenians among Athenians.`,
       ],
     },
     {
-      character: MenexenusCharacter.Menexenus,
+      character: Character.Menexenus,
       speech: [
         `And what would you have to say if the speech were yours to make?`,
       ],
     },
     {
-      character: MenexenusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `On my own, very likely nothing; but just yesterday in my lesson I heard Aspasia declaim a whole funeral oration on these same dead. For she heard that the Athenians, just as you say, were about to choose someone to speak. Thereupon she went through for me what the speaker ought to say, in part out of her head, in part by pasting together some bits and pieces thought up before, at the time when she was composing the funeral oration which Pericles delivered, as, in my opinion, she did.`,
       ],
     },
     {
-      character: MenexenusCharacter.Menexenus,
+      character: Character.Menexenus,
       speech: [
         `And can you remember what Aspasia said?`,
       ],
     },
     {
-      character: MenexenusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `I think I can. Certainly I was taught it by the lady herself—and I narrowly escaped a beating every time my memory failed me.`,
       ],
     },
     {
-      character: MenexenusCharacter.Menexenus,
+      character: Character.Menexenus,
       speech: [
         `So why don't you go ahead and repeat it?`,
       ],
     },
     {
-      character: MenexenusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `I'm afraid my teacher will be angry with me if I divulge her speech.`,
       ],
     },
     {
-      character: MenexenusCharacter.Menexenus,
+      character: Character.Menexenus,
       speech: [
         `Have no fear, Socrates. Speak. I shall be very grateful, whether you're pleased to recite Aspasia's speech or whosever it is. Only speak.`,
       ],
     },
     {
-      character: MenexenusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `But perhaps you will laugh at me if I seem to you, old as I am, to go on playing like a child.`,
       ],
     },
     {
-      character: MenexenusCharacter.Menexenus,
+      character: Character.Menexenus,
       speech: [
         `Not at all, Socrates. In any case, just speak the speech.`,
       ],
     },
     {
-      character: MenexenusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Well, certainly you're a man I'm so bound to gratify that I would even be inclined to do so if you asked me to take off my clothes and dance—especially since we are alone. All right, listen. To begin with she spoke, I think, on the dead themselves—as follows:`,
         `\n\n"As for deeds, these men have just received at our hands what they deserve, and with it they are making the inevitable journey, escorted at the outset communally by the city and privately by their families. Now we must render them in words the remaining recognition that the law appoints for them and duty demands. For when deeds have been bravely done, it is through an eloquent speech that remembrance and honor accrue to their doers from the hearers. Clearly, what is required is a speech that will praise the dead as they deserve but also gently admonish the living, urging their sons and brothers to imitate the valor of these men, and consoling their fathers, their mothers and any of their grandparents who may remain alive.`,
@@ -199,49 +197,49 @@ export const MenexenusHackett: Translation = {
       ],
     },
     {
-      character: MenexenusCharacter.Menexenus,
+      character: Character.Menexenus,
       speech: [
         `By Zeus, Socrates, your Aspasia is indeed lucky if, woman though she be, she can compose speeches like that one.`,
       ],
     },
     {
-      character: MenexenusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `If you doubt it, come to class with me and hear her speak.`,
       ],
     },
     {
-      character: MenexenusCharacter.Menexenus,
+      character: Character.Menexenus,
       speech: [
         `I have often talked with Aspasia, and I know what she is like, Socrates.`,
       ],
     },
     {
-      character: MenexenusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Well then, don't you admire her and aren't you grateful to her for her speech now?`,
       ],
     },
     {
-      character: MenexenusCharacter.Menexenus,
+      character: Character.Menexenus,
       speech: [
         `Yes, Socrates, I'm very grateful for that speech—to her or whoever it was who recited it to you. Furthermore, I'm grateful to him who recited it to me, for that and many other favors besides.`,
       ],
     },
     {
-      character: MenexenusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Very well, but make sure you don't give me away, so that I may report to you many fine, statesmanlike speeches from her in the future.`,
       ],
     },
     {
-      character: MenexenusCharacter.Menexenus,
+      character: Character.Menexenus,
       speech: [
         `Don't worry. I won't. Just be sure to report them.`,
       ],
     },
     {
-      character: MenexenusCharacter.Socrates,
+      character: Character.Socrates,
       speech: [
         `Yes, I'll be sure to.`,
       ],
