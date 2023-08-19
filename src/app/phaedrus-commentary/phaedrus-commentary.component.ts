@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { PhaedrusDialogue } from '../phaedrus/phaedrus-dialogue.const';
+import { PhaedrusDialogue } from '../models/dialogues/phaedrus-dialogue.const';
 
 @Component({
   selector: 'pc-phaedrus-commentary',

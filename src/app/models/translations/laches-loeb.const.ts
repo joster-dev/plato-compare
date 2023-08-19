@@ -1,5 +1,5 @@
-import { LachesCharacter } from './laches-character.enum';
-import { Translation } from '../models';
+import { LachesCharacter } from '../characters/laches-character.enum';
+import { Translation } from '..';
 
 export const LachesLoeb: Translation<LachesCharacter> = {
   translator: 'W. R. M. Lamb',

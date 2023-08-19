@@ -1,5 +1,5 @@
 import { Translation } from '..';
-import { PhaedrusCharacter } from '../../phaedrus/phaedrus-character.enum';
+import { PhaedrusCharacter } from '../characters/phaedrus-character.enum';
 
 export const PhaedrusLoeb: Translation<PhaedrusCharacter> = {
   translator: 'Harold North Fowler',

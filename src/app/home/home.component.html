@@ -5,18 +5,16 @@
   <nav>
     <ul>
       <li *ngFor="let dialogue of dialogues">
-        <jo-link link="/{{dialogue.safeTitle}}">
+        <jo-link link="/dialogue/{{dialogue.safeTitle}}">
           <div class="container">
             <div>
               <h3>
                 {{dialogue.title}}
               </h3>
             </div>
-            <ul>
-              <li *ngFor="let translation of dialogue.translations">
-                <small>{{translation.translator}}</small>
-              </li>
-            </ul>
+            <small>
+              {{dialogue.translations.length}} translation{{dialogue.translations.length === 1 ? '' : 's'}}
+            </small>
           </div>
         </jo-link>
       </li>

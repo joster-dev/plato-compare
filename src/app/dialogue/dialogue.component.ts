@@ -1,6 +1,8 @@
 import { Component, Input, HostListener, OnInit, OnDestroy } from '@angular/core';
 import { Dialogue, Storage } from '../models';
 import { Commentary } from '../models/commentary.interface';
+import { ActivatedRoute } from '@angular/router';
+import { Dialogues } from '../models/dialogues/dialogues.const';
 
 @Component({
   selector: 'pc-dialogue[model]',
@@ -8,15 +10,22 @@ import { Commentary } from '../models/commentary.interface';
   styleUrls: ['./dialogue.component.scss'],
 })
 export class DialogueComponent implements OnInit, OnDestroy {
-  @Input() model!: Dialogue<unknown>;
-
   @Input() selectedTranslation = 0;
   @Input() selectedTurn = 0;
   @Input() selectedPhrase = 0;
 
+  model!: Dialogue<unknown>;
   hasCommentary?: Commentary;
 
+  constructor(
+    private activatedRoute: ActivatedRoute,
+  ) { }
+
   ngOnInit(): void {
+    const safeName = this.activatedRoute.snapshot.paramMap.get('safeName');
+    if (safeName) {
+      this.model = Dialogues.filter(item => item.safeTitle === safeName)[0];
+    }
     const storageString = window.localStorage.getItem(`${this.model.safeTitle}`);
     if (storageString !== null) {
       const storage: Storage = JSON.parse(storageString);
