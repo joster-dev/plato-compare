@@ -9,7 +9,7 @@ import { Dialogues } from '../models/dialogues/dialogues.const';
   styleUrls: ['./commentary.component.scss'],
 })
 export class CommentaryComponent implements OnInit {
-  model!: Dialogue<unknown>;
+  model!: Dialogue;
   selectedCommentary = 0;
 
   constructor(

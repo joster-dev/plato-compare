@@ -1,7 +1,6 @@
 import { IonCharacter } from 'src/app/models/characters/ion-character.enum';
-import { Translation } from '../translation.interface';
 
-export const IonLoeb: Translation<IonCharacter> = {
+export const IonLoeb = {
   translator: 'W. R. M. Lamb',
   turns: [
     {

@@ -1,7 +1,7 @@
 import { Translation } from '..';
-import { PhaedrusCharacter } from '../characters/phaedrus-character.enum';
+import { PhaedrusCharacter } from '../characters';
 
-export const PhaedrusRobin: Translation<PhaedrusCharacter> = {
+export const PhaedrusRobin: Translation = {
   translator: 'Robin Waterfield',
   turns: [
     {

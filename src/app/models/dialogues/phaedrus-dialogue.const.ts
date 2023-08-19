@@ -1,9 +1,8 @@
 import { Dialogue } from '../dialogue.interface';
 import { PhaedrusHermias } from '../commentaries';
 import { PhaedrusLoeb, PhaedrusRobin } from '../translations';
-import { PhaedrusCharacter } from '../characters';
 
-export const PhaedrusDialogue: Dialogue<PhaedrusCharacter> = {
+export const PhaedrusDialogue: Dialogue = {
   title: 'Phaedrus',
   safeTitle: 'phaedrus',
   translations: [

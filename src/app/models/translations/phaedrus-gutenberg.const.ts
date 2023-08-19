@@ -1,7 +1,7 @@
 import { Translation } from '..';
-import { PhaedrusCharacter } from '../characters/phaedrus-character.enum';
+import { PhaedrusCharacter } from '../characters';
 
-export const PhaedrusGutenberg: Translation<PhaedrusCharacter> = {
+export const PhaedrusGutenberg: Translation = {
   translator: 'TODO',
   turns: [
     {

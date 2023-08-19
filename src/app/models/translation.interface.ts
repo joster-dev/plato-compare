@@ -1,6 +1,6 @@
 import { Turn } from './turn.interface';
 
-export interface Translation<T = unknown> {
+export interface Translation {
   translator: string;
-  turns: Turn<T>[]
+  turns: Turn[]
 }

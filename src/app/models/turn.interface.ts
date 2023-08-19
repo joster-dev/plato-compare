@@ -1,4 +1,4 @@
-export interface Turn<T> {
-  character: T;
+export interface Turn {
+  character?: string;
   speech: string[];
 }

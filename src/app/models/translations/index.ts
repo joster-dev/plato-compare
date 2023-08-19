@@ -5,3 +5,5 @@ export * from './ion-hackett.const';
 export * from './ion-loeb.const';
 export * from './menexenus-hackett.const';
 export * from './euthyphro-hackett.const';
+export * from './laches-allen.const';
+export * from './laches-loeb.const';

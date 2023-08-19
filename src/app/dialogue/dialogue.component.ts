@@ -14,7 +14,7 @@ export class DialogueComponent implements OnInit, OnDestroy {
   @Input() selectedTurn = 0;
   @Input() selectedPhrase = 0;
 
-  model!: Dialogue<unknown>;
+  model!: Dialogue;
   hasCommentary?: Commentary;
 
   constructor(

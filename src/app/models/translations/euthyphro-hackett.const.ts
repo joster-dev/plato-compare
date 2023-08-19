@@ -1,7 +1,7 @@
 import { EuthyphroCharacter } from '../characters';
 import { Translation } from '../translation.interface';
 
-export const EuthyphroHackett: Translation<EuthyphroCharacter> = {
+export const EuthyphroHackett: Translation = {
   translator: 'G.M.A. Grube',
   turns: [
     {

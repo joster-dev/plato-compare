@@ -47,8 +47,11 @@
     [hidden]="selectedTranslation !== translationIndex"
   >
     <section *ngFor="let turn of translation.turns; let turnIndex = index">
-      <span [class.highlight]="turnIndex === selectedTurn">
-        <i><b>{{turn.character}}.</b></i>
+      <span
+        *ngIf="turn.character"
+        [class.highlight]="turnIndex === selectedTurn"
+      >
+        <b>{{turn.character.toUpperCase()}}:</b>
       </span>
       <span
         *ngFor="let phrase of turn.speech; let phraseIndex = index"

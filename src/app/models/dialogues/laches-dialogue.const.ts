@@ -1,9 +1,7 @@
 import { Dialogue } from '../dialogue.interface';
-import { LachesAllen } from '../translations/laches-allen.const';
-import { LachesCharacter } from '../characters/laches-character.enum';
-import { LachesLoeb } from '../translations/laches-loeb.const';
+import { LachesAllen, LachesLoeb } from '../translations';
 
-export const LachesDialogue: Dialogue<LachesCharacter> = {
+export const LachesDialogue: Dialogue = {
   title: 'Laches',
   safeTitle: 'laches',
   translations: [

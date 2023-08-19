@@ -1,9 +1,9 @@
 import { Commentary } from './commentary.interface';
 import { Translation } from './translation.interface';
 
-export interface Dialogue<T = unknown> {
+export interface Dialogue {
   title: string;
   safeTitle: string;
-  translations: Translation<T>[];
+  translations: Translation[];
   commentaries: Commentary[];
 }

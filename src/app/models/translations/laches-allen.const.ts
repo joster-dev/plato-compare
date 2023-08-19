@@ -1,7 +1,7 @@
 import { LachesCharacter } from '../characters/laches-character.enum';
 import { Translation } from '..';
 
-export const LachesAllen: Translation<LachesCharacter> = {
+export const LachesAllen: Translation = {
   translator: 'R. E. Allen',
   turns: [
     {

@@ -1,7 +1,7 @@
 import { IonCharacter } from 'src/app/models/characters/ion-character.enum';
 import { Translation } from '../translation.interface';
 
-export const IonHackett: Translation<IonCharacter> = {
+export const IonHackett: Translation = {
   translator: 'Paul Woodruff',
   turns: [
     {

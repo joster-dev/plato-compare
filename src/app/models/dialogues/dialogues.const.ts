@@ -1,3 +1,4 @@
+import { EuthyphroDialogue } from './euthyphro-dialogue.const';
 import { IonDialogue } from './ion-dialogue.const';
 import { LachesDialogue } from './laches-dialogue.const';
 import { MenexenusDialogue } from './menexenus-dialogue.const';
@@ -8,4 +9,5 @@ export const Dialogues = [
   LachesDialogue,
   PhaedrusDialogue,
   MenexenusDialogue,
+  EuthyphroDialogue,
 ];

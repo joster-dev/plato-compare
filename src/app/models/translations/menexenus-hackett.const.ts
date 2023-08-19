@@ -2,7 +2,7 @@ import { MenexenusCharacter } from '../characters';
 import { Translation } from '../translation.interface';
 
 
-export const MenexenusHackett: Translation<MenexenusCharacter> = {
+export const MenexenusHackett: Translation = {
   translator: 'Paul Ryan',
   turns: [
     {
