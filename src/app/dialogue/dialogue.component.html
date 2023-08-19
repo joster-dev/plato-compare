@@ -16,26 +16,28 @@
     </jo-link>
     <jo-link
       *ngIf="hasCommentary"
-      [link]="['/{{model.safeTitle}}-commentary', selectedTurn, selectedPhrase]"
+      link="/commentary/{{model.safeTitle}}"
     >
       Commentary
     </jo-link>
-    <jo-button
-      title="Previous Translation"
-      [isDisabled]="selectedTranslation === 0"
-      [borderRadiusRight]="false"
-      (onClick)="selectedTranslation = selectedTranslation - 1"
-    >
-      Prev
-    </jo-button>
-    <jo-button
-      title="Next Translation"
-      [isDisabled]="selectedTranslation === model.translations.length - 1"
-      [borderRadiusLeft]="false"
-      (onClick)="selectedTranslation = selectedTranslation + 1"
-    >
-      Next
-    </jo-button>
+    <ng-container *ngIf="model.translations.length > 1">
+      <jo-button
+        title="Previous Translation"
+        [isDisabled]="selectedTranslation === 0"
+        [borderRadiusRight]="false"
+        (onClick)="selectedTranslation = selectedTranslation - 1"
+      >
+        Prev
+      </jo-button>
+      <jo-button
+        title="Next Translation"
+        [isDisabled]="selectedTranslation === model.translations.length - 1"
+        [borderRadiusLeft]="false"
+        (onClick)="selectedTranslation = selectedTranslation + 1"
+      >
+        Next
+      </jo-button>
+    </ng-container>
   </div>
 </header>
 

@@ -8,7 +8,6 @@ import { HomeComponent } from './home/home.component';
 import { DialogueComponent } from './dialogue/dialogue.component';
 import { FormsModule } from '@angular/forms';
 import { CommentaryComponent } from './commentary/commentary.component';
-import { PhaedrusCommentaryComponent } from './phaedrus-commentary/phaedrus-commentary.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +15,6 @@ import { PhaedrusCommentaryComponent } from './phaedrus-commentary/phaedrus-comm
     HomeComponent,
     DialogueComponent,
     CommentaryComponent,
-    PhaedrusCommentaryComponent,
   ],
   imports: [
     BrowserModule,
