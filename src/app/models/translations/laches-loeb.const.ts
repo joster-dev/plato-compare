@@ -20,7 +20,7 @@ export const LachesLoeb: Translation = {
         `but begin forthwith taking every possible care of them.`,
         `Now, knowing that you too have sons, we thought that you above all men must have concerned yourselves with the question of the kind of upbringing that would make the best of them;`,
         `and if by any chance you have not given your attention to the subject, we would remind you that it ought not to be neglected,`,
-        `and we invite you to join us in arranging some way of taking care of our sons.\n`,
+        `and we invite you to join us in arranging some way of taking care of our sons.`,
         `How we formed this resolve, Nicias and Laches, is worth hearing, even though the story be somewhat long.`,
         `My friend Melesias and I take our meals together, and our boys share our table.`,
         `Now, as I said at the beginning of my remarks, we are going to speak quite freely to you.`,

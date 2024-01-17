@@ -7,3 +7,4 @@ export * from './menexenus-hackett.const';
 export * from './euthyphro-hackett.const';
 export * from './laches-allen.const';
 export * from './laches-loeb.const';
+export * from './laches-greek.const';

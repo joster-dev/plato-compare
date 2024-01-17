@@ -1,5 +1,5 @@
 import { Dialogue } from '../dialogue.interface';
-import { LachesAllen, LachesLoeb } from '../translations';
+import { LachesAllen, LachesGreek, LachesLoeb } from '../translations';
 
 export const LachesDialogue: Dialogue = {
   title: 'Laches',
@@ -7,6 +7,7 @@ export const LachesDialogue: Dialogue = {
   translations: [
     LachesLoeb,
     LachesAllen,
+    LachesGreek,
   ],
   commentaries: [],
 };
